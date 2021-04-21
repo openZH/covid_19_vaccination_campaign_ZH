@@ -1,7 +1,7 @@
 
 <img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
 
-# Sars-Cov-2 Vaccination Registraiona
+# Sars-Cov-2 Vaccination Registration
 
 
 __DE__ : Dieses Repository enthält einen Datensatz...
