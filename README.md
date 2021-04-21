@@ -8,16 +8,10 @@ __DE__ : Dieses Repository enthält einen Datensatz...
 
 __EN__ : This repository contains a dataset of adresses and coordinates of locations in the Canton of Zurich where Sars-Cov-2 vaccinations are given. 
 
-| Field Name    | Description DE | Description EN | 
-|---------------------|--------------------------------------------|---|
-|    __Art__      | | | 
-|    __Name__    | | | 
-|    __street__  | | | 
-|    __postalcode__      | | | 
-|    __city__      | | | 
-|    __lat__      | | | 
-|    __long__      | | | 
-|    __Webseite__      | | | 
-|    __Oeffnungszeiten__      | | | 
+
+| Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
+|---------------------|--------------------------------------------|------------|------|
+| __Week__  | Kalenderwoche| Calendar week |Zahl|
+| __Year__  | Jahr | Year |Zahl|
 
 
