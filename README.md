@@ -32,6 +32,18 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
 | __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
+3. Berufe
+
+2. Altersklassen 
+
+| Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
+|---------------------|--------------------------------------------|------------|------|
+| __Week__  | Kalenderwoche| Calendar week |Zahl|
+| __Year__  | Jahr | Year |Zahl|
+| __Occupation__  | Berufskategorien gemäss Impfkampagne |  ||
+| __fullvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
+| __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
+| __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
 
 
