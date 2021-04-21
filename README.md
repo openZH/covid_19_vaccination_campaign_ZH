@@ -10,7 +10,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 
 
-1. Datensatz mit Gesamtzahlen 
+### 1. Datensatz mit Gesamtzahlen 
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
@@ -21,7 +21,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
 
-2. Altersklassen 
+### 2. Altersklassen 
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
@@ -32,9 +32,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
 | __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
-3. Berufe
-
-2. Altersklassen 
+### 3. Berufe
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
