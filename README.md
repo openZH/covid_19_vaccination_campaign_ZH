@@ -1,10 +1,10 @@
 
 <img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
 
-# Sars-Cov-2 Vaccination Locations in the Canton of Zurich
+# Sars-Cov-2 Vaccination Registraiona
 
 
-__DE__ : Dieses Repository enthält einen Datensatz mit Adressen und Koordinaten von Orten im Kanton Zürich, an denen Sars-Cov-2-Impfungen vorgenommen werden. Achtung: Die Öffnungszeiten können sich laufend ändern. Bitte konsultieren Sie zur Sicherheit die Webseite des Impfzentrums.  
+__DE__ : Dieses Repository enthält einen Datensatz...
 
 __EN__ : This repository contains a dataset of adresses and coordinates of locations in the Canton of Zurich where Sars-Cov-2 vaccinations are given. 
 
