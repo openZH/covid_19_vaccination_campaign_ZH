@@ -3,10 +3,10 @@
 
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
-This repository contains open government data ressources of the Sars-Cov-2 vaccination campaign in the Canton of Zurich conducted by the Department of Health of the Canton of Zurich. It is a supplement to the data provided via the Federal Office of Public Health (FOPH):
-* FOPH's covid19.admin.ch dashboard, vaccine doses (filtered by ZH): https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=ZH#showDetail
-* FOPH's covid19.admin.ch API: https://www.covid19.admin.ch/api/data/context
-Data provided in this repository and via FOPH may differ due to different collection and publication dates as well as retroactive corrections.
+This repository contains open government data ressources of the Sars-Cov-2 vaccination campaign in the Canton of Zurich conducted by the Department of Health of the Canton of Zurich. It is a supplement to the data provided via the Federal Office of Public Health (FOPH): <br>
+- [FOPH's covid19.admin.ch dashboard, vaccine doses (filtered by ZH)](https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=ZH#showDetail) <br>
+- [FOPH's covid19.admin.ch API](https://www.covid19.admin.ch/api/data/context) <br>
+The data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections.
 
 Data ressources in this repository are updated daily (on weekdays) by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich.
 
@@ -15,7 +15,7 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
-### 1. Datensatz mit Gesamtzahlen 
+## 1. Datensatz mit Gesamtzahlen 
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
@@ -26,7 +26,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_registered__  | Anzahl Personen die bis zum Stichtag registriert haben|  |Zahl|
 
 
-### 2. Datensatz nach Altersklassen und Impfgruppen
+## 2. Datensatz nach Altersklassen und Impfgruppen
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
