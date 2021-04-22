@@ -23,15 +23,15 @@ The data ressources in this repository are a supplement to the official Sars-Cov
 __Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 
 
-## 1. Datensatz mit Gesamtzahlen 
+## Canton of Zurich: Summarised ressource / Zusammengefasste Ressource
 
-| Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
-|---------------------|--------------------------------------------|------------|------|
-| __date__  | Stichtag |  |YYYY-MM-DD|
-| __time__  | Publikationszeitpunkt (Uhrzeit)  |  |HH:MM|
-| __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
-| __ncumul_firstvacc__  | Anzahl Personen die bis zum Stichtag die erste Impfung erhalten haben |  |Zahl|
-| __ncumul_registered__  | Anzahl Personen die bis zum Stichtag registriert haben|  |Zahl|
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
+| __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number |
+|                         |                              |                               |            |
 
 
 ## 2. Datensatz nach Altersklassen und Impfgruppen
@@ -39,7 +39,6 @@ __Please note:__ Data provided in this repository and via the FOPH may differ du
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
 | __date__  | Stichtag|  |YYYY-MM-DD|
-| __time__  | Publikationszeitpunkt (Uhrzeit) |  |HH:MM|
 | __vaccgroup_ZH__  | Gruppen gemäss Impfkampagne (ZH)  |  ||
 | __agecat__  | Altersklassen gemäss Impfkampagne (BAG) : 18-49,50-64, 65-74, ü75|  ||
 | __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
