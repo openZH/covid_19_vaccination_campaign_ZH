@@ -17,7 +17,8 @@ The data ressources in this repository are a supplement to the official Sars-Cov
 - [FOPH's covid19.admin.ch dashboard](https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=ZH#showDetail), vaccine doses (filtered by ZH) <br>
 - [FOPH's covid19.admin.ch API](https://www.covid19.admin.ch/api/data/context) <br>
 
-__Please note:__ The data ressources provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections.
+__Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
+
 
 ## 1. Datensatz mit Gesamtzahlen 
 
