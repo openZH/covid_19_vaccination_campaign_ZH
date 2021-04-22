@@ -13,10 +13,10 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Date__  | Datum |  |YYYY-MM-DD|
-| __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
-| __Firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
+| __date__  | Datum |  |YYYY-MM-DD|
+| __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
+| __ncumul_firstvacc__  | Anzahl Personen die bis zum Stichtag die erste Impfung erhalten haben |  |Zahl|
+| __ncumul_registered__  | Anzahl Personen die bis zum Stichtag registriert haben|  |Zahl|
 
 
 ### 2. Datensatz nach Altersklassen und Impfgruppen
@@ -26,6 +26,6 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __Date__  | Datum|  |YYYY-MM-DD|
 | __VaccGroup__  | Gruppen gemäss Impfkampagne (ZH)  |  ||
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (BAG) : 18-49,50-64, 65-74, ü75|  ||
-| __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
-| __Firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
+| __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
+| __ncumul_firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
+| __ncumul_registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
