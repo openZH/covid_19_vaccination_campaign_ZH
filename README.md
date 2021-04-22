@@ -25,6 +25,15 @@ __Please note:__ Data provided in this repository and via the FOPH may differ du
 
 ## Canton of Zurich: Summarised ressource / Zusammengefasste Ressource
 
+**Data** <br>
+
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_summarised_example.csv** <br>
+>*Description:* __Example file__ of summarised numbers per day <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
