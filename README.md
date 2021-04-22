@@ -10,7 +10,7 @@ This repository contains open government data ressources of the Sars-Cov-2 vacci
 The data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections.
 
 Data ressources in this repository are updated daily (on weekdays) by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich. If you have questions regarding this repository, please contact the Specialist Unit for Open Government Data of the Canton of Zurich: <br>
-- https://twitter.com/OpenDataZH <br>
+- [twitter.com/OpenDataZH](https://twitter.com/OpenDataZH) <br>
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
