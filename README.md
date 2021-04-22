@@ -48,7 +48,7 @@ __Please note:__ Data provided in this repository and via the FOPH may differ du
 **Data** <br>
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
->*Description:* __Example file__ of detailed numbers per day, vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine (brand) <br>
+>*Description:* __Example file__ of detailed numbers per day, vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -58,10 +58,10 @@ __Please note:__ Data provided in this repository and via the FOPH may differ du
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
 | __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Text |
-| __ageclass___           | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
-| __gender___             | Gender (..)                  | Geschlecht (..)               | Text       |
-| __residence___          | Canton of residence (abbreviation of canton, 'andere' for foreigners without residence, or 'unbekannt') | Wohnkanton (Kantonskürzel, 'andere' für Personen ohne Wohnsitz in der Schweiz) oder 'unbekannt' | Text       |
-| __vaccplace_zh___       | Place (type) of vaccination ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' or 'andere') |     | Text       |
+| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
+| __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
+| __residence__           | Canton of residence (abbreviation of canton, 'andere' for foreigners without residence, or 'unbekannt') | Wohnkanton (Kantonskürzel, 'andere' für Personen ohne Wohnsitz in der Schweiz) oder 'unbekannt' | Text       |
+| __vaccplace_zh__        | Place (type) of vaccination ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' or 'andere') | Ort (Typ) der Impfung ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' oder 'anderer') | Text       |
 
 | __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number |
