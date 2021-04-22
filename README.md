@@ -23,7 +23,7 @@ The data ressources in this repository are a supplement to the official Sars-Cov
 __Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 
 
-## Canton of Zurich: Summarised ressource / Zusammengefasste Ressource
+## 1. Canton of Zurich: Summarised ressource / Zusammengefasste Ressource
 
 **Data** <br>
 
@@ -43,11 +43,24 @@ __Please note:__ Data provided in this repository and via the FOPH may differ du
 |                         |                              |                               |            |
 
 
-## 2. Datensatz nach Altersklassen und Impfgruppen
+## 2. Canton of Zurich: Detailed ressource / Detailierte Ressource
 
-| Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
-|---------------------|--------------------------------------------|------------|------|
-| __date__  | Stichtag|  |YYYY-MM-DD|
+**Data** <br>
+
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
+>*Description:* __Example file__ of detailed numbers per day, vaccination group, age class, gender, canton or country of residence, place (type) of vaccination, vaccine (brand) <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
+| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Text |
+
+
+
 | __vaccgroup_ZH__  | Gruppen gemäss Impfkampagne (ZH)  |  ||
 | __agecat__  | Altersklassen gemäss Impfkampagne (BAG) : 18-49,50-64, 65-74, ü75|  ||
 | __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
