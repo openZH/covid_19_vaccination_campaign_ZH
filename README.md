@@ -36,7 +36,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Date_  | Datum| Calendar week |Zahl|
+| __Date__  | Datum| Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
 | __Occupation__  | Berufskategorien gemäss Impfkampagne |  ||
 | __fullvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
