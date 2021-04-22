@@ -23,7 +23,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Date__  | Datum| YYYY-MM-DD ||
+| __Date__  | Datum|  |YYYY-MM-DD|
 | __VaccGroup__  | Gruppen gemäss Impfkampagne |  ||
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
 | __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
