@@ -13,8 +13,8 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __date__  | Datum | Stichtag |YYYY-MM-DD|
-| __time__  | Time | Publikationszeitpunkt (Uhrzeit) |HH:MM|
+| __date__  | Stichtag |  |YYYY-MM-DD|
+| __time__  | Publikationszeitpunkt (Uhrzeit)  |  |HH:MM|
 | __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
 | __ncumul_firstvacc__  | Anzahl Personen die bis zum Stichtag die erste Impfung erhalten haben |  |Zahl|
 | __ncumul_registered__  | Anzahl Personen die bis zum Stichtag registriert haben|  |Zahl|
@@ -24,8 +24,8 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __date__  | Datum| Stichtag |YYYY-MM-DD|
-| __time__  | Time | Publikationszeitpunkt (Uhrzeit) |HH:MM|
+| __date__  | Stichtag|  |YYYY-MM-DD|
+| __time__  | Publikationszeitpunkt (Uhrzeit) |  |HH:MM|
 | __vaccgroup_ZH__  | Gruppen gemäss Impfkampagne (ZH)  |  ||
 | __agecat__  | Altersklassen gemäss Impfkampagne (BAG) : 18-49,50-64, 65-74, ü75|  ||
 | __ncumul_secondvacc__  | Anzahl Personen die bis zum Stichtag die zweite Impfung erhalten haben |  |Zahl|
