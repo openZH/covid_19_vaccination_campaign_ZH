@@ -14,9 +14,9 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Week__  | Kalenderwoche| Calendar week |Zahl|
+| __Date__  | Datum | Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
-| __fullvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
+| __secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
 | __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
 | __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
@@ -25,18 +25,18 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Week__  | Kalenderwoche| Calendar week |Zahl|
+| __Date__  | Datum| Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
 | __fullvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
 | __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
 | __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
-### 3. Berufe
+### 3. Impfgruppen
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
-| __Week__  | Kalenderwoche| Calendar week |Zahl|
+| __Date_  | Datum| Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
 | __Occupation__  | Berufskategorien gemäss Impfkampagne |  ||
 | __fullvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
