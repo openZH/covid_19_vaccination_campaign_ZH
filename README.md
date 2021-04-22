@@ -1,13 +1,11 @@
 
 <img src="https://github.com/openZH/covid_19/blob/master/gd.png" alt="GD-logo" width="200"/>
 
-# Sars-Cov-2 Vaccination Registration
+# Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
+__EN__ : This repository contains open data ressources of Covid of the Canton of Zurich where Sars-Cov-2 vaccinations are given. 
 
 __DE__ : Dieses Repository enthält einen Datensatz...
-
-__EN__ : This repository contains a dataset of adresses and coordinates of locations in the Canton of Zurich where Sars-Cov-2 vaccinations are given. 
-
 
 ### 1. Datensatz mit Gesamtzahlen 
 
