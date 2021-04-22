@@ -9,39 +9,23 @@ __DE__ : Dieses Repository enthält einen Datensatz...
 __EN__ : This repository contains a dataset of adresses and coordinates of locations in the Canton of Zurich where Sars-Cov-2 vaccinations are given. 
 
 
-
 ### 1. Datensatz mit Gesamtzahlen 
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
 | __Date__  | Datum | Calendar week |Zahl|
-| __Year__  | Jahr | Year |Zahl|
-| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind |  |Zahl|
+| __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
+| __Firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
+| __Registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
 
 
-### 2. Altersklassen 
+### 2. Datensatz nach Altersklassen und Impfgruppen
 
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
 | __Date__  | Datum| Calendar week |Zahl|
-| __Year__  | Jahr | Year |Zahl|
+| __VaccGroup__  | Gruppen gemäss Impfkampagne |  ||
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
-| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind |  |Zahl|
-
-### 3. Impfgruppen
-
-| Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
-|---------------------|--------------------------------------------|------------|------|
-| __Date__  | Datum| Calendar week |Zahl|
-| __Year__  | Jahr | Year |Zahl|
-| __Occupation__  | Gruppen gemäss Impfkampagne |  ||
-| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | |Zahl|
-
-
-
+| __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
+| __Firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
+| __Registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
