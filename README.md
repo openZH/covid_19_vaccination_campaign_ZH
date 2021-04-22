@@ -18,7 +18,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __Year__  | Jahr | Year |Zahl|
 | __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
 | __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind |  |Zahl|
 
 
 ### 2. Altersklassen 
@@ -30,7 +30,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
 | __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
 | __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind |  |Zahl|
 
 ### 3. Impfgruppen
 
@@ -41,7 +41,7 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __Occupation__  | Gruppen gemäss Impfkampagne |  ||
 | __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
 | __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | |Zahl|
 
 
 
