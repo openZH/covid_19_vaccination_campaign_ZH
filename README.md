@@ -16,9 +16,9 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 |---------------------|--------------------------------------------|------------|------|
 | __Date__  | Datum | Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
-| __secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
+| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
 
 ### 2. Altersklassen 
@@ -28,9 +28,9 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __Date__  | Datum| Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
 | __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
-| __secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
+| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
 ### 3. Impfgruppen
 
@@ -39,9 +39,9 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | __Date__  | Datum| Calendar week |Zahl|
 | __Year__  | Jahr | Year |Zahl|
 | __Occupation__  | Gruppen gemäss Impfkampagne |  ||
-| __secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
-| __firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
-| __registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
+| __Secondvacc__  | Anzahl Personen welche vollständig geeimpft sind |  |Zahl|
+| __Firstvacc__  | Anzahl Personen welche die erste Impfdosis erhalten haben |  |Zahl|
+| __Registered__  | Anzahl Personen welche sich registriert haben aber noch nicht geimpft sind | Year |Zahl|
 
 
 
