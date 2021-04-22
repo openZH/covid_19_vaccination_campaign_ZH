@@ -24,8 +24,8 @@ __EN__ : This repository contains a dataset of adresses and coordinates of locat
 | Spaltenname / Fieldname      | Beschreibung (DE)                               | Description (EN)   | Format |
 |---------------------|--------------------------------------------|------------|------|
 | __Date__  | Datum|  |YYYY-MM-DD|
-| __VaccGroup__  | Gruppen gemäss Impfkampagne |  ||
-| __AgeClass__  | Altersklassen gemäss Impfkampagne (18-49,50-64, 65-74. ü75) |  ||
+| __VaccGroup__  | Gruppen gemäss Impfkampagne (ZH)  |  ||
+| __AgeClass__  | Altersklassen gemäss Impfkampagne (BAG) : 18-49,50-64, 65-74, ü75|  ||
 | __Secondvacc__  | Anzahl Personen die an dem Datum die zweite Impfung erhalten haben |  |Zahl|
 | __Firstvacc__  | Anzahl Personen die an dem Datum die erste Impfung erhalten haben |  |Zahl|
 | __Registered__  | Anzahl Personen welche sich an dem Datum registriert haben aber noch nicht geimpft sind |  |Zahl|
