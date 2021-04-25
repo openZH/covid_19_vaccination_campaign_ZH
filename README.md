@@ -52,7 +52,7 @@ If you have questions regarding this repository, please contact the Specialist U
 **Data** <br>
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
->*Description:* __Example file__ of detailed numbers per day (registrations, 1st vaccination, 2nd vaccination), vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
+>*Description:* __Example file__ of detailed numbers per day (1st vaccination, 2nd vaccination), vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
