@@ -47,7 +47,7 @@ If you have questions regarding this repository, please contact the Specialist U
 |                         |                              |                               |            |
 
 
-## 2. Canton of Zurich: Detailed ressource / Detailierte Ressource
+## 2. Canton of Zurich: Detailed ressource vaccinations / Detailierte Ressource Impfungen
 
 **Data** <br>
 
