@@ -67,7 +67,6 @@ If you have questions regarding this repository, please contact the Specialist U
 | __residence__           | Canton of residence (abbreviation of canton, 'andere' for foreigners without residence, or 'unbekannt') | Wohnkanton (Kantonskürzel, 'andere' für Personen ohne Wohnsitz in der Schweiz) oder 'unbekannt' | Text       |
 | __vaccplace_zh__        | Place (type) of vaccination ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' or 'andere') | Ort (Typ) der Impfung ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' oder 'anderer') | Text       |
 | __vacccode__            | Vaccine code (Global Trade Item Number, GTIN) | Impfstoff Code (Global Trade Item Number, GTIN) | Text       |
-| __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number     |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 |                         |                              |                               |            |
