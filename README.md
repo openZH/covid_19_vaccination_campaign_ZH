@@ -6,7 +6,7 @@
 
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
-**Scope** <br>
+### Scope
 This repository contains official open government data ressources of the Sars-Cov-2 vaccination campaign __in the Canton of Zurich__ conducted by the Department of Health of the Canton of Zurich.
 
 The data ressources in this repository are a supplement to the official Sars-Cov-2 Vaccination Campaign indicators and data, which Swiss Cantons and the Principality of Liechtenstein are providing via the Federal Office of Public Health (FOPH): <br>
@@ -15,10 +15,12 @@ The data ressources in this repository are a supplement to the official Sars-Cov
 
 __Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 
-**Update** <br>
+### Update
 Data ressources in this repository are updated once a day (on weekdays) by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich.
 
 All (i.e. retroactive) data corrections are made transparent with each update (see [last commit](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)).
+
+### Contact
 
 If you have questions regarding this repository, please contact the Specialist Unit for Open Government Data of the Canton of Zurich: <br>
 - [twitter.com/OpenDataZH](https://twitter.com/OpenDataZH) <br>
