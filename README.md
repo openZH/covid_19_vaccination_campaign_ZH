@@ -47,7 +47,29 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 2. Canton of Zurich: Detailed resource vaccinations / Detailierte Ressource Impfungen
+## 2. Canton of Zurich: Vaccinations per date, age group, gender, vaccine / Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
+
+**Data** <br>
+
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_vaccgroup_example.csv** <br>
+>*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender, vaccine <br>
+>*Update frequency:* daily (on weekdays) <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
+| __ageclass__            | 10-year age classes ('0_9', '10_19', '20_29', .., '80plus') | 10-Jahres-Altersklassen ('0_9', '10_19', '20_29', .., '80plus') | Text |
+| __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
+| __vaccine__             | Vaccine and its producer ('Comirnaty_PfizerBioNTech', 'Covid19Vaccine_Moderna', ..) | Impfstoff und sein Hersteller ('Comirnaty_PfizerBioNTech', 'Covid19Vaccine_Moderna', ..) | Text       |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
+
+
+## 0. Canton of Zurich: Detailed resource vaccinations / Detailierte Ressource Impfungen
 
 **Data** <br>
 
