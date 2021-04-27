@@ -27,13 +27,13 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
-## 1. Canton of Zurich: Summarised resource / Zusammengefasste Ressource
+## 1. Canton of Zurich: Vaccinations per date and vaccination group / Impfungen pro Datum und Impfgruppe
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_summarised_example.csv** <br>
->*Description:* __Example file__ of summarised numbers per day <br>
->*Update frequency:* daily (on weekdays)
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_vaccgroup_example.csv** <br>
+>*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
+>*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -42,10 +42,9 @@ If you have questions regarding this repository, please contact the Specialist U
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
-| __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
-| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number |
-| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number |
-|                         |                              |                               |            |
+| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Text |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
 ## 2. Canton of Zurich: Detailed resource vaccinations / Detailierte Ressource Impfungen
@@ -54,7 +53,7 @@ If you have questions regarding this repository, please contact the Specialist U
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers per day (1st vaccination, 2nd vaccination), vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
->*Update frequency:* weekly (weekday *yet to be defined*)
+>*Update frequency:* weekly (weekday *yet to be defined*) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -72,3 +71,8 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 |                         |                              |                               |            |
+
+
+
+
+| __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
