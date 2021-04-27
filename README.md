@@ -27,7 +27,7 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
-## 1. Vaccinations per date and vaccination group / Impfungen pro Datum und Impfgruppe
+## 1. Number of vaccinations per date and vaccination group / Anzahl Impfungen pro Datum und Impfgruppe
 
 **Data** <br>
 
@@ -47,11 +47,11 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 2. Vaccinations per date, age group, gender, vaccine / Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
+## 2. Number of vaccinations per date, age group, gender, vaccine / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_vaccgroup_example.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_agegroup_gender_vaccine_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender, vaccine <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
@@ -69,13 +69,13 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 0. Detailed resource vaccinations / Detailierte Ressource Impfungen
+## 3. Number of vaccinations per calendar week and residence / Anzahl Impfungen pro Kalenderwoche und Wohnsitz
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
->*Description:* __Example file__ of detailed numbers per day (1st vaccination, 2nd vaccination), vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
->*Update frequency:* weekly (weekday *yet to be defined*) <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence.csv** <br>
+>*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
+>*Update frequency:* weekly (weekday *to be defined*) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -84,17 +84,32 @@ If you have questions regarding this repository, please contact the Specialist U
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
-| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung.html#-72400422) | Text |
-| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
-| __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
-| __residence__           | Canton of residence (abbreviation of canton, 'andere' for foreigners without residence, or 'unbekannt') | Wohnkanton (Kantonskürzel, 'andere' für Personen ohne Wohnsitz in der Schweiz) oder 'unbekannt' | Text       |
-| __vaccplace_zh__        | Place (type) of vaccination ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' or 'andere') | Ort (Typ) der Impfung ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' oder 'anderer') | Text       |
-| __vacccode__            | Vaccine code (Global Trade Item Number, GTIN) | Impfstoff Code (Global Trade Item Number, GTIN) | Text       |
+| __residence__           | Residence (Canton 'ZH', Neighbouring Cantons 'Nachbarkantone', other 'andere', unknown 'unbekannt') | Wohnsitz (Kanton 'ZH', 'Nachbarkantone', 'andere', 'unbekannt') | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-|                         |                              |                               |            |
+
+
+## 4. Number of vaccinations per calendar week and residence / Anzahl Impfungen pro Kalenderwoche und Wohnsitz
+
+**Data** <br>
+
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence.csv** <br>
+>*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
+>*Update frequency:* weekly (weekday *to be defined*) <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
+| __residence__           | Residence (Canton 'ZH', Neighbouring Cantons 'Nachbarkantone', other 'andere', unknown 'unbekannt') | Wohnsitz (Kanton 'ZH', 'Nachbarkantone', 'andere', 'unbekannt') | Text       |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
 
 
 | __ncumul_registered__   | Number of people who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
+| __vaccplace_zh__        | Place (type) of vaccination ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' or 'andere') | Ort (Typ) der Impfung ('Impfzentrum', 'Alters_und_Pflegeheim, 'Arztpraxis', 'Apotheke', 'Spital' oder 'anderer') | Text       |
