@@ -27,7 +27,7 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
-## 1. Canton of Zurich: Vaccinations per date and vaccination group / Impfungen pro Datum und Impfgruppe
+## 1. Vaccinations per date and vaccination group / Impfungen pro Datum und Impfgruppe
 
 **Data** <br>
 
@@ -47,7 +47,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 2. Canton of Zurich: Vaccinations per date, age group, gender, vaccine / Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
+## 2. Vaccinations per date, age group, gender, vaccine / Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
 
 **Data** <br>
 
@@ -69,7 +69,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 0. Canton of Zurich: Detailed resource vaccinations / Detailierte Ressource Impfungen
+## 0. Detailed resource vaccinations / Detailierte Ressource Impfungen
 
 **Data** <br>
 
