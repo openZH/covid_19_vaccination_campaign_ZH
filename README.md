@@ -89,11 +89,11 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 4. Number of vaccinations per calendar week and residence / Anzahl Impfungen pro Kalenderwoche und Wohnsitz
+## 4. Registered and vaccinated share of population per date, age group / Registrierter und geimpfter Anteil der Bevölkerung pro Datum, Altersklasse
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_share_population.csv** <br>
 >*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
 >*Update frequency:* weekly (weekday *to be defined*) <br>
 >*Spatial unit:* Canton of Zurich <br>
