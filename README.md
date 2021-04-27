@@ -7,16 +7,16 @@
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
 ### Scope
-This repository contains official open government data ressources of the Sars-Cov-2 vaccination campaign __in the Canton of Zurich__ conducted by the Department of Health of the Canton of Zurich.
+This repository contains official open government data resources of the Sars-Cov-2 vaccination campaign __in the Canton of Zurich__ conducted by the Department of Health of the Canton of Zurich.
 
-The data ressources in this repository are a supplement to the official Sars-Cov-2 Vaccination Campaign indicators and data, which Swiss Cantons and the Principality of Liechtenstein are providing via the Federal Office of Public Health (FOPH): <br>
+The data resources in this repository are a supplement to the official Sars-Cov-2 Vaccination Campaign indicators and data, which Swiss Cantons and the Principality of Liechtenstein are providing via the Federal Office of Public Health (FOPH): <br>
 - [FOPH's covid19.admin.ch dashboard](https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=ZH#showDetail), vaccine doses (filtered by ZH) <br>
 - [FOPH's covid19.admin.ch API](https://www.covid19.admin.ch/api/data/context) <br>
 
 __Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 
 ### Update
-Data ressources in this repository are updated once a day (on weekdays) by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich.
+Data resources in this repository are updated on weekdays by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich according to the specification in their description (a) once a day respectively (b) once per week.
 
 All (i.e. retroactive) data corrections are made transparent with each update (see [last commit](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)).
 
@@ -27,12 +27,13 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 
-## 1. Canton of Zurich: Summarised ressource / Zusammengefasste Ressource
+## 1. Canton of Zurich: Summarised resource / Zusammengefasste Ressource
 
 **Data** <br>
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_summarised_example.csv** <br>
 >*Description:* __Example file__ of summarised numbers per day <br>
+>*Update frequency:* daily (on weekdays)
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -47,12 +48,13 @@ If you have questions regarding this repository, please contact the Specialist U
 |                         |                              |                               |            |
 
 
-## 2. Canton of Zurich: Detailed ressource vaccinations / Detailierte Ressource Impfungen
+## 2. Canton of Zurich: Detailed resource vaccinations / Detailierte Ressource Impfungen
 
 **Data** <br>
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_detailed_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers per day (1st vaccination, 2nd vaccination), vaccination group, age class, gender, canton of residence, place (type) of vaccination, vaccine code (Global Trade Item Number, GTIN) <br>
+>*Update frequency:* weekly (weekday *yet to be defined*)
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
