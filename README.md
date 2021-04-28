@@ -5,7 +5,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
 ### Status 
-Example files (CSV resources), data structures and variable definitions below listed are __under review__. To share your feedback, please create an issue, and we get back to you. Many thanks! <br>
+Example files (CSV resources), data structures and variable definitions below listed are __under review__. To share your feedback, please check the [issues](https://github.com/openZH/covid_19_vaccination_campaign_ZH/issues), and create a 'new issue'. Many thanks! <br>
 <br>
 Publication of CSV resources with real data is planned to __start together with the go-live of Canton Zurich's vaccination administration software__. There is no date announced at the moment.
 
