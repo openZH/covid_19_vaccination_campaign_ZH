@@ -4,6 +4,10 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
+### Status 
+Example files (CSV resources), data structures and variable definitions below listed are under review. To share your feedback, please create an issue, and we get back to you. Many thanks! <br>
+Publication of CSV resources with real data is announced to start together with the go-live of Canton Zurich's vaccination administration software. There is no date available at the moment.
+
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
 ### Scope
