@@ -1,0 +1,2 @@
+date,ageclass,gender,vaccine,ncumul_firstvacc,ncumul_secondvacc
+2020-02-27,80plus,m,Covid19Vaccine_Moderna,31,5
