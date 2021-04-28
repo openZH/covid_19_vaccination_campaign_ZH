@@ -73,7 +73,7 @@ If you have questions regarding this repository, please contact the Specialist U
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
 >*Update frequency:* weekly (weekday *to be defined*) <br>
 >*Spatial unit:* Canton of Zurich <br>
@@ -95,7 +95,7 @@ If you have questions regarding this repository, please contact the Specialist U
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_popshare_agegroup_gender.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_popshare_agegroup_gender_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers (registrations, 1st vaccination, 2nd vaccination) and population shares (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
@@ -120,7 +120,7 @@ If you have questions regarding this repository, please contact the Specialist U
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_share_popshare_vaccgroup.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_registrations_vaccgroup_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
