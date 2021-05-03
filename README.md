@@ -67,7 +67,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
-| __ageclass__            | 10-year age classes ('0_9', '10_19', '20_29', .., '80plus') | 10-Jahres-Altersklassen ('0_9', '10_19', '20_29', .., '80plus') | Text |
+| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
 | __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
 | __vaccine__             | Vaccine and its producer ('Comirnaty_PfizerBioNTech', 'Covid19Vaccine_Moderna', ..) | Impfstoff und sein Hersteller ('Comirnaty_PfizerBioNTech', 'Covid19Vaccine_Moderna', ..) | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
@@ -111,7 +111,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date               | Stichtag                      | YYYY-MM-DD |
-| __ageclass__            | 10-year age classes ('0_9', '10_19', '20_29', .., '80plus') | 10-Jahres-Altersklassen ('0_9', '10_19', '20_29', .., '80plus') | Text |
+| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
 | __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
 | __ncumul_registered__   | Number of persons who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
