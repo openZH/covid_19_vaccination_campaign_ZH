@@ -52,12 +52,12 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 
-## 2. Number of vaccinations per date, age group, gender, vaccine / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht, Impfstoff
+## 2. Number of vaccinations per date, age group, gender / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_agegroup_gender_vaccine_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender, vaccine <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_agegroup_gender_example.csv** <br>
+>*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
