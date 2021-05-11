@@ -7,7 +7,7 @@
 ### Status 
 Example files (CSV resources), data structures and variable definitions below listed are __under review__. To share your feedback, please check the [issues](https://github.com/openZH/covid_19_vaccination_campaign_ZH/issues), and create a 'new issue'. Many thanks! <br>
 <br>
-Publication of CSV resources with real data is planned to __start in calendar week 20 (2021-05-17)__.
+Publication of CSV resources with real data is planned to __start in calendar week 22 (2021-05-31)__.
 
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
