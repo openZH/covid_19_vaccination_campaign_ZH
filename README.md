@@ -90,7 +90,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __week_from__           | Start date of week           | Erster Tag der Woche          | YYYY-MM-DD |
 | __week_until__          | End date of week             | Letzter Tag der Woche         | YYYY-MM-DD |
 | __calendar_week__       | Calendar week                | Kalenderwoche                 | YYYY-MM-DD |
-| __residence__           | Residence (Canton 'ZH', Neighbouring Cantons 'Nachbarkantone', other 'andere', unknown 'unbekannt') | Wohnsitz (Kanton 'ZH', 'Nachbarkantone', 'andere', 'unbekannt') | Text       |
+| __residence__           | Residence (Canton 'ZH', Neighbouring Cantons 'Nachbarkantone', other 'andere', unknown 'unbekannt') | Wohnsitz (Bezirke 'ZH', 'Nachbarkantone', 'andere Kantone', 'Ausland', 'unbekannt') | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
