@@ -4,11 +4,6 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
-### Status 
-Example files (CSV resources), data structures and variable definitions below listed are __under review__. To share your feedback, please check the [issues](https://github.com/openZH/covid_19_vaccination_campaign_ZH/issues), and create a 'new issue'. Many thanks! <br>
-<br>
-Publication of CSV resources with real data is planned to __start in calendar week 22 (2021-05-31)__.
-
 # Sars-Cov-2 Vaccination Campaign open government data reported by the Canton of Zurich
 
 ### Scope
@@ -90,6 +85,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __week_from__           | Start date of week           | Erster Tag der Woche          | YYYY-MM-DD |
 | __week_until__          | End date of week             | Letzter Tag der Woche         | YYYY-MM-DD |
 | __calendar_week__       | Calendar week                | Kalenderwoche                 | YYYY-MM-DD |
+| __bfsNumber__           | [FSO Number](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.assetdetail.16924990.html), if residence is a district of Canton ZH |	[BFS-Nummer](https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.16924990.html), wenn Wohnort ein Bezirk des Kantons ZH ist | Number       |
 | __residence__           | Residence (Canton 'ZH', Neighbouring Cantons 'Nachbarkantone', other 'andere', unknown 'unbekannt') | Wohnsitz (Bezirke 'ZH', 'Nachbarkantone', 'andere Kantone', 'Ausland', 'unbekannt') | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
