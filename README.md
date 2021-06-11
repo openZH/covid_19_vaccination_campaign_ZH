@@ -4,7 +4,7 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
-# Sars-Cov-2 Vaccination Campaign open data reported by the Canton of Zurich
+# Sars-Cov-2 vaccination campaign data reported by the Canton of Zurich
 
 ### Scope
 This repository contains official open government data resources of the Sars-Cov-2 vaccination campaign __in the Canton of Zurich__ conducted by the __Department of Health of the Canton of Zurich__.
