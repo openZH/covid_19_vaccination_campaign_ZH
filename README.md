@@ -27,6 +27,8 @@ If you have questions regarding this repository, please contact the Specialist U
 - [twitter.com/OpenDataZH](https://twitter.com/OpenDataZH) <br>
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
+<br>
+<br>
 
 ## 1. Number of vaccinations per date and vaccination group / Anzahl Impfungen pro Datum und Impfgruppe
 
