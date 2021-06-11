@@ -33,7 +33,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Number of vaccinations per date and vaccination group / Anzahl Impfungen pro Datum und Impfgruppe
+## 1. Cumulative number of vaccinations per date by vaccination group / Kumulierte Anzahl Impfungen per Datum nach Impfgruppe
 
 **Data** <br>
 
