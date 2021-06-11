@@ -33,7 +33,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Cumulative number of vaccinations per date by vaccination group / Kumulierte Anzahl Impfungen per Datum nach Impfgruppe
+## 1. Cumulative number of vaccinations by vaccination group / Kumulierte Anzahl Impfungen nach Impfgruppe
 
 **Data** <br>
 
@@ -54,7 +54,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 2. Number of vaccinations per date, age group, gender / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht
+## 2. Cumulative number of vaccinations by age group, gender / Kumulierte Anzahl Impfungen nach Altersklasse, Geschlecht
 
 **Data** <br>
 
