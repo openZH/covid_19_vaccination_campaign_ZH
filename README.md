@@ -17,6 +17,7 @@ The data resources in this repository are a supplement to the official Sars-Cov-
 __Please note:__ <br>
 - Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 - Data from the first weeks of the vaccination campaign were integrated using bulk imports and then cleaned. This process is still ongoing. __Retroactive corrections to the data may occur. These are made transparent with each update__ (see [last commit](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)). <br>
+- Values that cannot (yet) be assigned or are obviously incorrectly entered are set to 'n.a.'. <br>
 
 ### Update
 Data resources in this repository are updated on weekdays by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ according to the specifications below; i.e. (a) once a day respectively (b) once per week.
