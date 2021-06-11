@@ -14,12 +14,12 @@ The data resources in this repository are a supplement to the official Sars-Cov-
 - [FOPH's covid19.admin.ch API documentation](https://www.covid19.admin.ch/api/data/documentation) <br>
 - [FOPH's covid19.admin.ch API endpoint](https://www.covid19.admin.ch/api/data/context) <br>
 
-__Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
+__Please note:__ <br>
+- Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
+- Data from the first weeks of the vaccination campaign were integrated using bulk imports and then cleaned. This process is still ongoing. __Retroactive corrections to the data may occur. These are made transparent with each update__ (see [last commit](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)). <br>
 
 ### Update
 Data resources in this repository are updated on weekdays by the Division for Data Analysis of the Office of Health Care of the Canton of Zurich according to the specification in their description (a) once a day respectively (b) once per week.
-
-All (i.e. retroactive) data corrections are made transparent with each update (see [last commit](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)).
 
 ### Contact
 
@@ -83,7 +83,6 @@ If you have questions regarding this repository, please contact the Specialist U
 >*Format:* csv <br>
 
 **Metadata**
-| __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
