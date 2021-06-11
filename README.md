@@ -11,7 +11,8 @@ This repository contains official open government data resources of the Sars-Cov
 
 The data resources in this repository are a supplement to the official Sars-Cov-2 Vaccination Campaign indicators and data, which Swiss Cantons and the Principality of Liechtenstein are providing via the Federal Office of Public Health (FOPH): <br>
 - [FOPH's covid19.admin.ch dashboard](https://www.covid19.admin.ch/en/epidemiologic/vacc-doses?detGeo=ZH#showDetail), vaccine doses (filtered by ZH) <br>
-- [FOPH's covid19.admin.ch API](https://www.covid19.admin.ch/api/data/context) <br>
+- [FOPH's covid19.admin.ch API documentation](https://www.covid19.admin.ch/api/data/documentation) <br>
+- [FOPH's covid19.admin.ch API endpoint](https://www.covid19.admin.ch/api/data/context) <br>
 
 __Please note:__ Data provided in this repository and via the FOPH may differ due to different collection and publication dates as well as retroactive corrections. <br>
 
