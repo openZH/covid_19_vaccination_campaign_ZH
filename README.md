@@ -23,10 +23,12 @@ Data resources in this repository are updated on weekdays by the Division for Da
 
 ### Contact
 
-If you have questions regarding this repository, please contact the Specialist Unit for Open Government Data of the Canton of Zurich by: <br>
+If you have questions or want to report something regarding this repository, please contact the __Specialist Unit for Open Government Data of the Canton of Zurich__ by: <br>
 - [writing a Twitter message](https://twitter.com/OpenDataZH) <br>
 - [creating a GitHub issue](https://github.com/openZH/covid_19_vaccination_campaign_ZH/issues) <br>
 - [writing an e-mail](mailto:info@open.zh.ch) <br>
+
+Many thanks for your feedback!
 
 <br>
 
