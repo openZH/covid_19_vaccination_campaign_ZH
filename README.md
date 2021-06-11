@@ -52,7 +52,7 @@ If you have questions regarding this repository, please contact the Specialist U
 
 ## 2. Number of vaccinations per date, age group, gender / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht
 
-**Data** <br>
+**Data** <br> 
 
 >**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_agegroup_gender_example.csv** <br>
 >*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
