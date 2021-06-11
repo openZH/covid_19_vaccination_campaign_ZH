@@ -33,7 +33,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Cumulative number of vaccinations by vaccination group / Kumulierte Anzahl Impfungen nach Impfgruppe
+## 1. Cumulative number of vaccinations by vaccination groups / Kumulierte Anzahl Impfungen nach Impfgruppen
 
 **Data** <br>
 
@@ -54,7 +54,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 2. Cumulative number of vaccinations by age group, gender / Kumulierte Anzahl Impfungen nach Altersklasse, Geschlecht
+## 2. Cumulative number of vaccinations by 10-year age groups, gender / Kumulierte Anzahl Impfungen nach 10-Jahres-Altersklasse, Geschlecht
 
 **Data** <br>
 
@@ -70,13 +70,13 @@ Many thanks for your feedback!
 |-------------------------|------------------------------|-------------------------------|------------|
 | __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
 | __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
-| __gender__              | Gender ('1'=male, '2'=female, '3'=other) | Geschlecht ('1'=Mann, '2'=Frau, '3'=Anderes) | Text       |
+| __gender__              | Gender ('d'=diverse, 'f'=female, 'm'=male) | Geschlecht ('d'=divers, 'f'=weiblich, 'm'=männlich) | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 <br>
 
-## 3. Number of vaccinations per calendar week and residence / Anzahl Impfungen pro Kalenderwoche und Wohnsitz
+## 3. Cumulative number of vaccinations by residence per calendar week / Kumulierte Anzahl Impfungen nach Wohnsitz pro Kalenderwoche
 
 **Data** <br>
 
