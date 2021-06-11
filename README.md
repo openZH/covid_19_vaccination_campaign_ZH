@@ -28,7 +28,6 @@ If you have questions regarding this repository, please contact the Specialist U
 - [info@open.zh.ch](mailto:info@open.zh.ch) <br>
 
 <br>
-<br>
 
 ## 1. Number of vaccinations per date and vaccination group / Anzahl Impfungen pro Datum und Impfgruppe
 
@@ -49,6 +48,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
+<br>
 
 ## 2. Number of vaccinations per date, age group, gender / Anzahl Impfungen pro Datum, Altersklasse, Geschlecht
 
@@ -70,6 +70,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
+<br>
 
 ## 3. Number of vaccinations per calendar week and residence / Anzahl Impfungen pro Kalenderwoche und Wohnsitz
 
@@ -93,6 +94,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
+<br>
 
 ## 4. Registered and vaccinated share of population per date, age group / Registrierter und geimpfter Anteil der Bevölkerung pro Datum, Altersklasse
 
@@ -118,6 +120,7 @@ If you have questions regarding this repository, please contact the Specialist U
 | __popshare_firstvacc__  | Share of population (residency: Canton Zurich) who received the first vaccination up to and including the reporting date | Anteil der Bevölkerung (Wohnsitz im Kanton Zürich), die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __popshare_secondvacc__ | Share of population (residency: Canton Zurich) who received the second vaccination up to and including the reporting date | Anteil der Bevölkerung (Wohnsitz im Kanton Zürich), die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
+<br>
 
 ## 5. Number of registrations and vaccinations per date, vaccination group / Anzahl Anmeldungen und Impfungen pro Datum, Impfgruppe
 
