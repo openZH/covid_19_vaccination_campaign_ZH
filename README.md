@@ -37,8 +37,8 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_vaccgroup_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -58,8 +58,8 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_agegroup_gender_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -80,8 +80,8 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_residence_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
 >*Update frequency:* weekly (weekday *to be defined*) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -100,12 +100,34 @@ Many thanks for your feedback!
 
 <br>
 
-## 4. Registered and vaccinated share of population per date, age group / Registrierter und geimpfter Anteil der Bevölkerung pro Datum, Altersklasse
+## 4. Cumulative number of registrations (and vaccinations) by vaccination groups / Kumulierte Anzahl Registrierungen (und Impfungen) nach Impfgruppen
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_popshare_agegroup_gender_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (registrations, 1st vaccination, 2nd vaccination) and population shares (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
+>*Description:* detailed numbers (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
+>*Update frequency:* daily (on weekdays) <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
+| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html) | Text |
+| __ncumul_registered__   | Number of persons who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
+
+<br>
+
+## 5. Cumulative number of registrations (and vaccinations) by 10-year age groups, gender / Kumulierte Anzahl Registrierungen (und Impfungen) nach 10-Jahres-Altersklasse, Geschlecht
+
+**Data** <br>
+
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_Registrierungen_Impfungen_pro_Datum_Altersklasse_Geschlecht.csv** <br>
+>*Description:* detailed numbers (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -117,31 +139,6 @@ Many thanks for your feedback!
 | __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
 | __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
 | __gender__              | Gender (..)                  | Geschlecht (..)               | Text       |
-| __ncumul_registered__   | Number of persons who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
-| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
-| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-| __popshare_registered__ | Share of population (residency: Canton Zurich) who registered for vaccination up to and including the reporting date | Anteil der Bevölkerung (Wohnsitz im Kanton Zürich), die sich bis und mit Stichtag für die Impfung registriert haben | Number |
-| __popshare_firstvacc__  | Share of population (residency: Canton Zurich) who received the first vaccination up to and including the reporting date | Anteil der Bevölkerung (Wohnsitz im Kanton Zürich), die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
-| __popshare_secondvacc__ | Share of population (residency: Canton Zurich) who received the second vaccination up to and including the reporting date | Anteil der Bevölkerung (Wohnsitz im Kanton Zürich), die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-
-<br>
-
-## 5. Number of registrations and vaccinations per date, vaccination group / Anzahl Anmeldungen und Impfungen pro Datum, Impfgruppe
-
-**Data** <br>
-
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_vaccination_ZH_registrations_vaccgroup_example.csv** <br>
->*Description:* __Example file__ of detailed numbers (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
->*Update frequency:* daily (on weekdays) <br>
->*Spatial unit:* Canton of Zurich <br>
->*Format:* csv <br>
-
-**Metadata**
-
-| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
-|-------------------------|------------------------------|-------------------------------|------------|
-| __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
-| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html) | Text |
 | __ncumul_registered__   | Number of persons who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
