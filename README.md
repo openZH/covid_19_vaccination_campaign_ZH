@@ -32,6 +32,7 @@ Many thanks for your feedback!
 
 <br>
 
+<!---
 ## 1. Cumulative number of vaccinations by vaccination groups / Kumulierte Anzahl Impfungen nach Impfgruppen
 
 **Data** <br>
@@ -52,8 +53,9 @@ Many thanks for your feedback!
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 <br>
+-->
 
-## 2. Cumulative number of vaccinations by 10-year age groups, gender / Kumulierte Anzahl Impfungen nach 10-Jahres-Altersklasse, Geschlecht
+## 1. Cumulative number of vaccinations by 10-year age groups, gender / Kumulierte Anzahl Impfungen nach 10-Jahres-Altersklasse, Geschlecht
 
 **Data** <br>
 
@@ -75,7 +77,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 3. Cumulative number of vaccinations by residence per calendar week / Kumulierte Anzahl Impfungen nach Wohnsitz pro Kalenderwoche
+## 2. Cumulative number of vaccinations by residence per calendar week / Kumulierte Anzahl Impfungen nach Wohnsitz pro Kalenderwoche
 
 **Data** <br>
 
@@ -99,6 +101,7 @@ Many thanks for your feedback!
 
 <br>
 
+<!---
 ## 4. Cumulative number of registrations (and vaccinations) by vaccination groups / Kumulierte Anzahl Registrierungen (und Impfungen) nach Impfgruppen
 
 **Data** <br>
@@ -120,8 +123,9 @@ Many thanks for your feedback!
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 <br>
+-->
 
-## 5. Cumulative number of registrations (and vaccinations) by 10-year age groups, gender / Kumulierte Anzahl Registrierungen (und Impfungen) nach 10-Jahres-Altersklasse, Geschlecht
+## 3. Cumulative number of registrations (and vaccinations) by 10-year age groups, gender / Kumulierte Anzahl Registrierungen (und Impfungen) nach 10-Jahres-Altersklasse, Geschlecht
 
 **Data** <br>
 
