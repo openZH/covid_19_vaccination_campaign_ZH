@@ -126,7 +126,7 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/COVID19_Registrierungen_Impfungen_pro_Datum_Altersklasse_Geschlecht.csv** <br>
+>**https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master/...** <br>
 >*Description:* detailed numbers (registrations, 1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
 >*Update frequency:* daily (on weekdays) <br>
 >*Spatial unit:* Canton of Zurich <br>
