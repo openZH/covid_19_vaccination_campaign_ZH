@@ -125,6 +125,7 @@ Many thanks for your feedback!
 <br>
 -->
 
+<!---
 ## 3. Cumulative number of registrations (and vaccinations) by 10-year age groups, gender / Kumulierte Anzahl Registrierungen (und Impfungen) nach 10-Jahres-Altersklasse, Geschlecht
 
 **Data** <br>
@@ -145,3 +146,4 @@ Many thanks for your feedback!
 | __ncumul_registered__   | Number of persons who registered for vaccination up to and including the reporting date | Anzahl Personen, die sich bis und mit Stichtag für die Impfung registriert haben | Number |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
+-->
