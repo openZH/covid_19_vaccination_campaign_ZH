@@ -32,14 +32,13 @@ Many thanks for your feedback!
 
 <br>
 
-<!---
-## 1. Cumulative number of vaccinations by vaccination groups / Kumulierte Anzahl Impfungen nach Impfgruppen
+## 1. Cumulative number of vaccinations of persons residing in the canton of Zurich by 1-year age groups from 2021-01-18 / Kumulierte Anzahl Impfungen im Kanton Zürich wohnhafter Personen nach 1-Jahres-Altersklassen ab 2021-01-18
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Impfgruppe.csv** <br>
->*Description:* detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, vaccination group <br>
->*Update frequency:* daily (on weekdays) <br>
+>**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Alter_in_KTZH_wohnhaft.csv** <br>
+>*Description:* cumulative numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group <br>
+>*Update frequency:* weekly <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
@@ -47,31 +46,11 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| __date__                | Reporting date (earlier than 2021-01-04 are accumulated to 'n.a.') | Stichtag (frühere als 2021-01-04 sind unter 'n.a.' kumuliert) | YYYY-MM-DD |
-| __vaccgroup_zh__        | Vaccination group ('A' to 'T') according to [categorisation of the Canton of Zurich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html#main_table_copy_copy) | Impfgruppe ('A' bis 'T') gemäss [Kategorisierung des Kantons Zürich](https://www.zh.ch/de/gesundheit/coronavirus/coronavirus-impfung/impfgruppen.html#main_table_copy_copy) | Text |
-| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
-| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-
-<br>
--->
-
-## 1. Cumulative number of vaccinations by 10-year age groups, gender from 2021-01-18 / Kumulierte Anzahl Impfungen nach 10-Jahres-Altersklasse, Geschlecht ab 2021-01-18
-
-**Data** <br>
-
->**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Altersklasse_Geschlecht.csv** <br>
->*Description:* detailed numbers (1st vaccination, 2nd vaccination) up to and including the reporting date, age group, gender <br>
->*Update frequency:* daily (on weekdays) <br>
->*Spatial unit:* Canton of Zurich <br>
->*Format:* csv <br>
-
-**Metadata**
-
-| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
-|-------------------------|------------------------------|-------------------------------|------------|
-| __date__                | Reporting date | Stichtag | YYYY-MM-DD |
-| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
-| __gender__              | Gender ('d'=diverse, 'f'=female, 'm'=male) | Geschlecht ('d'=divers, 'f'=weiblich, 'm'=männlich) | Text       |
+| __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
+| __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
+| __calendar_week__       | Calendar week | Kalenderwoche | Number     |
+| __person_age__          | 1-year age classes ('0', '1', '2', .., '100+') | 1-Jahres-Altersklassen ('0', '1', '2', .., '100+') | Text |
+| __bevoelkerung__        |  |  | Number     |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
