@@ -95,11 +95,9 @@ Many thanks for your feedback!
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
 | __bfsNumber__           | [FSO Number](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.assetdetail.16924990.html), if residence is a district of Canton ZH | [BFS-Nummer](https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.16924990.html), wenn Wohnort ein Bezirk des Kantons ZH ist | Number       |
-| __residence__           | Residence (districts of Canton of Zurich, "Wohnsitz im Kanton, aber ausserkantonal geimpft*", 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Nachbarkantone', 'andere Kantone', 'unbekannt') | Text       |
+| __residence__           | Residence (districts of Canton of Zurich, "Wohnsitz im Kanton, aber ausserkantonal geimpft*", 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Nachbarkantone', 'andere Kantone', 'unbekannt') <br> * von ausserkantonal geimpften Zurcher:innen, sind keine Wohnsitzinformationenn nach Bezirken vorhanden | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-
-*von ausserkantonal geimpften Zurcher:innen, sind keine Wohnsitzinformationenn nach Bezirken vorhanden
 
 <br>
 
