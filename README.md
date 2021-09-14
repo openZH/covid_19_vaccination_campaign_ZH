@@ -56,7 +56,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 2. Cumulative number of vaccinations by residence from 2021-01-18 per calendar week / Kumulierte Anzahl Impfungen nach Wohnsitz ab 2021-01-18 pro Kalenderwoche
+## 2. Cumulative number of vaccinations by residence per calendar week from 2021-01-18 / Kumulierte Anzahl Impfungen nach Wohnsitz pro Kalenderwoche ab 2021-01-18 
 
 **Data** <br>
 
