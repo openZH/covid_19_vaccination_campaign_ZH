@@ -32,7 +32,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Cumulative number of vaccinations of persons residing in the canton of Zurich by 1-year age groups from 2021-01-18 / Kumulierte Anzahl Impfungen im Kanton Zürich wohnhafter Personen nach 1-Jahres-Altersklassen ab 2021-01-18
+## 1. Cumulative number of vaccinations of persons residing in the canton of Zurich by 1-year age groups per calendar week from 2021-01-18 / Kumulierte Anzahl Impfungen im Kanton Zürich wohnhafter Personen nach 1-Jahres-Altersklassen pro Kalenderwoche ab 2021-01-18
 
 **Data** <br>
 
@@ -49,8 +49,7 @@ Many thanks for your feedback!
 | __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
-| __person_age__          | 1-year age classes ('0', '1', '2', .., '100+') | 1-Jahres-Altersklassen ('0', '1', '2', .., '100+') | Text |
-| __bevoelkerung__        | Total number of residents in the canton of Zurich in the corresponding age group | Gesamtanzahl im Kanton Zürich wohnhafter Menschen in der entsprechenden Altersklasse | Number     |
+| __age__                 | 1-year age classes ('0', '1', '2', .., '100+') | 1-Jahres-Altersklassen ('0', '1', '2', .., '100+') | Text |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
@@ -74,7 +73,7 @@ Many thanks for your feedback!
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
 | __bfsNumber__           | [FSO Number](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.assetdetail.16924990.html), if residence is a district of Canton ZH | [BFS-Nummer](https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.16924990.html), wenn Wohnort ein Bezirk des Kantons ZH ist | Number       |
-| __residence__           | Residence (districts of Canton of Zurich, 'Wohnsitz im Kanton, aber ausserkantonal geimpft' (no residence information by district is available for Zurich residents vaccinated outside the canton), 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Wohnsitz im Kanton, aber ausserkantonal geimpft' (von ausserkantonal geimpften Zürcher:innen sind keine Wohnsitzinformationen nach Bezirken vorhanden), 'Nachbarkantone', 'andere Kantone', 'unbekannt') | Text       |
+| __residence__           | Residence (districts of Canton of Zurich, 'ZH aber ausserkantonal geimpft' (no residence information by district is available for Canton ZH residents vaccinated outside the canton), 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'ZH aber ausserkantonal geimpft' (von Menschen mit Wohnsitz im Kanton ZH, die ausserkantonal geimpft wurden, sind keine Wohnsitzinformationen nach Bezirken vorhanden), 'Nachbarkantone', 'andere Kantone', 'unbekannt') | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
@@ -84,8 +83,8 @@ Many thanks for your feedback!
 
 **Data** <br>
 
->**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Wohnsitz.csv** <br>
->*Description:* detailed numbers (1st vaccination, 2nd vaccination) per calendar week, ZIP <br>
+>**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_PLZ.csv** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) per calendar week, postal code <br>
 >*Update frequency:* weekly <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
@@ -94,10 +93,32 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| __PLZ__                 | Postal code                  | Postleitzahl                  | Number     |
-| __population__          | Total number of residents in the canton of Zurich in the corresponding postal code | Gesamtanzahl im Kanton Zürich wohnhafter Menschen in der entsprechenden Postleitzahl | Number     |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
 | __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
+| __plz__                 | Postal code                  | Postleitzahl                  | Number     |
+| __population__          | Total number of residents in the canton of Zurich in the corresponding postal code | Gesamtanzahl im Kanton Zürich wohnhafter Menschen in der entsprechenden Postleitzahl | Number     |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
+
+<br>
+
+## 4. Cumulative number of vaccinations by 10-year age groups, gender per day from 2021-01-18 / Kumulierte Anzahl Impfungen nach 10-Jahres-Altersklassen, Geschlecht pro Tag ab 2021-01-18
+
+**Data** <br>
+
+>**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Altersklasse_Geschlecht.csv** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) per day, 10-year age groups, gender <br>
+>*Update frequency:* daily (on weekdays) <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __date__                | Calendar week | Kalenderwoche | Number     |
+| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
+| __gender__              | Gender ('d'=diverse, 'f'=female, 'm'=male, 'NA'=unknown) | Gender ('d'=divers, 'f'=weiblich, 'm'=männlich, 'NA'=unbekannt) | Text     |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
