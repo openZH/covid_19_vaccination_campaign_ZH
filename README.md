@@ -79,3 +79,25 @@ Many thanks for your feedback!
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
 <br>
+
+## 3. Cumulative number of vaccinations by postal code per calendar week from 2021-01-18 / Kumulierte Anzahl Impfungen nach Postleitzahl pro Kalenderwoche ab 2021-01-18 
+
+**Data** <br>
+
+>**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Wohnsitz.csv** <br>
+>*Description:* detailed numbers (1st vaccination, 2nd vaccination) per calendar week, ZIP <br>
+>*Update frequency:* weekly <br>
+>*Spatial unit:* Canton of Zurich <br>
+>*Format:* csv <br>
+
+**Metadata**
+
+| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
+|-------------------------|------------------------------|-------------------------------|------------|
+| __PLZ__                 | Postal code                  | Postleitzahl                  | Number     |
+| __population__          | Total number of residents in the canton of Zurich in the corresponding postal code | Gesamtanzahl im Kanton Zürich wohnhafter Menschen in der entsprechenden Postleitzahl | Number     |
+| __calendar_week__       | Calendar week | Kalenderwoche | Number     |
+| __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
+| __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
+| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
+| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
