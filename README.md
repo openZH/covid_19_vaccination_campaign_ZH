@@ -49,7 +49,7 @@ Many thanks for your feedback!
 | __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
-| __age__                 | 1-year age classes ('0', '1', '2', .., '100+') | 1-Jahres-Altersklassen ('0', '1', '2', .., '100+') | Text |
+| __age__                 | 1-year age classes ('0', '1', '2', .., '100+') | 1-Jahres-Altersklassen ('0', '1', '2', .., '100+') | Number |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
@@ -117,8 +117,8 @@ Many thanks for your feedback!
 
 | Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
 |-------------------------|------------------------------|-------------------------------|------------|
-| __date__                | Calendar week | Kalenderwoche | Number     |
-| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Text |
+| __date__                | Date | Datum | YYYY-MM-DD     |
+| __ageclass__            | 10-year age classes ('0-9', '10-19', '20-29', .., '80+') | 10-Jahres-Altersklassen ('0-9', '10-19', '20-29', .., '80+') | Number (range) |
 | __gender__              | Gender ('d'=diverse, 'f'=female, 'm'=male, 'NA'=unknown) | Gender ('d'=divers, 'f'=weiblich, 'm'=männlich, 'NA'=unbekannt) | Text     |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
