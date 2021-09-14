@@ -74,31 +74,7 @@ Many thanks for your feedback!
 | __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
 | __calendar_week__       | Calendar week | Kalenderwoche | Number     |
 | __bfsNumber__           | [FSO Number](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.assetdetail.16924990.html), if residence is a district of Canton ZH | [BFS-Nummer](https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.16924990.html), wenn Wohnort ein Bezirk des Kantons ZH ist | Number       |
-| __residence__           | Residence (districts of Canton of Zurich, "Wohnsitz im Kanton, aber ausserkantonal geimpft*", 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Nachbarkantone', 'andere Kantone', 'unbekannt') <br> * von ausserkantonal geimpften Zurcher:innen, sind keine Wohnsitzinformationenn nach Bezirken vorhanden | Text       |
-| __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
-| __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
-
-<br>
-
-## 2. Cumulative number of vaccinations by residence per calendar week from 2021-01-18 / Kumulierte Anzahl Impfungen nach Wohnsitz pro Kalenderwoche ab 2021-01-18 
-
-**Data** <br>
-
->**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Woche_Wohnsitz.csv** <br>
->*Description:* detailed numbers (1st vaccination, 2nd vaccination) per calendar week, residence <br>
->*Update frequency:* weekly <br>
->*Spatial unit:* Canton of Zurich <br>
->*Format:* csv <br>
-
-**Metadata**
-
-| Fieldname / Spaltenname | Description (EN)             | Beschreibung (DE)             | Format     |
-|-------------------------|------------------------------|-------------------------------|------------|
-| __week_from__           | Start date of week | Erster Tag der Woche | YYYY-MM-DD |
-| __week_until__          | End date of week | Letzter Tag der Woche | YYYY-MM-DD |
-| __calendar_week__       | Calendar week | Kalenderwoche | Number     |
-| __bfsNumber__           | [FSO Number](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.assetdetail.16924990.html), if residence is a district of Canton ZH | [BFS-Nummer](https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.assetdetail.16924990.html), wenn Wohnort ein Bezirk des Kantons ZH ist | Number       |
-| __residence__           | Residence (districts of Canton of Zurich, "Wohnsitz im Kanton, aber ausserkantonal geimpft*", 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Nachbarkantone', 'andere Kantone', 'unbekannt') <br> * von ausserkantonal geimpften Zurcher:innen, sind keine Wohnsitzinformationenn nach Bezirken vorhanden | Text       |
+| __residence__           | Residence (districts of Canton of Zurich, 'Wohnsitz im Kanton, aber ausserkantonal geimpft' (no residence information by district is available for Zurich residents vaccinated outside the canton), 'Nachbarkantone'=neighbouring cantons, 'andere Kantone'=other cantons, 'unbekannt'=unknown) | Wohnsitz (Bezirke des Kantons Zürich, 'Wohnsitz im Kanton, aber ausserkantonal geimpft' (von ausserkantonal geimpften Zürcher:innen sind keine Wohnsitzinformationen nach Bezirken vorhanden), 'Nachbarkantone', 'andere Kantone', 'unbekannt') | Text       |
 | __ncumul_firstvacc__    | Number of persons who received the first vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die erste Impfung erhalten haben | Number     |
 | __ncumul_secondvacc__   | Number of persons who received the second vaccination up to and including the reporting date | Anzahl Personen, die bis und mit Stichtag die zweite Impfung erhalten haben | Number     |
 
