@@ -32,7 +32,7 @@ Many thanks for your feedback!
 
 <br>
 
-## 1. Cumulative number of vaccinations of persons residing in the canton of Zurich by 1-year age groups per calendar week from 2021-01-18 / Kumulierte Anzahl Impfungen im Kanton Zürich wohnhafter Personen nach 1-Jahres-Altersklassen pro Kalenderwoche ab 2021-01-18
+## 1. Cumulative number of vaccinations of persons residing in the canton of Zurich by 1-year age groups for the most recent calendar week/ Kumulierte Anzahl Impfungen im Kanton Zürich wohnhafter Personen nach 1-Jahres-Altersklassen für die aktuellste Kalenderwoche
 
 **Data** <br>
 
