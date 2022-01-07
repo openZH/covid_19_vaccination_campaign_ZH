@@ -4,6 +4,8 @@
 
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
+**Please note: Data structure, variables and acccess URLs of all four data resources will change in the course of calendar week 2/2022. The changes in detail: https://github.com/openZH/covid_19_vaccination_campaign_ZH/discussions/8**
+
 # Sars-Cov-2 vaccination campaign data reported by the Canton of Zurich
 
 ### Scope
