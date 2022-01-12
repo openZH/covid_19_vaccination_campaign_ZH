@@ -1,0 +1,2449 @@
+"week_from","week_until","calendar_week","bfsNumber","residence","vacc_status","nCumul"
+2021-01-01,2021-01-24,3,101,"Bezirk Affoltern","atLeastOneDose",781
+2021-01-01,2021-01-24,3,101,"Bezirk Affoltern","completedBasicImmu",0
+2021-01-01,2021-01-24,3,101,"Bezirk Affoltern","booster",0
+2021-01-01,2021-01-24,3,102,"Bezirk Andelfingen","atLeastOneDose",578
+2021-01-01,2021-01-24,3,102,"Bezirk Andelfingen","completedBasicImmu",0
+2021-01-01,2021-01-24,3,102,"Bezirk Andelfingen","booster",0
+2021-01-01,2021-01-24,3,103,"Bezirk Bulach","atLeastOneDose",2294
+2021-01-01,2021-01-24,3,103,"Bezirk Bulach","completedBasicImmu",0
+2021-01-01,2021-01-24,3,103,"Bezirk Bulach","booster",0
+2021-01-01,2021-01-24,3,104,"Bezirk Dielsdorf","atLeastOneDose",1108
+2021-01-01,2021-01-24,3,104,"Bezirk Dielsdorf","completedBasicImmu",0
+2021-01-01,2021-01-24,3,104,"Bezirk Dielsdorf","booster",0
+2021-01-01,2021-01-24,3,105,"Bezirk Hinwil","atLeastOneDose",880
+2021-01-01,2021-01-24,3,105,"Bezirk Hinwil","completedBasicImmu",0
+2021-01-01,2021-01-24,3,105,"Bezirk Hinwil","booster",0
+2021-01-01,2021-01-24,3,106,"Bezirk Horgen","atLeastOneDose",1858
+2021-01-01,2021-01-24,3,106,"Bezirk Horgen","completedBasicImmu",0
+2021-01-01,2021-01-24,3,106,"Bezirk Horgen","booster",0
+2021-01-01,2021-01-24,3,107,"Bezirk Meilen","atLeastOneDose",2499
+2021-01-01,2021-01-24,3,107,"Bezirk Meilen","completedBasicImmu",0
+2021-01-01,2021-01-24,3,107,"Bezirk Meilen","booster",0
+2021-01-01,2021-01-24,3,108,"Bezirk Pfaffikon","atLeastOneDose",769
+2021-01-01,2021-01-24,3,108,"Bezirk Pfaffikon","completedBasicImmu",0
+2021-01-01,2021-01-24,3,108,"Bezirk Pfaffikon","booster",0
+2021-01-01,2021-01-24,3,109,"Bezirk Uster","atLeastOneDose",1968
+2021-01-01,2021-01-24,3,109,"Bezirk Uster","completedBasicImmu",0
+2021-01-01,2021-01-24,3,109,"Bezirk Uster","booster",0
+2021-01-01,2021-01-24,3,110,"Bezirk Winterthur","atLeastOneDose",2692
+2021-01-01,2021-01-24,3,110,"Bezirk Winterthur","completedBasicImmu",0
+2021-01-01,2021-01-24,3,110,"Bezirk Winterthur","booster",0
+2021-01-01,2021-01-24,3,111,"Bezirk Dietikon","atLeastOneDose",1248
+2021-01-01,2021-01-24,3,111,"Bezirk Dietikon","completedBasicImmu",0
+2021-01-01,2021-01-24,3,111,"Bezirk Dietikon","booster",0
+2021-01-01,2021-01-24,3,112,"Bezirk Zurich","atLeastOneDose",7626
+2021-01-01,2021-01-24,3,112,"Bezirk Zurich","completedBasicImmu",0
+2021-01-01,2021-01-24,3,112,"Bezirk Zurich","booster",0
+2021-01-01,2021-01-24,3,NA,"andere Kantone","atLeastOneDose",357
+2021-01-01,2021-01-24,3,NA,"andere Kantone","completedBasicImmu",0
+2021-01-01,2021-01-24,3,NA,"andere Kantone","booster",0
+2021-01-01,2021-01-24,3,NA,"Nachbarkantone","atLeastOneDose",1393
+2021-01-01,2021-01-24,3,NA,"Nachbarkantone","completedBasicImmu",0
+2021-01-01,2021-01-24,3,NA,"Nachbarkantone","booster",0
+2021-01-01,2021-01-24,3,NA,"unbekannt","atLeastOneDose",207
+2021-01-01,2021-01-24,3,NA,"unbekannt","completedBasicImmu",0
+2021-01-01,2021-01-24,3,NA,"unbekannt","booster",0
+2021-01-01,2021-01-24,3,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",27
+2021-01-01,2021-01-24,3,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",96
+2021-01-01,2021-01-24,3,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-01-25,2021-01-31,4,101,"Bezirk Affoltern","atLeastOneDose",1621
+2021-01-25,2021-01-31,4,101,"Bezirk Affoltern","completedBasicImmu",27
+2021-01-25,2021-01-31,4,101,"Bezirk Affoltern","booster",0
+2021-01-25,2021-01-31,4,102,"Bezirk Andelfingen","atLeastOneDose",1484
+2021-01-25,2021-01-31,4,102,"Bezirk Andelfingen","completedBasicImmu",0
+2021-01-25,2021-01-31,4,102,"Bezirk Andelfingen","booster",0
+2021-01-25,2021-01-31,4,103,"Bezirk Bulach","atLeastOneDose",4280
+2021-01-25,2021-01-31,4,103,"Bezirk Bulach","completedBasicImmu",74
+2021-01-25,2021-01-31,4,103,"Bezirk Bulach","booster",0
+2021-01-25,2021-01-31,4,104,"Bezirk Dielsdorf","atLeastOneDose",2057
+2021-01-25,2021-01-31,4,104,"Bezirk Dielsdorf","completedBasicImmu",41
+2021-01-25,2021-01-31,4,104,"Bezirk Dielsdorf","booster",0
+2021-01-25,2021-01-31,4,105,"Bezirk Hinwil","atLeastOneDose",2341
+2021-01-25,2021-01-31,4,105,"Bezirk Hinwil","completedBasicImmu",21
+2021-01-25,2021-01-31,4,105,"Bezirk Hinwil","booster",0
+2021-01-25,2021-01-31,4,106,"Bezirk Horgen","atLeastOneDose",3109
+2021-01-25,2021-01-31,4,106,"Bezirk Horgen","completedBasicImmu",85
+2021-01-25,2021-01-31,4,106,"Bezirk Horgen","booster",0
+2021-01-25,2021-01-31,4,107,"Bezirk Meilen","atLeastOneDose",3983
+2021-01-25,2021-01-31,4,107,"Bezirk Meilen","completedBasicImmu",141
+2021-01-25,2021-01-31,4,107,"Bezirk Meilen","booster",0
+2021-01-25,2021-01-31,4,108,"Bezirk Pfaffikon","atLeastOneDose",1616
+2021-01-25,2021-01-31,4,108,"Bezirk Pfaffikon","completedBasicImmu",20
+2021-01-25,2021-01-31,4,108,"Bezirk Pfaffikon","booster",0
+2021-01-25,2021-01-31,4,109,"Bezirk Uster","atLeastOneDose",3546
+2021-01-25,2021-01-31,4,109,"Bezirk Uster","completedBasicImmu",98
+2021-01-25,2021-01-31,4,109,"Bezirk Uster","booster",0
+2021-01-25,2021-01-31,4,110,"Bezirk Winterthur","atLeastOneDose",5128
+2021-01-25,2021-01-31,4,110,"Bezirk Winterthur","completedBasicImmu",40
+2021-01-25,2021-01-31,4,110,"Bezirk Winterthur","booster",0
+2021-01-25,2021-01-31,4,111,"Bezirk Dietikon","atLeastOneDose",2030
+2021-01-25,2021-01-31,4,111,"Bezirk Dietikon","completedBasicImmu",43
+2021-01-25,2021-01-31,4,111,"Bezirk Dietikon","booster",0
+2021-01-25,2021-01-31,4,112,"Bezirk Zurich","atLeastOneDose",14305
+2021-01-25,2021-01-31,4,112,"Bezirk Zurich","completedBasicImmu",374
+2021-01-25,2021-01-31,4,112,"Bezirk Zurich","booster",0
+2021-01-25,2021-01-31,4,NA,"andere Kantone","atLeastOneDose",520
+2021-01-25,2021-01-31,4,NA,"andere Kantone","completedBasicImmu",58
+2021-01-25,2021-01-31,4,NA,"andere Kantone","booster",0
+2021-01-25,2021-01-31,4,NA,"Nachbarkantone","atLeastOneDose",2229
+2021-01-25,2021-01-31,4,NA,"Nachbarkantone","completedBasicImmu",148
+2021-01-25,2021-01-31,4,NA,"Nachbarkantone","booster",0
+2021-01-25,2021-01-31,4,NA,"unbekannt","atLeastOneDose",473
+2021-01-25,2021-01-31,4,NA,"unbekannt","completedBasicImmu",0
+2021-01-25,2021-01-31,4,NA,"unbekannt","booster",0
+2021-01-25,2021-01-31,4,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",40
+2021-01-25,2021-01-31,4,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",215
+2021-01-25,2021-01-31,4,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-02-01,2021-02-07,5,101,"Bezirk Affoltern","atLeastOneDose",1976
+2021-02-01,2021-02-07,5,101,"Bezirk Affoltern","completedBasicImmu",72
+2021-02-01,2021-02-07,5,101,"Bezirk Affoltern","booster",0
+2021-02-01,2021-02-07,5,102,"Bezirk Andelfingen","atLeastOneDose",1639
+2021-02-01,2021-02-07,5,102,"Bezirk Andelfingen","completedBasicImmu",22
+2021-02-01,2021-02-07,5,102,"Bezirk Andelfingen","booster",0
+2021-02-01,2021-02-07,5,103,"Bezirk Bulach","atLeastOneDose",4864
+2021-02-01,2021-02-07,5,103,"Bezirk Bulach","completedBasicImmu",181
+2021-02-01,2021-02-07,5,103,"Bezirk Bulach","booster",0
+2021-02-01,2021-02-07,5,104,"Bezirk Dielsdorf","atLeastOneDose",2629
+2021-02-01,2021-02-07,5,104,"Bezirk Dielsdorf","completedBasicImmu",98
+2021-02-01,2021-02-07,5,104,"Bezirk Dielsdorf","booster",0
+2021-02-01,2021-02-07,5,105,"Bezirk Hinwil","atLeastOneDose",3335
+2021-02-01,2021-02-07,5,105,"Bezirk Hinwil","completedBasicImmu",72
+2021-02-01,2021-02-07,5,105,"Bezirk Hinwil","booster",0
+2021-02-01,2021-02-07,5,106,"Bezirk Horgen","atLeastOneDose",4246
+2021-02-01,2021-02-07,5,106,"Bezirk Horgen","completedBasicImmu",245
+2021-02-01,2021-02-07,5,106,"Bezirk Horgen","booster",0
+2021-02-01,2021-02-07,5,107,"Bezirk Meilen","atLeastOneDose",5162
+2021-02-01,2021-02-07,5,107,"Bezirk Meilen","completedBasicImmu",318
+2021-02-01,2021-02-07,5,107,"Bezirk Meilen","booster",0
+2021-02-01,2021-02-07,5,108,"Bezirk Pfaffikon","atLeastOneDose",2087
+2021-02-01,2021-02-07,5,108,"Bezirk Pfaffikon","completedBasicImmu",61
+2021-02-01,2021-02-07,5,108,"Bezirk Pfaffikon","booster",0
+2021-02-01,2021-02-07,5,109,"Bezirk Uster","atLeastOneDose",4450
+2021-02-01,2021-02-07,5,109,"Bezirk Uster","completedBasicImmu",233
+2021-02-01,2021-02-07,5,109,"Bezirk Uster","booster",0
+2021-02-01,2021-02-07,5,110,"Bezirk Winterthur","atLeastOneDose",6194
+2021-02-01,2021-02-07,5,110,"Bezirk Winterthur","completedBasicImmu",89
+2021-02-01,2021-02-07,5,110,"Bezirk Winterthur","booster",0
+2021-02-01,2021-02-07,5,111,"Bezirk Dietikon","atLeastOneDose",2816
+2021-02-01,2021-02-07,5,111,"Bezirk Dietikon","completedBasicImmu",120
+2021-02-01,2021-02-07,5,111,"Bezirk Dietikon","booster",0
+2021-02-01,2021-02-07,5,112,"Bezirk Zurich","atLeastOneDose",16937
+2021-02-01,2021-02-07,5,112,"Bezirk Zurich","completedBasicImmu",966
+2021-02-01,2021-02-07,5,112,"Bezirk Zurich","booster",0
+2021-02-01,2021-02-07,5,NA,"andere Kantone","atLeastOneDose",586
+2021-02-01,2021-02-07,5,NA,"andere Kantone","completedBasicImmu",94
+2021-02-01,2021-02-07,5,NA,"andere Kantone","booster",0
+2021-02-01,2021-02-07,5,NA,"Nachbarkantone","atLeastOneDose",2612
+2021-02-01,2021-02-07,5,NA,"Nachbarkantone","completedBasicImmu",248
+2021-02-01,2021-02-07,5,NA,"Nachbarkantone","booster",0
+2021-02-01,2021-02-07,5,NA,"unbekannt","atLeastOneDose",506
+2021-02-01,2021-02-07,5,NA,"unbekannt","completedBasicImmu",55
+2021-02-01,2021-02-07,5,NA,"unbekannt","booster",0
+2021-02-01,2021-02-07,5,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",46
+2021-02-01,2021-02-07,5,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",318
+2021-02-01,2021-02-07,5,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-02-08,2021-02-14,6,101,"Bezirk Affoltern","atLeastOneDose",2364
+2021-02-08,2021-02-14,6,101,"Bezirk Affoltern","completedBasicImmu",288
+2021-02-08,2021-02-14,6,101,"Bezirk Affoltern","booster",0
+2021-02-08,2021-02-14,6,102,"Bezirk Andelfingen","atLeastOneDose",1864
+2021-02-08,2021-02-14,6,102,"Bezirk Andelfingen","completedBasicImmu",74
+2021-02-08,2021-02-14,6,102,"Bezirk Andelfingen","booster",0
+2021-02-08,2021-02-14,6,103,"Bezirk Bulach","atLeastOneDose",5731
+2021-02-08,2021-02-14,6,103,"Bezirk Bulach","completedBasicImmu",551
+2021-02-08,2021-02-14,6,103,"Bezirk Bulach","booster",0
+2021-02-08,2021-02-14,6,104,"Bezirk Dielsdorf","atLeastOneDose",3532
+2021-02-08,2021-02-14,6,104,"Bezirk Dielsdorf","completedBasicImmu",342
+2021-02-08,2021-02-14,6,104,"Bezirk Dielsdorf","booster",0
+2021-02-08,2021-02-14,6,105,"Bezirk Hinwil","atLeastOneDose",4785
+2021-02-08,2021-02-14,6,105,"Bezirk Hinwil","completedBasicImmu",308
+2021-02-08,2021-02-14,6,105,"Bezirk Hinwil","booster",0
+2021-02-08,2021-02-14,6,106,"Bezirk Horgen","atLeastOneDose",5911
+2021-02-08,2021-02-14,6,106,"Bezirk Horgen","completedBasicImmu",691
+2021-02-08,2021-02-14,6,106,"Bezirk Horgen","booster",0
+2021-02-08,2021-02-14,6,107,"Bezirk Meilen","atLeastOneDose",7616
+2021-02-08,2021-02-14,6,107,"Bezirk Meilen","completedBasicImmu",915
+2021-02-08,2021-02-14,6,107,"Bezirk Meilen","booster",0
+2021-02-08,2021-02-14,6,108,"Bezirk Pfaffikon","atLeastOneDose",2969
+2021-02-08,2021-02-14,6,108,"Bezirk Pfaffikon","completedBasicImmu",200
+2021-02-08,2021-02-14,6,108,"Bezirk Pfaffikon","booster",0
+2021-02-08,2021-02-14,6,109,"Bezirk Uster","atLeastOneDose",6821
+2021-02-08,2021-02-14,6,109,"Bezirk Uster","completedBasicImmu",746
+2021-02-08,2021-02-14,6,109,"Bezirk Uster","booster",0
+2021-02-08,2021-02-14,6,110,"Bezirk Winterthur","atLeastOneDose",8919
+2021-02-08,2021-02-14,6,110,"Bezirk Winterthur","completedBasicImmu",516
+2021-02-08,2021-02-14,6,110,"Bezirk Winterthur","booster",0
+2021-02-08,2021-02-14,6,111,"Bezirk Dietikon","atLeastOneDose",3862
+2021-02-08,2021-02-14,6,111,"Bezirk Dietikon","completedBasicImmu",503
+2021-02-08,2021-02-14,6,111,"Bezirk Dietikon","booster",0
+2021-02-08,2021-02-14,6,112,"Bezirk Zurich","atLeastOneDose",22382
+2021-02-08,2021-02-14,6,112,"Bezirk Zurich","completedBasicImmu",3614
+2021-02-08,2021-02-14,6,112,"Bezirk Zurich","booster",0
+2021-02-08,2021-02-14,6,NA,"andere Kantone","atLeastOneDose",723
+2021-02-08,2021-02-14,6,NA,"andere Kantone","completedBasicImmu",255
+2021-02-08,2021-02-14,6,NA,"andere Kantone","booster",0
+2021-02-08,2021-02-14,6,NA,"Nachbarkantone","atLeastOneDose",3555
+2021-02-08,2021-02-14,6,NA,"Nachbarkantone","completedBasicImmu",819
+2021-02-08,2021-02-14,6,NA,"Nachbarkantone","booster",0
+2021-02-08,2021-02-14,6,NA,"unbekannt","atLeastOneDose",602
+2021-02-08,2021-02-14,6,NA,"unbekannt","completedBasicImmu",133
+2021-02-08,2021-02-14,6,NA,"unbekannt","booster",0
+2021-02-08,2021-02-14,6,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",52
+2021-02-08,2021-02-14,6,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",558
+2021-02-08,2021-02-14,6,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-02-15,2021-02-21,7,101,"Bezirk Affoltern","atLeastOneDose",2563
+2021-02-15,2021-02-21,7,101,"Bezirk Affoltern","completedBasicImmu",655
+2021-02-15,2021-02-21,7,101,"Bezirk Affoltern","booster",0
+2021-02-15,2021-02-21,7,102,"Bezirk Andelfingen","atLeastOneDose",1946
+2021-02-15,2021-02-21,7,102,"Bezirk Andelfingen","completedBasicImmu",475
+2021-02-15,2021-02-21,7,102,"Bezirk Andelfingen","booster",0
+2021-02-15,2021-02-21,7,103,"Bezirk Bulach","atLeastOneDose",6481
+2021-02-15,2021-02-21,7,103,"Bezirk Bulach","completedBasicImmu",1512
+2021-02-15,2021-02-21,7,103,"Bezirk Bulach","booster",0
+2021-02-15,2021-02-21,7,104,"Bezirk Dielsdorf","atLeastOneDose",3844
+2021-02-15,2021-02-21,7,104,"Bezirk Dielsdorf","completedBasicImmu",875
+2021-02-15,2021-02-21,7,104,"Bezirk Dielsdorf","booster",0
+2021-02-15,2021-02-21,7,105,"Bezirk Hinwil","atLeastOneDose",5178
+2021-02-15,2021-02-21,7,105,"Bezirk Hinwil","completedBasicImmu",701
+2021-02-15,2021-02-21,7,105,"Bezirk Hinwil","booster",0
+2021-02-15,2021-02-21,7,106,"Bezirk Horgen","atLeastOneDose",6432
+2021-02-15,2021-02-21,7,106,"Bezirk Horgen","completedBasicImmu",1732
+2021-02-15,2021-02-21,7,106,"Bezirk Horgen","booster",0
+2021-02-15,2021-02-21,7,107,"Bezirk Meilen","atLeastOneDose",7956
+2021-02-15,2021-02-21,7,107,"Bezirk Meilen","completedBasicImmu",2198
+2021-02-15,2021-02-21,7,107,"Bezirk Meilen","booster",0
+2021-02-15,2021-02-21,7,108,"Bezirk Pfaffikon","atLeastOneDose",3041
+2021-02-15,2021-02-21,7,108,"Bezirk Pfaffikon","completedBasicImmu",686
+2021-02-15,2021-02-21,7,108,"Bezirk Pfaffikon","booster",0
+2021-02-15,2021-02-21,7,109,"Bezirk Uster","atLeastOneDose",7120
+2021-02-15,2021-02-21,7,109,"Bezirk Uster","completedBasicImmu",1742
+2021-02-15,2021-02-21,7,109,"Bezirk Uster","booster",0
+2021-02-15,2021-02-21,7,110,"Bezirk Winterthur","atLeastOneDose",9285
+2021-02-15,2021-02-21,7,110,"Bezirk Winterthur","completedBasicImmu",2045
+2021-02-15,2021-02-21,7,110,"Bezirk Winterthur","booster",0
+2021-02-15,2021-02-21,7,111,"Bezirk Dietikon","atLeastOneDose",4239
+2021-02-15,2021-02-21,7,111,"Bezirk Dietikon","completedBasicImmu",1072
+2021-02-15,2021-02-21,7,111,"Bezirk Dietikon","booster",0
+2021-02-15,2021-02-21,7,112,"Bezirk Zurich","atLeastOneDose",23748
+2021-02-15,2021-02-21,7,112,"Bezirk Zurich","completedBasicImmu",6744
+2021-02-15,2021-02-21,7,112,"Bezirk Zurich","booster",0
+2021-02-15,2021-02-21,7,NA,"andere Kantone","atLeastOneDose",757
+2021-02-15,2021-02-21,7,NA,"andere Kantone","completedBasicImmu",343
+2021-02-15,2021-02-21,7,NA,"andere Kantone","booster",0
+2021-02-15,2021-02-21,7,NA,"Nachbarkantone","atLeastOneDose",3838
+2021-02-15,2021-02-21,7,NA,"Nachbarkantone","completedBasicImmu",1207
+2021-02-15,2021-02-21,7,NA,"Nachbarkantone","booster",0
+2021-02-15,2021-02-21,7,NA,"unbekannt","atLeastOneDose",642
+2021-02-15,2021-02-21,7,NA,"unbekannt","completedBasicImmu",185
+2021-02-15,2021-02-21,7,NA,"unbekannt","booster",0
+2021-02-15,2021-02-21,7,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",55
+2021-02-15,2021-02-21,7,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",949
+2021-02-15,2021-02-21,7,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-02-22,2021-02-28,8,101,"Bezirk Affoltern","atLeastOneDose",2666
+2021-02-22,2021-02-28,8,101,"Bezirk Affoltern","completedBasicImmu",1206
+2021-02-22,2021-02-28,8,101,"Bezirk Affoltern","booster",0
+2021-02-22,2021-02-28,8,102,"Bezirk Andelfingen","atLeastOneDose",1974
+2021-02-22,2021-02-28,8,102,"Bezirk Andelfingen","completedBasicImmu",970
+2021-02-22,2021-02-28,8,102,"Bezirk Andelfingen","booster",0
+2021-02-22,2021-02-28,8,103,"Bezirk Bulach","atLeastOneDose",6701
+2021-02-22,2021-02-28,8,103,"Bezirk Bulach","completedBasicImmu",3174
+2021-02-22,2021-02-28,8,103,"Bezirk Bulach","booster",0
+2021-02-22,2021-02-28,8,104,"Bezirk Dielsdorf","atLeastOneDose",4066
+2021-02-22,2021-02-28,8,104,"Bezirk Dielsdorf","completedBasicImmu",1622
+2021-02-22,2021-02-28,8,104,"Bezirk Dielsdorf","booster",0
+2021-02-22,2021-02-28,8,105,"Bezirk Hinwil","atLeastOneDose",5301
+2021-02-22,2021-02-28,8,105,"Bezirk Hinwil","completedBasicImmu",1481
+2021-02-22,2021-02-28,8,105,"Bezirk Hinwil","booster",0
+2021-02-22,2021-02-28,8,106,"Bezirk Horgen","atLeastOneDose",6668
+2021-02-22,2021-02-28,8,106,"Bezirk Horgen","completedBasicImmu",2653
+2021-02-22,2021-02-28,8,106,"Bezirk Horgen","booster",0
+2021-02-22,2021-02-28,8,107,"Bezirk Meilen","atLeastOneDose",8222
+2021-02-22,2021-02-28,8,107,"Bezirk Meilen","completedBasicImmu",3531
+2021-02-22,2021-02-28,8,107,"Bezirk Meilen","booster",0
+2021-02-22,2021-02-28,8,108,"Bezirk Pfaffikon","atLeastOneDose",3247
+2021-02-22,2021-02-28,8,108,"Bezirk Pfaffikon","completedBasicImmu",1410
+2021-02-22,2021-02-28,8,108,"Bezirk Pfaffikon","booster",0
+2021-02-22,2021-02-28,8,109,"Bezirk Uster","atLeastOneDose",7291
+2021-02-22,2021-02-28,8,109,"Bezirk Uster","completedBasicImmu",3156
+2021-02-22,2021-02-28,8,109,"Bezirk Uster","booster",0
+2021-02-22,2021-02-28,8,110,"Bezirk Winterthur","atLeastOneDose",9559
+2021-02-22,2021-02-28,8,110,"Bezirk Winterthur","completedBasicImmu",4089
+2021-02-22,2021-02-28,8,110,"Bezirk Winterthur","booster",0
+2021-02-22,2021-02-28,8,111,"Bezirk Dietikon","atLeastOneDose",4354
+2021-02-22,2021-02-28,8,111,"Bezirk Dietikon","completedBasicImmu",1819
+2021-02-22,2021-02-28,8,111,"Bezirk Dietikon","booster",0
+2021-02-22,2021-02-28,8,112,"Bezirk Zurich","atLeastOneDose",24473
+2021-02-22,2021-02-28,8,112,"Bezirk Zurich","completedBasicImmu",11037
+2021-02-22,2021-02-28,8,112,"Bezirk Zurich","booster",0
+2021-02-22,2021-02-28,8,NA,"andere Kantone","atLeastOneDose",780
+2021-02-22,2021-02-28,8,NA,"andere Kantone","completedBasicImmu",415
+2021-02-22,2021-02-28,8,NA,"andere Kantone","booster",0
+2021-02-22,2021-02-28,8,NA,"Nachbarkantone","atLeastOneDose",3959
+2021-02-22,2021-02-28,8,NA,"Nachbarkantone","completedBasicImmu",1680
+2021-02-22,2021-02-28,8,NA,"Nachbarkantone","booster",0
+2021-02-22,2021-02-28,8,NA,"unbekannt","atLeastOneDose",656
+2021-02-22,2021-02-28,8,NA,"unbekannt","completedBasicImmu",244
+2021-02-22,2021-02-28,8,NA,"unbekannt","booster",0
+2021-02-22,2021-02-28,8,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",63
+2021-02-22,2021-02-28,8,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",1205
+2021-02-22,2021-02-28,8,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-03-01,2021-03-07,9,101,"Bezirk Affoltern","atLeastOneDose",2831
+2021-03-01,2021-03-07,9,101,"Bezirk Affoltern","completedBasicImmu",1822
+2021-03-01,2021-03-07,9,101,"Bezirk Affoltern","booster",0
+2021-03-01,2021-03-07,9,102,"Bezirk Andelfingen","atLeastOneDose",2037
+2021-03-01,2021-03-07,9,102,"Bezirk Andelfingen","completedBasicImmu",1603
+2021-03-01,2021-03-07,9,102,"Bezirk Andelfingen","booster",0
+2021-03-01,2021-03-07,9,103,"Bezirk Bulach","atLeastOneDose",7101
+2021-03-01,2021-03-07,9,103,"Bezirk Bulach","completedBasicImmu",4677
+2021-03-01,2021-03-07,9,103,"Bezirk Bulach","booster",0
+2021-03-01,2021-03-07,9,104,"Bezirk Dielsdorf","atLeastOneDose",4189
+2021-03-01,2021-03-07,9,104,"Bezirk Dielsdorf","completedBasicImmu",2486
+2021-03-01,2021-03-07,9,104,"Bezirk Dielsdorf","booster",0
+2021-03-01,2021-03-07,9,105,"Bezirk Hinwil","atLeastOneDose",5514
+2021-03-01,2021-03-07,9,105,"Bezirk Hinwil","completedBasicImmu",2629
+2021-03-01,2021-03-07,9,105,"Bezirk Hinwil","booster",0
+2021-03-01,2021-03-07,9,106,"Bezirk Horgen","atLeastOneDose",6999
+2021-03-01,2021-03-07,9,106,"Bezirk Horgen","completedBasicImmu",3806
+2021-03-01,2021-03-07,9,106,"Bezirk Horgen","booster",0
+2021-03-01,2021-03-07,9,107,"Bezirk Meilen","atLeastOneDose",8648
+2021-03-01,2021-03-07,9,107,"Bezirk Meilen","completedBasicImmu",4618
+2021-03-01,2021-03-07,9,107,"Bezirk Meilen","booster",0
+2021-03-01,2021-03-07,9,108,"Bezirk Pfaffikon","atLeastOneDose",3350
+2021-03-01,2021-03-07,9,108,"Bezirk Pfaffikon","completedBasicImmu",1784
+2021-03-01,2021-03-07,9,108,"Bezirk Pfaffikon","booster",0
+2021-03-01,2021-03-07,9,109,"Bezirk Uster","atLeastOneDose",7560
+2021-03-01,2021-03-07,9,109,"Bezirk Uster","completedBasicImmu",4071
+2021-03-01,2021-03-07,9,109,"Bezirk Uster","booster",0
+2021-03-01,2021-03-07,9,110,"Bezirk Winterthur","atLeastOneDose",9869
+2021-03-01,2021-03-07,9,110,"Bezirk Winterthur","completedBasicImmu",5908
+2021-03-01,2021-03-07,9,110,"Bezirk Winterthur","booster",0
+2021-03-01,2021-03-07,9,111,"Bezirk Dietikon","atLeastOneDose",4545
+2021-03-01,2021-03-07,9,111,"Bezirk Dietikon","completedBasicImmu",2617
+2021-03-01,2021-03-07,9,111,"Bezirk Dietikon","booster",0
+2021-03-01,2021-03-07,9,112,"Bezirk Zurich","atLeastOneDose",25890
+2021-03-01,2021-03-07,9,112,"Bezirk Zurich","completedBasicImmu",16401
+2021-03-01,2021-03-07,9,112,"Bezirk Zurich","booster",0
+2021-03-01,2021-03-07,9,NA,"andere Kantone","atLeastOneDose",845
+2021-03-01,2021-03-07,9,NA,"andere Kantone","completedBasicImmu",559
+2021-03-01,2021-03-07,9,NA,"andere Kantone","booster",0
+2021-03-01,2021-03-07,9,NA,"Nachbarkantone","atLeastOneDose",4233
+2021-03-01,2021-03-07,9,NA,"Nachbarkantone","completedBasicImmu",2423
+2021-03-01,2021-03-07,9,NA,"Nachbarkantone","booster",0
+2021-03-01,2021-03-07,9,NA,"unbekannt","atLeastOneDose",686
+2021-03-01,2021-03-07,9,NA,"unbekannt","completedBasicImmu",495
+2021-03-01,2021-03-07,9,NA,"unbekannt","booster",0
+2021-03-01,2021-03-07,9,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",76
+2021-03-01,2021-03-07,9,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",1522
+2021-03-01,2021-03-07,9,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-03-08,2021-03-14,10,101,"Bezirk Affoltern","atLeastOneDose",3286
+2021-03-08,2021-03-14,10,101,"Bezirk Affoltern","completedBasicImmu",2195
+2021-03-08,2021-03-14,10,101,"Bezirk Affoltern","booster",0
+2021-03-08,2021-03-14,10,102,"Bezirk Andelfingen","atLeastOneDose",2224
+2021-03-08,2021-03-14,10,102,"Bezirk Andelfingen","completedBasicImmu",1697
+2021-03-08,2021-03-14,10,102,"Bezirk Andelfingen","booster",0
+2021-03-08,2021-03-14,10,103,"Bezirk Bulach","atLeastOneDose",8160
+2021-03-08,2021-03-14,10,103,"Bezirk Bulach","completedBasicImmu",5194
+2021-03-08,2021-03-14,10,103,"Bezirk Bulach","booster",0
+2021-03-08,2021-03-14,10,104,"Bezirk Dielsdorf","atLeastOneDose",4631
+2021-03-08,2021-03-14,10,104,"Bezirk Dielsdorf","completedBasicImmu",2905
+2021-03-08,2021-03-14,10,104,"Bezirk Dielsdorf","booster",0
+2021-03-08,2021-03-14,10,105,"Bezirk Hinwil","atLeastOneDose",6592
+2021-03-08,2021-03-14,10,105,"Bezirk Hinwil","completedBasicImmu",3616
+2021-03-08,2021-03-14,10,105,"Bezirk Hinwil","booster",0
+2021-03-08,2021-03-14,10,106,"Bezirk Horgen","atLeastOneDose",8086
+2021-03-08,2021-03-14,10,106,"Bezirk Horgen","completedBasicImmu",4547
+2021-03-08,2021-03-14,10,106,"Bezirk Horgen","booster",0
+2021-03-08,2021-03-14,10,107,"Bezirk Meilen","atLeastOneDose",10353
+2021-03-08,2021-03-14,10,107,"Bezirk Meilen","completedBasicImmu",5527
+2021-03-08,2021-03-14,10,107,"Bezirk Meilen","booster",0
+2021-03-08,2021-03-14,10,108,"Bezirk Pfaffikon","atLeastOneDose",3840
+2021-03-08,2021-03-14,10,108,"Bezirk Pfaffikon","completedBasicImmu",2246
+2021-03-08,2021-03-14,10,108,"Bezirk Pfaffikon","booster",0
+2021-03-08,2021-03-14,10,109,"Bezirk Uster","atLeastOneDose",8798
+2021-03-08,2021-03-14,10,109,"Bezirk Uster","completedBasicImmu",4797
+2021-03-08,2021-03-14,10,109,"Bezirk Uster","booster",0
+2021-03-08,2021-03-14,10,110,"Bezirk Winterthur","atLeastOneDose",11710
+2021-03-08,2021-03-14,10,110,"Bezirk Winterthur","completedBasicImmu",6577
+2021-03-08,2021-03-14,10,110,"Bezirk Winterthur","booster",0
+2021-03-08,2021-03-14,10,111,"Bezirk Dietikon","atLeastOneDose",5245
+2021-03-08,2021-03-14,10,111,"Bezirk Dietikon","completedBasicImmu",3062
+2021-03-08,2021-03-14,10,111,"Bezirk Dietikon","booster",0
+2021-03-08,2021-03-14,10,112,"Bezirk Zurich","atLeastOneDose",29884
+2021-03-08,2021-03-14,10,112,"Bezirk Zurich","completedBasicImmu",18059
+2021-03-08,2021-03-14,10,112,"Bezirk Zurich","booster",0
+2021-03-08,2021-03-14,10,NA,"andere Kantone","atLeastOneDose",1037
+2021-03-08,2021-03-14,10,NA,"andere Kantone","completedBasicImmu",619
+2021-03-08,2021-03-14,10,NA,"andere Kantone","booster",0
+2021-03-08,2021-03-14,10,NA,"Nachbarkantone","atLeastOneDose",5315
+2021-03-08,2021-03-14,10,NA,"Nachbarkantone","completedBasicImmu",2735
+2021-03-08,2021-03-14,10,NA,"Nachbarkantone","booster",0
+2021-03-08,2021-03-14,10,NA,"unbekannt","atLeastOneDose",819
+2021-03-08,2021-03-14,10,NA,"unbekannt","completedBasicImmu",522
+2021-03-08,2021-03-14,10,NA,"unbekannt","booster",0
+2021-03-08,2021-03-14,10,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",87
+2021-03-08,2021-03-14,10,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",2010
+2021-03-08,2021-03-14,10,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-03-15,2021-03-21,11,101,"Bezirk Affoltern","atLeastOneDose",3511
+2021-03-15,2021-03-21,11,101,"Bezirk Affoltern","completedBasicImmu",2488
+2021-03-15,2021-03-21,11,101,"Bezirk Affoltern","booster",0
+2021-03-15,2021-03-21,11,102,"Bezirk Andelfingen","atLeastOneDose",2524
+2021-03-15,2021-03-21,11,102,"Bezirk Andelfingen","completedBasicImmu",1925
+2021-03-15,2021-03-21,11,102,"Bezirk Andelfingen","booster",0
+2021-03-15,2021-03-21,11,103,"Bezirk Bulach","atLeastOneDose",9155
+2021-03-15,2021-03-21,11,103,"Bezirk Bulach","completedBasicImmu",5859
+2021-03-15,2021-03-21,11,103,"Bezirk Bulach","booster",0
+2021-03-15,2021-03-21,11,104,"Bezirk Dielsdorf","atLeastOneDose",5070
+2021-03-15,2021-03-21,11,104,"Bezirk Dielsdorf","completedBasicImmu",3508
+2021-03-15,2021-03-21,11,104,"Bezirk Dielsdorf","booster",0
+2021-03-15,2021-03-21,11,105,"Bezirk Hinwil","atLeastOneDose",7151
+2021-03-15,2021-03-21,11,105,"Bezirk Hinwil","completedBasicImmu",4993
+2021-03-15,2021-03-21,11,105,"Bezirk Hinwil","booster",0
+2021-03-15,2021-03-21,11,106,"Bezirk Horgen","atLeastOneDose",8859
+2021-03-15,2021-03-21,11,106,"Bezirk Horgen","completedBasicImmu",6025
+2021-03-15,2021-03-21,11,106,"Bezirk Horgen","booster",0
+2021-03-15,2021-03-21,11,107,"Bezirk Meilen","atLeastOneDose",11556
+2021-03-15,2021-03-21,11,107,"Bezirk Meilen","completedBasicImmu",7737
+2021-03-15,2021-03-21,11,107,"Bezirk Meilen","booster",0
+2021-03-15,2021-03-21,11,108,"Bezirk Pfaffikon","atLeastOneDose",4331
+2021-03-15,2021-03-21,11,108,"Bezirk Pfaffikon","completedBasicImmu",2995
+2021-03-15,2021-03-21,11,108,"Bezirk Pfaffikon","booster",0
+2021-03-15,2021-03-21,11,109,"Bezirk Uster","atLeastOneDose",9934
+2021-03-15,2021-03-21,11,109,"Bezirk Uster","completedBasicImmu",6975
+2021-03-15,2021-03-21,11,109,"Bezirk Uster","booster",0
+2021-03-15,2021-03-21,11,110,"Bezirk Winterthur","atLeastOneDose",13352
+2021-03-15,2021-03-21,11,110,"Bezirk Winterthur","completedBasicImmu",8971
+2021-03-15,2021-03-21,11,110,"Bezirk Winterthur","booster",0
+2021-03-15,2021-03-21,11,111,"Bezirk Dietikon","atLeastOneDose",5817
+2021-03-15,2021-03-21,11,111,"Bezirk Dietikon","completedBasicImmu",3872
+2021-03-15,2021-03-21,11,111,"Bezirk Dietikon","booster",0
+2021-03-15,2021-03-21,11,112,"Bezirk Zurich","atLeastOneDose",32920
+2021-03-15,2021-03-21,11,112,"Bezirk Zurich","completedBasicImmu",22539
+2021-03-15,2021-03-21,11,112,"Bezirk Zurich","booster",0
+2021-03-15,2021-03-21,11,NA,"andere Kantone","atLeastOneDose",1185
+2021-03-15,2021-03-21,11,NA,"andere Kantone","completedBasicImmu",736
+2021-03-15,2021-03-21,11,NA,"andere Kantone","booster",0
+2021-03-15,2021-03-21,11,NA,"Nachbarkantone","atLeastOneDose",5974
+2021-03-15,2021-03-21,11,NA,"Nachbarkantone","completedBasicImmu",3590
+2021-03-15,2021-03-21,11,NA,"Nachbarkantone","booster",0
+2021-03-15,2021-03-21,11,NA,"unbekannt","atLeastOneDose",907
+2021-03-15,2021-03-21,11,NA,"unbekannt","completedBasicImmu",606
+2021-03-15,2021-03-21,11,NA,"unbekannt","booster",0
+2021-03-15,2021-03-21,11,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",92
+2021-03-15,2021-03-21,11,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",2348
+2021-03-15,2021-03-21,11,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-03-22,2021-03-28,12,101,"Bezirk Affoltern","atLeastOneDose",3842
+2021-03-22,2021-03-28,12,101,"Bezirk Affoltern","completedBasicImmu",2619
+2021-03-22,2021-03-28,12,101,"Bezirk Affoltern","booster",0
+2021-03-22,2021-03-28,12,102,"Bezirk Andelfingen","atLeastOneDose",2708
+2021-03-22,2021-03-28,12,102,"Bezirk Andelfingen","completedBasicImmu",1957
+2021-03-22,2021-03-28,12,102,"Bezirk Andelfingen","booster",0
+2021-03-22,2021-03-28,12,103,"Bezirk Bulach","atLeastOneDose",10328
+2021-03-22,2021-03-28,12,103,"Bezirk Bulach","completedBasicImmu",6583
+2021-03-22,2021-03-28,12,103,"Bezirk Bulach","booster",0
+2021-03-22,2021-03-28,12,104,"Bezirk Dielsdorf","atLeastOneDose",5561
+2021-03-22,2021-03-28,12,104,"Bezirk Dielsdorf","completedBasicImmu",3881
+2021-03-22,2021-03-28,12,104,"Bezirk Dielsdorf","booster",0
+2021-03-22,2021-03-28,12,105,"Bezirk Hinwil","atLeastOneDose",7959
+2021-03-22,2021-03-28,12,105,"Bezirk Hinwil","completedBasicImmu",5155
+2021-03-22,2021-03-28,12,105,"Bezirk Hinwil","booster",0
+2021-03-22,2021-03-28,12,106,"Bezirk Horgen","atLeastOneDose",10010
+2021-03-22,2021-03-28,12,106,"Bezirk Horgen","completedBasicImmu",6520
+2021-03-22,2021-03-28,12,106,"Bezirk Horgen","booster",0
+2021-03-22,2021-03-28,12,107,"Bezirk Meilen","atLeastOneDose",13048
+2021-03-22,2021-03-28,12,107,"Bezirk Meilen","completedBasicImmu",8169
+2021-03-22,2021-03-28,12,107,"Bezirk Meilen","booster",0
+2021-03-22,2021-03-28,12,108,"Bezirk Pfaffikon","atLeastOneDose",4977
+2021-03-22,2021-03-28,12,108,"Bezirk Pfaffikon","completedBasicImmu",3204
+2021-03-22,2021-03-28,12,108,"Bezirk Pfaffikon","booster",0
+2021-03-22,2021-03-28,12,109,"Bezirk Uster","atLeastOneDose",11008
+2021-03-22,2021-03-28,12,109,"Bezirk Uster","completedBasicImmu",7188
+2021-03-22,2021-03-28,12,109,"Bezirk Uster","booster",0
+2021-03-22,2021-03-28,12,110,"Bezirk Winterthur","atLeastOneDose",14525
+2021-03-22,2021-03-28,12,110,"Bezirk Winterthur","completedBasicImmu",9331
+2021-03-22,2021-03-28,12,110,"Bezirk Winterthur","booster",0
+2021-03-22,2021-03-28,12,111,"Bezirk Dietikon","atLeastOneDose",6669
+2021-03-22,2021-03-28,12,111,"Bezirk Dietikon","completedBasicImmu",4287
+2021-03-22,2021-03-28,12,111,"Bezirk Dietikon","booster",0
+2021-03-22,2021-03-28,12,112,"Bezirk Zurich","atLeastOneDose",36504
+2021-03-22,2021-03-28,12,112,"Bezirk Zurich","completedBasicImmu",24101
+2021-03-22,2021-03-28,12,112,"Bezirk Zurich","booster",0
+2021-03-22,2021-03-28,12,NA,"andere Kantone","atLeastOneDose",1363
+2021-03-22,2021-03-28,12,NA,"andere Kantone","completedBasicImmu",772
+2021-03-22,2021-03-28,12,NA,"andere Kantone","booster",0
+2021-03-22,2021-03-28,12,NA,"Nachbarkantone","atLeastOneDose",6582
+2021-03-22,2021-03-28,12,NA,"Nachbarkantone","completedBasicImmu",3883
+2021-03-22,2021-03-28,12,NA,"Nachbarkantone","booster",0
+2021-03-22,2021-03-28,12,NA,"unbekannt","atLeastOneDose",973
+2021-03-22,2021-03-28,12,NA,"unbekannt","completedBasicImmu",633
+2021-03-22,2021-03-28,12,NA,"unbekannt","booster",0
+2021-03-22,2021-03-28,12,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",112
+2021-03-22,2021-03-28,12,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",2841
+2021-03-22,2021-03-28,12,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-03-29,2021-04-04,13,101,"Bezirk Affoltern","atLeastOneDose",4042
+2021-03-29,2021-04-04,13,101,"Bezirk Affoltern","completedBasicImmu",2738
+2021-03-29,2021-04-04,13,101,"Bezirk Affoltern","booster",0
+2021-03-29,2021-04-04,13,102,"Bezirk Andelfingen","atLeastOneDose",2965
+2021-03-29,2021-04-04,13,102,"Bezirk Andelfingen","completedBasicImmu",2007
+2021-03-29,2021-04-04,13,102,"Bezirk Andelfingen","booster",0
+2021-03-29,2021-04-04,13,103,"Bezirk Bulach","atLeastOneDose",12040
+2021-03-29,2021-04-04,13,103,"Bezirk Bulach","completedBasicImmu",6980
+2021-03-29,2021-04-04,13,103,"Bezirk Bulach","booster",0
+2021-03-29,2021-04-04,13,104,"Bezirk Dielsdorf","atLeastOneDose",6568
+2021-03-29,2021-04-04,13,104,"Bezirk Dielsdorf","completedBasicImmu",4034
+2021-03-29,2021-04-04,13,104,"Bezirk Dielsdorf","booster",0
+2021-03-29,2021-04-04,13,105,"Bezirk Hinwil","atLeastOneDose",8888
+2021-03-29,2021-04-04,13,105,"Bezirk Hinwil","completedBasicImmu",5312
+2021-03-29,2021-04-04,13,105,"Bezirk Hinwil","booster",0
+2021-03-29,2021-04-04,13,106,"Bezirk Horgen","atLeastOneDose",11603
+2021-03-29,2021-04-04,13,106,"Bezirk Horgen","completedBasicImmu",6869
+2021-03-29,2021-04-04,13,106,"Bezirk Horgen","booster",0
+2021-03-29,2021-04-04,13,107,"Bezirk Meilen","atLeastOneDose",13959
+2021-03-29,2021-04-04,13,107,"Bezirk Meilen","completedBasicImmu",8507
+2021-03-29,2021-04-04,13,107,"Bezirk Meilen","booster",0
+2021-03-29,2021-04-04,13,108,"Bezirk Pfaffikon","atLeastOneDose",5640
+2021-03-29,2021-04-04,13,108,"Bezirk Pfaffikon","completedBasicImmu",3320
+2021-03-29,2021-04-04,13,108,"Bezirk Pfaffikon","booster",0
+2021-03-29,2021-04-04,13,109,"Bezirk Uster","atLeastOneDose",12709
+2021-03-29,2021-04-04,13,109,"Bezirk Uster","completedBasicImmu",7474
+2021-03-29,2021-04-04,13,109,"Bezirk Uster","booster",0
+2021-03-29,2021-04-04,13,110,"Bezirk Winterthur","atLeastOneDose",16316
+2021-03-29,2021-04-04,13,110,"Bezirk Winterthur","completedBasicImmu",9571
+2021-03-29,2021-04-04,13,110,"Bezirk Winterthur","booster",0
+2021-03-29,2021-04-04,13,111,"Bezirk Dietikon","atLeastOneDose",7537
+2021-03-29,2021-04-04,13,111,"Bezirk Dietikon","completedBasicImmu",4472
+2021-03-29,2021-04-04,13,111,"Bezirk Dietikon","booster",0
+2021-03-29,2021-04-04,13,112,"Bezirk Zurich","atLeastOneDose",40318
+2021-03-29,2021-04-04,13,112,"Bezirk Zurich","completedBasicImmu",25474
+2021-03-29,2021-04-04,13,112,"Bezirk Zurich","booster",0
+2021-03-29,2021-04-04,13,NA,"andere Kantone","atLeastOneDose",1461
+2021-03-29,2021-04-04,13,NA,"andere Kantone","completedBasicImmu",826
+2021-03-29,2021-04-04,13,NA,"andere Kantone","booster",0
+2021-03-29,2021-04-04,13,NA,"Nachbarkantone","atLeastOneDose",6991
+2021-03-29,2021-04-04,13,NA,"Nachbarkantone","completedBasicImmu",4113
+2021-03-29,2021-04-04,13,NA,"Nachbarkantone","booster",0
+2021-03-29,2021-04-04,13,NA,"unbekannt","atLeastOneDose",1023
+2021-03-29,2021-04-04,13,NA,"unbekannt","completedBasicImmu",655
+2021-03-29,2021-04-04,13,NA,"unbekannt","booster",0
+2021-03-29,2021-04-04,13,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",131
+2021-03-29,2021-04-04,13,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",3192
+2021-03-29,2021-04-04,13,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-04-05,2021-04-11,14,101,"Bezirk Affoltern","atLeastOneDose",4784
+2021-04-05,2021-04-11,14,101,"Bezirk Affoltern","completedBasicImmu",3218
+2021-04-05,2021-04-11,14,101,"Bezirk Affoltern","booster",0
+2021-04-05,2021-04-11,14,102,"Bezirk Andelfingen","atLeastOneDose",3355
+2021-04-05,2021-04-11,14,102,"Bezirk Andelfingen","completedBasicImmu",2200
+2021-04-05,2021-04-11,14,102,"Bezirk Andelfingen","booster",0
+2021-04-05,2021-04-11,14,103,"Bezirk Bulach","atLeastOneDose",14431
+2021-04-05,2021-04-11,14,103,"Bezirk Bulach","completedBasicImmu",7990
+2021-04-05,2021-04-11,14,103,"Bezirk Bulach","booster",0
+2021-04-05,2021-04-11,14,104,"Bezirk Dielsdorf","atLeastOneDose",7676
+2021-04-05,2021-04-11,14,104,"Bezirk Dielsdorf","completedBasicImmu",4456
+2021-04-05,2021-04-11,14,104,"Bezirk Dielsdorf","booster",0
+2021-04-05,2021-04-11,14,105,"Bezirk Hinwil","atLeastOneDose",9907
+2021-04-05,2021-04-11,14,105,"Bezirk Hinwil","completedBasicImmu",6137
+2021-04-05,2021-04-11,14,105,"Bezirk Hinwil","booster",0
+2021-04-05,2021-04-11,14,106,"Bezirk Horgen","atLeastOneDose",13150
+2021-04-05,2021-04-11,14,106,"Bezirk Horgen","completedBasicImmu",7852
+2021-04-05,2021-04-11,14,106,"Bezirk Horgen","booster",0
+2021-04-05,2021-04-11,14,107,"Bezirk Meilen","atLeastOneDose",15490
+2021-04-05,2021-04-11,14,107,"Bezirk Meilen","completedBasicImmu",10118
+2021-04-05,2021-04-11,14,107,"Bezirk Meilen","booster",0
+2021-04-05,2021-04-11,14,108,"Bezirk Pfaffikon","atLeastOneDose",6385
+2021-04-05,2021-04-11,14,108,"Bezirk Pfaffikon","completedBasicImmu",3767
+2021-04-05,2021-04-11,14,108,"Bezirk Pfaffikon","booster",0
+2021-04-05,2021-04-11,14,109,"Bezirk Uster","atLeastOneDose",14735
+2021-04-05,2021-04-11,14,109,"Bezirk Uster","completedBasicImmu",8622
+2021-04-05,2021-04-11,14,109,"Bezirk Uster","booster",0
+2021-04-05,2021-04-11,14,110,"Bezirk Winterthur","atLeastOneDose",18855
+2021-04-05,2021-04-11,14,110,"Bezirk Winterthur","completedBasicImmu",11347
+2021-04-05,2021-04-11,14,110,"Bezirk Winterthur","booster",0
+2021-04-05,2021-04-11,14,111,"Bezirk Dietikon","atLeastOneDose",9642
+2021-04-05,2021-04-11,14,111,"Bezirk Dietikon","completedBasicImmu",5120
+2021-04-05,2021-04-11,14,111,"Bezirk Dietikon","booster",0
+2021-04-05,2021-04-11,14,112,"Bezirk Zurich","atLeastOneDose",46536
+2021-04-05,2021-04-11,14,112,"Bezirk Zurich","completedBasicImmu",29018
+2021-04-05,2021-04-11,14,112,"Bezirk Zurich","booster",0
+2021-04-05,2021-04-11,14,NA,"andere Kantone","atLeastOneDose",1548
+2021-04-05,2021-04-11,14,NA,"andere Kantone","completedBasicImmu",1007
+2021-04-05,2021-04-11,14,NA,"andere Kantone","booster",0
+2021-04-05,2021-04-11,14,NA,"Nachbarkantone","atLeastOneDose",7357
+2021-04-05,2021-04-11,14,NA,"Nachbarkantone","completedBasicImmu",5145
+2021-04-05,2021-04-11,14,NA,"Nachbarkantone","booster",0
+2021-04-05,2021-04-11,14,NA,"unbekannt","atLeastOneDose",1133
+2021-04-05,2021-04-11,14,NA,"unbekannt","completedBasicImmu",777
+2021-04-05,2021-04-11,14,NA,"unbekannt","booster",0
+2021-04-05,2021-04-11,14,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",178
+2021-04-05,2021-04-11,14,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",3640
+2021-04-05,2021-04-11,14,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-04-12,2021-04-18,15,101,"Bezirk Affoltern","atLeastOneDose",6719
+2021-04-12,2021-04-18,15,101,"Bezirk Affoltern","completedBasicImmu",3471
+2021-04-12,2021-04-18,15,101,"Bezirk Affoltern","booster",0
+2021-04-12,2021-04-18,15,102,"Bezirk Andelfingen","atLeastOneDose",4405
+2021-04-12,2021-04-18,15,102,"Bezirk Andelfingen","completedBasicImmu",2407
+2021-04-12,2021-04-18,15,102,"Bezirk Andelfingen","booster",0
+2021-04-12,2021-04-18,15,103,"Bezirk Bulach","atLeastOneDose",18870
+2021-04-12,2021-04-18,15,103,"Bezirk Bulach","completedBasicImmu",9064
+2021-04-12,2021-04-18,15,103,"Bezirk Bulach","booster",0
+2021-04-12,2021-04-18,15,104,"Bezirk Dielsdorf","atLeastOneDose",10076
+2021-04-12,2021-04-18,15,104,"Bezirk Dielsdorf","completedBasicImmu",4907
+2021-04-12,2021-04-18,15,104,"Bezirk Dielsdorf","booster",0
+2021-04-12,2021-04-18,15,105,"Bezirk Hinwil","atLeastOneDose",12083
+2021-04-12,2021-04-18,15,105,"Bezirk Hinwil","completedBasicImmu",7013
+2021-04-12,2021-04-18,15,105,"Bezirk Hinwil","booster",0
+2021-04-12,2021-04-18,15,106,"Bezirk Horgen","atLeastOneDose",17091
+2021-04-12,2021-04-18,15,106,"Bezirk Horgen","completedBasicImmu",8720
+2021-04-12,2021-04-18,15,106,"Bezirk Horgen","booster",0
+2021-04-12,2021-04-18,15,107,"Bezirk Meilen","atLeastOneDose",19362
+2021-04-12,2021-04-18,15,107,"Bezirk Meilen","completedBasicImmu",11473
+2021-04-12,2021-04-18,15,107,"Bezirk Meilen","booster",0
+2021-04-12,2021-04-18,15,108,"Bezirk Pfaffikon","atLeastOneDose",8371
+2021-04-12,2021-04-18,15,108,"Bezirk Pfaffikon","completedBasicImmu",4325
+2021-04-12,2021-04-18,15,108,"Bezirk Pfaffikon","booster",0
+2021-04-12,2021-04-18,15,109,"Bezirk Uster","atLeastOneDose",18628
+2021-04-12,2021-04-18,15,109,"Bezirk Uster","completedBasicImmu",9868
+2021-04-12,2021-04-18,15,109,"Bezirk Uster","booster",0
+2021-04-12,2021-04-18,15,110,"Bezirk Winterthur","atLeastOneDose",24793
+2021-04-12,2021-04-18,15,110,"Bezirk Winterthur","completedBasicImmu",13311
+2021-04-12,2021-04-18,15,110,"Bezirk Winterthur","booster",0
+2021-04-12,2021-04-18,15,111,"Bezirk Dietikon","atLeastOneDose",12495
+2021-04-12,2021-04-18,15,111,"Bezirk Dietikon","completedBasicImmu",5751
+2021-04-12,2021-04-18,15,111,"Bezirk Dietikon","booster",0
+2021-04-12,2021-04-18,15,112,"Bezirk Zurich","atLeastOneDose",59211
+2021-04-12,2021-04-18,15,112,"Bezirk Zurich","completedBasicImmu",32533
+2021-04-12,2021-04-18,15,112,"Bezirk Zurich","booster",0
+2021-04-12,2021-04-18,15,NA,"andere Kantone","atLeastOneDose",1735
+2021-04-12,2021-04-18,15,NA,"andere Kantone","completedBasicImmu",1169
+2021-04-12,2021-04-18,15,NA,"andere Kantone","booster",0
+2021-04-12,2021-04-18,15,NA,"Nachbarkantone","atLeastOneDose",8121
+2021-04-12,2021-04-18,15,NA,"Nachbarkantone","completedBasicImmu",5875
+2021-04-12,2021-04-18,15,NA,"Nachbarkantone","booster",0
+2021-04-12,2021-04-18,15,NA,"unbekannt","atLeastOneDose",1309
+2021-04-12,2021-04-18,15,NA,"unbekannt","completedBasicImmu",886
+2021-04-12,2021-04-18,15,NA,"unbekannt","booster",0
+2021-04-12,2021-04-18,15,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",230
+2021-04-12,2021-04-18,15,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",4127
+2021-04-12,2021-04-18,15,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-04-19,2021-04-25,16,101,"Bezirk Affoltern","atLeastOneDose",9001
+2021-04-19,2021-04-25,16,101,"Bezirk Affoltern","completedBasicImmu",3785
+2021-04-19,2021-04-25,16,101,"Bezirk Affoltern","booster",0
+2021-04-19,2021-04-25,16,102,"Bezirk Andelfingen","atLeastOneDose",5459
+2021-04-19,2021-04-25,16,102,"Bezirk Andelfingen","completedBasicImmu",2707
+2021-04-19,2021-04-25,16,102,"Bezirk Andelfingen","booster",0
+2021-04-19,2021-04-25,16,103,"Bezirk Bulach","atLeastOneDose",24304
+2021-04-19,2021-04-25,16,103,"Bezirk Bulach","completedBasicImmu",10178
+2021-04-19,2021-04-25,16,103,"Bezirk Bulach","booster",0
+2021-04-19,2021-04-25,16,104,"Bezirk Dielsdorf","atLeastOneDose",13211
+2021-04-19,2021-04-25,16,104,"Bezirk Dielsdorf","completedBasicImmu",5377
+2021-04-19,2021-04-25,16,104,"Bezirk Dielsdorf","booster",0
+2021-04-19,2021-04-25,16,105,"Bezirk Hinwil","atLeastOneDose",15354
+2021-04-19,2021-04-25,16,105,"Bezirk Hinwil","completedBasicImmu",7810
+2021-04-19,2021-04-25,16,105,"Bezirk Hinwil","booster",0
+2021-04-19,2021-04-25,16,106,"Bezirk Horgen","atLeastOneDose",21651
+2021-04-19,2021-04-25,16,106,"Bezirk Horgen","completedBasicImmu",9685
+2021-04-19,2021-04-25,16,106,"Bezirk Horgen","booster",0
+2021-04-19,2021-04-25,16,107,"Bezirk Meilen","atLeastOneDose",23827
+2021-04-19,2021-04-25,16,107,"Bezirk Meilen","completedBasicImmu",12918
+2021-04-19,2021-04-25,16,107,"Bezirk Meilen","booster",0
+2021-04-19,2021-04-25,16,108,"Bezirk Pfaffikon","atLeastOneDose",10355
+2021-04-19,2021-04-25,16,108,"Bezirk Pfaffikon","completedBasicImmu",4835
+2021-04-19,2021-04-25,16,108,"Bezirk Pfaffikon","booster",0
+2021-04-19,2021-04-25,16,109,"Bezirk Uster","atLeastOneDose",23322
+2021-04-19,2021-04-25,16,109,"Bezirk Uster","completedBasicImmu",10929
+2021-04-19,2021-04-25,16,109,"Bezirk Uster","booster",0
+2021-04-19,2021-04-25,16,110,"Bezirk Winterthur","atLeastOneDose",30564
+2021-04-19,2021-04-25,16,110,"Bezirk Winterthur","completedBasicImmu",14629
+2021-04-19,2021-04-25,16,110,"Bezirk Winterthur","booster",0
+2021-04-19,2021-04-25,16,111,"Bezirk Dietikon","atLeastOneDose",15226
+2021-04-19,2021-04-25,16,111,"Bezirk Dietikon","completedBasicImmu",6448
+2021-04-19,2021-04-25,16,111,"Bezirk Dietikon","booster",0
+2021-04-19,2021-04-25,16,112,"Bezirk Zurich","atLeastOneDose",71604
+2021-04-19,2021-04-25,16,112,"Bezirk Zurich","completedBasicImmu",35799
+2021-04-19,2021-04-25,16,112,"Bezirk Zurich","booster",0
+2021-04-19,2021-04-25,16,NA,"andere Kantone","atLeastOneDose",1991
+2021-04-19,2021-04-25,16,NA,"andere Kantone","completedBasicImmu",1349
+2021-04-19,2021-04-25,16,NA,"andere Kantone","booster",0
+2021-04-19,2021-04-25,16,NA,"Nachbarkantone","atLeastOneDose",9135
+2021-04-19,2021-04-25,16,NA,"Nachbarkantone","completedBasicImmu",6496
+2021-04-19,2021-04-25,16,NA,"Nachbarkantone","booster",0
+2021-04-19,2021-04-25,16,NA,"unbekannt","atLeastOneDose",1521
+2021-04-19,2021-04-25,16,NA,"unbekannt","completedBasicImmu",950
+2021-04-19,2021-04-25,16,NA,"unbekannt","booster",0
+2021-04-19,2021-04-25,16,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",303
+2021-04-19,2021-04-25,16,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",4711
+2021-04-19,2021-04-25,16,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-04-26,2021-05-02,17,101,"Bezirk Affoltern","atLeastOneDose",10969
+2021-04-26,2021-05-02,17,101,"Bezirk Affoltern","completedBasicImmu",3990
+2021-04-26,2021-05-02,17,101,"Bezirk Affoltern","booster",0
+2021-04-26,2021-05-02,17,102,"Bezirk Andelfingen","atLeastOneDose",6497
+2021-04-26,2021-05-02,17,102,"Bezirk Andelfingen","completedBasicImmu",2970
+2021-04-26,2021-05-02,17,102,"Bezirk Andelfingen","booster",0
+2021-04-26,2021-05-02,17,103,"Bezirk Bulach","atLeastOneDose",29563
+2021-04-26,2021-05-02,17,103,"Bezirk Bulach","completedBasicImmu",11882
+2021-04-26,2021-05-02,17,103,"Bezirk Bulach","booster",0
+2021-04-26,2021-05-02,17,104,"Bezirk Dielsdorf","atLeastOneDose",16467
+2021-04-26,2021-05-02,17,104,"Bezirk Dielsdorf","completedBasicImmu",6165
+2021-04-26,2021-05-02,17,104,"Bezirk Dielsdorf","booster",0
+2021-04-26,2021-05-02,17,105,"Bezirk Hinwil","atLeastOneDose",18182
+2021-04-26,2021-05-02,17,105,"Bezirk Hinwil","completedBasicImmu",8739
+2021-04-26,2021-05-02,17,105,"Bezirk Hinwil","booster",0
+2021-04-26,2021-05-02,17,106,"Bezirk Horgen","atLeastOneDose",26311
+2021-04-26,2021-05-02,17,106,"Bezirk Horgen","completedBasicImmu",11366
+2021-04-26,2021-05-02,17,106,"Bezirk Horgen","booster",0
+2021-04-26,2021-05-02,17,107,"Bezirk Meilen","atLeastOneDose",27984
+2021-04-26,2021-05-02,17,107,"Bezirk Meilen","completedBasicImmu",13927
+2021-04-26,2021-05-02,17,107,"Bezirk Meilen","booster",0
+2021-04-26,2021-05-02,17,108,"Bezirk Pfaffikon","atLeastOneDose",12526
+2021-04-26,2021-05-02,17,108,"Bezirk Pfaffikon","completedBasicImmu",5443
+2021-04-26,2021-05-02,17,108,"Bezirk Pfaffikon","booster",0
+2021-04-26,2021-05-02,17,109,"Bezirk Uster","atLeastOneDose",28481
+2021-04-26,2021-05-02,17,109,"Bezirk Uster","completedBasicImmu",12321
+2021-04-26,2021-05-02,17,109,"Bezirk Uster","booster",0
+2021-04-26,2021-05-02,17,110,"Bezirk Winterthur","atLeastOneDose",35902
+2021-04-26,2021-05-02,17,110,"Bezirk Winterthur","completedBasicImmu",16053
+2021-04-26,2021-05-02,17,110,"Bezirk Winterthur","booster",0
+2021-04-26,2021-05-02,17,111,"Bezirk Dietikon","atLeastOneDose",17731
+2021-04-26,2021-05-02,17,111,"Bezirk Dietikon","completedBasicImmu",7413
+2021-04-26,2021-05-02,17,111,"Bezirk Dietikon","booster",0
+2021-04-26,2021-05-02,17,112,"Bezirk Zurich","atLeastOneDose",83163
+2021-04-26,2021-05-02,17,112,"Bezirk Zurich","completedBasicImmu",39297
+2021-04-26,2021-05-02,17,112,"Bezirk Zurich","booster",0
+2021-04-26,2021-05-02,17,NA,"andere Kantone","atLeastOneDose",2289
+2021-04-26,2021-05-02,17,NA,"andere Kantone","completedBasicImmu",1448
+2021-04-26,2021-05-02,17,NA,"andere Kantone","booster",0
+2021-04-26,2021-05-02,17,NA,"Nachbarkantone","atLeastOneDose",10246
+2021-04-26,2021-05-02,17,NA,"Nachbarkantone","completedBasicImmu",6950
+2021-04-26,2021-05-02,17,NA,"Nachbarkantone","booster",0
+2021-04-26,2021-05-02,17,NA,"unbekannt","atLeastOneDose",1780
+2021-04-26,2021-05-02,17,NA,"unbekannt","completedBasicImmu",1002
+2021-04-26,2021-05-02,17,NA,"unbekannt","booster",0
+2021-04-26,2021-05-02,17,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",385
+2021-04-26,2021-05-02,17,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",5150
+2021-04-26,2021-05-02,17,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-05-03,2021-05-09,18,101,"Bezirk Affoltern","atLeastOneDose",13017
+2021-05-03,2021-05-09,18,101,"Bezirk Affoltern","completedBasicImmu",4711
+2021-05-03,2021-05-09,18,101,"Bezirk Affoltern","booster",0
+2021-05-03,2021-05-09,18,102,"Bezirk Andelfingen","atLeastOneDose",8013
+2021-05-03,2021-05-09,18,102,"Bezirk Andelfingen","completedBasicImmu",3348
+2021-05-03,2021-05-09,18,102,"Bezirk Andelfingen","booster",0
+2021-05-03,2021-05-09,18,103,"Bezirk Bulach","atLeastOneDose",35094
+2021-05-03,2021-05-09,18,103,"Bezirk Bulach","completedBasicImmu",14088
+2021-05-03,2021-05-09,18,103,"Bezirk Bulach","booster",0
+2021-05-03,2021-05-09,18,104,"Bezirk Dielsdorf","atLeastOneDose",20015
+2021-05-03,2021-05-09,18,104,"Bezirk Dielsdorf","completedBasicImmu",7409
+2021-05-03,2021-05-09,18,104,"Bezirk Dielsdorf","booster",0
+2021-05-03,2021-05-09,18,105,"Bezirk Hinwil","atLeastOneDose",22843
+2021-05-03,2021-05-09,18,105,"Bezirk Hinwil","completedBasicImmu",9863
+2021-05-03,2021-05-09,18,105,"Bezirk Hinwil","booster",0
+2021-05-03,2021-05-09,18,106,"Bezirk Horgen","atLeastOneDose",32067
+2021-05-03,2021-05-09,18,106,"Bezirk Horgen","completedBasicImmu",13099
+2021-05-03,2021-05-09,18,106,"Bezirk Horgen","booster",0
+2021-05-03,2021-05-09,18,107,"Bezirk Meilen","atLeastOneDose",32801
+2021-05-03,2021-05-09,18,107,"Bezirk Meilen","completedBasicImmu",15557
+2021-05-03,2021-05-09,18,107,"Bezirk Meilen","booster",0
+2021-05-03,2021-05-09,18,108,"Bezirk Pfaffikon","atLeastOneDose",15208
+2021-05-03,2021-05-09,18,108,"Bezirk Pfaffikon","completedBasicImmu",6153
+2021-05-03,2021-05-09,18,108,"Bezirk Pfaffikon","booster",0
+2021-05-03,2021-05-09,18,109,"Bezirk Uster","atLeastOneDose",33921
+2021-05-03,2021-05-09,18,109,"Bezirk Uster","completedBasicImmu",14460
+2021-05-03,2021-05-09,18,109,"Bezirk Uster","booster",0
+2021-05-03,2021-05-09,18,110,"Bezirk Winterthur","atLeastOneDose",43292
+2021-05-03,2021-05-09,18,110,"Bezirk Winterthur","completedBasicImmu",18890
+2021-05-03,2021-05-09,18,110,"Bezirk Winterthur","booster",0
+2021-05-03,2021-05-09,18,111,"Bezirk Dietikon","atLeastOneDose",21727
+2021-05-03,2021-05-09,18,111,"Bezirk Dietikon","completedBasicImmu",9317
+2021-05-03,2021-05-09,18,111,"Bezirk Dietikon","booster",0
+2021-05-03,2021-05-09,18,112,"Bezirk Zurich","atLeastOneDose",98051
+2021-05-03,2021-05-09,18,112,"Bezirk Zurich","completedBasicImmu",46189
+2021-05-03,2021-05-09,18,112,"Bezirk Zurich","booster",0
+2021-05-03,2021-05-09,18,NA,"andere Kantone","atLeastOneDose",2832
+2021-05-03,2021-05-09,18,NA,"andere Kantone","completedBasicImmu",1543
+2021-05-03,2021-05-09,18,NA,"andere Kantone","booster",0
+2021-05-03,2021-05-09,18,NA,"Nachbarkantone","atLeastOneDose",12466
+2021-05-03,2021-05-09,18,NA,"Nachbarkantone","completedBasicImmu",7419
+2021-05-03,2021-05-09,18,NA,"Nachbarkantone","booster",0
+2021-05-03,2021-05-09,18,NA,"unbekannt","atLeastOneDose",2142
+2021-05-03,2021-05-09,18,NA,"unbekannt","completedBasicImmu",1076
+2021-05-03,2021-05-09,18,NA,"unbekannt","booster",0
+2021-05-03,2021-05-09,18,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",463
+2021-05-03,2021-05-09,18,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",5663
+2021-05-03,2021-05-09,18,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-05-10,2021-05-16,19,101,"Bezirk Affoltern","atLeastOneDose",15141
+2021-05-10,2021-05-16,19,101,"Bezirk Affoltern","completedBasicImmu",6333
+2021-05-10,2021-05-16,19,101,"Bezirk Affoltern","booster",0
+2021-05-10,2021-05-16,19,102,"Bezirk Andelfingen","atLeastOneDose",8807
+2021-05-10,2021-05-16,19,102,"Bezirk Andelfingen","completedBasicImmu",4060
+2021-05-10,2021-05-16,19,102,"Bezirk Andelfingen","booster",0
+2021-05-10,2021-05-16,19,103,"Bezirk Bulach","atLeastOneDose",39615
+2021-05-10,2021-05-16,19,103,"Bezirk Bulach","completedBasicImmu",17722
+2021-05-10,2021-05-16,19,103,"Bezirk Bulach","booster",0
+2021-05-10,2021-05-16,19,104,"Bezirk Dielsdorf","atLeastOneDose",22981
+2021-05-10,2021-05-16,19,104,"Bezirk Dielsdorf","completedBasicImmu",9287
+2021-05-10,2021-05-16,19,104,"Bezirk Dielsdorf","booster",0
+2021-05-10,2021-05-16,19,105,"Bezirk Hinwil","atLeastOneDose",26062
+2021-05-10,2021-05-16,19,105,"Bezirk Hinwil","completedBasicImmu",11634
+2021-05-10,2021-05-16,19,105,"Bezirk Hinwil","booster",0
+2021-05-10,2021-05-16,19,106,"Bezirk Horgen","atLeastOneDose",36756
+2021-05-10,2021-05-16,19,106,"Bezirk Horgen","completedBasicImmu",16102
+2021-05-10,2021-05-16,19,106,"Bezirk Horgen","booster",0
+2021-05-10,2021-05-16,19,107,"Bezirk Meilen","atLeastOneDose",37054
+2021-05-10,2021-05-16,19,107,"Bezirk Meilen","completedBasicImmu",18459
+2021-05-10,2021-05-16,19,107,"Bezirk Meilen","booster",0
+2021-05-10,2021-05-16,19,108,"Bezirk Pfaffikon","atLeastOneDose",17106
+2021-05-10,2021-05-16,19,108,"Bezirk Pfaffikon","completedBasicImmu",7914
+2021-05-10,2021-05-16,19,108,"Bezirk Pfaffikon","booster",0
+2021-05-10,2021-05-16,19,109,"Bezirk Uster","atLeastOneDose",38165
+2021-05-10,2021-05-16,19,109,"Bezirk Uster","completedBasicImmu",18162
+2021-05-10,2021-05-16,19,109,"Bezirk Uster","booster",0
+2021-05-10,2021-05-16,19,110,"Bezirk Winterthur","atLeastOneDose",48163
+2021-05-10,2021-05-16,19,110,"Bezirk Winterthur","completedBasicImmu",23506
+2021-05-10,2021-05-16,19,110,"Bezirk Winterthur","booster",0
+2021-05-10,2021-05-16,19,111,"Bezirk Dietikon","atLeastOneDose",23858
+2021-05-10,2021-05-16,19,111,"Bezirk Dietikon","completedBasicImmu",11742
+2021-05-10,2021-05-16,19,111,"Bezirk Dietikon","booster",0
+2021-05-10,2021-05-16,19,112,"Bezirk Zurich","atLeastOneDose",111975
+2021-05-10,2021-05-16,19,112,"Bezirk Zurich","completedBasicImmu",56950
+2021-05-10,2021-05-16,19,112,"Bezirk Zurich","booster",0
+2021-05-10,2021-05-16,19,NA,"andere Kantone","atLeastOneDose",3120
+2021-05-10,2021-05-16,19,NA,"andere Kantone","completedBasicImmu",1687
+2021-05-10,2021-05-16,19,NA,"andere Kantone","booster",0
+2021-05-10,2021-05-16,19,NA,"Nachbarkantone","atLeastOneDose",13702
+2021-05-10,2021-05-16,19,NA,"Nachbarkantone","completedBasicImmu",8001
+2021-05-10,2021-05-16,19,NA,"Nachbarkantone","booster",0
+2021-05-10,2021-05-16,19,NA,"unbekannt","atLeastOneDose",2411
+2021-05-10,2021-05-16,19,NA,"unbekannt","completedBasicImmu",1216
+2021-05-10,2021-05-16,19,NA,"unbekannt","booster",0
+2021-05-10,2021-05-16,19,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",527
+2021-05-10,2021-05-16,19,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",6370
+2021-05-10,2021-05-16,19,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-05-17,2021-05-23,20,101,"Bezirk Affoltern","atLeastOneDose",17266
+2021-05-17,2021-05-23,20,101,"Bezirk Affoltern","completedBasicImmu",8722
+2021-05-17,2021-05-23,20,101,"Bezirk Affoltern","booster",0
+2021-05-17,2021-05-23,20,102,"Bezirk Andelfingen","atLeastOneDose",9787
+2021-05-17,2021-05-23,20,102,"Bezirk Andelfingen","completedBasicImmu",5288
+2021-05-17,2021-05-23,20,102,"Bezirk Andelfingen","booster",0
+2021-05-17,2021-05-23,20,103,"Bezirk Bulach","atLeastOneDose",45005
+2021-05-17,2021-05-23,20,103,"Bezirk Bulach","completedBasicImmu",24109
+2021-05-17,2021-05-23,20,103,"Bezirk Bulach","booster",0
+2021-05-17,2021-05-23,20,104,"Bezirk Dielsdorf","atLeastOneDose",26530
+2021-05-17,2021-05-23,20,104,"Bezirk Dielsdorf","completedBasicImmu",12776
+2021-05-17,2021-05-23,20,104,"Bezirk Dielsdorf","booster",0
+2021-05-17,2021-05-23,20,105,"Bezirk Hinwil","atLeastOneDose",29316
+2021-05-17,2021-05-23,20,105,"Bezirk Hinwil","completedBasicImmu",15108
+2021-05-17,2021-05-23,20,105,"Bezirk Hinwil","booster",0
+2021-05-17,2021-05-23,20,106,"Bezirk Horgen","atLeastOneDose",41721
+2021-05-17,2021-05-23,20,106,"Bezirk Horgen","completedBasicImmu",21072
+2021-05-17,2021-05-23,20,106,"Bezirk Horgen","booster",0
+2021-05-17,2021-05-23,20,107,"Bezirk Meilen","atLeastOneDose",41486
+2021-05-17,2021-05-23,20,107,"Bezirk Meilen","completedBasicImmu",23392
+2021-05-17,2021-05-23,20,107,"Bezirk Meilen","booster",0
+2021-05-17,2021-05-23,20,108,"Bezirk Pfaffikon","atLeastOneDose",19073
+2021-05-17,2021-05-23,20,108,"Bezirk Pfaffikon","completedBasicImmu",10306
+2021-05-17,2021-05-23,20,108,"Bezirk Pfaffikon","booster",0
+2021-05-17,2021-05-23,20,109,"Bezirk Uster","atLeastOneDose",42768
+2021-05-17,2021-05-23,20,109,"Bezirk Uster","completedBasicImmu",22894
+2021-05-17,2021-05-23,20,109,"Bezirk Uster","booster",0
+2021-05-17,2021-05-23,20,110,"Bezirk Winterthur","atLeastOneDose",52916
+2021-05-17,2021-05-23,20,110,"Bezirk Winterthur","completedBasicImmu",30132
+2021-05-17,2021-05-23,20,110,"Bezirk Winterthur","booster",0
+2021-05-17,2021-05-23,20,111,"Bezirk Dietikon","atLeastOneDose",27036
+2021-05-17,2021-05-23,20,111,"Bezirk Dietikon","completedBasicImmu",14626
+2021-05-17,2021-05-23,20,111,"Bezirk Dietikon","booster",0
+2021-05-17,2021-05-23,20,112,"Bezirk Zurich","atLeastOneDose",129077
+2021-05-17,2021-05-23,20,112,"Bezirk Zurich","completedBasicImmu",70171
+2021-05-17,2021-05-23,20,112,"Bezirk Zurich","booster",0
+2021-05-17,2021-05-23,20,NA,"andere Kantone","atLeastOneDose",3576
+2021-05-17,2021-05-23,20,NA,"andere Kantone","completedBasicImmu",1947
+2021-05-17,2021-05-23,20,NA,"andere Kantone","booster",0
+2021-05-17,2021-05-23,20,NA,"Nachbarkantone","atLeastOneDose",15571
+2021-05-17,2021-05-23,20,NA,"Nachbarkantone","completedBasicImmu",9040
+2021-05-17,2021-05-23,20,NA,"Nachbarkantone","booster",0
+2021-05-17,2021-05-23,20,NA,"unbekannt","atLeastOneDose",2735
+2021-05-17,2021-05-23,20,NA,"unbekannt","completedBasicImmu",1446
+2021-05-17,2021-05-23,20,NA,"unbekannt","booster",0
+2021-05-17,2021-05-23,20,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",614
+2021-05-17,2021-05-23,20,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",7267
+2021-05-17,2021-05-23,20,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-05-24,2021-05-30,21,101,"Bezirk Affoltern","atLeastOneDose",18947
+2021-05-24,2021-05-30,21,101,"Bezirk Affoltern","completedBasicImmu",10592
+2021-05-24,2021-05-30,21,101,"Bezirk Affoltern","booster",0
+2021-05-24,2021-05-30,21,102,"Bezirk Andelfingen","atLeastOneDose",10486
+2021-05-24,2021-05-30,21,102,"Bezirk Andelfingen","completedBasicImmu",6355
+2021-05-24,2021-05-30,21,102,"Bezirk Andelfingen","booster",0
+2021-05-24,2021-05-30,21,103,"Bezirk Bulach","atLeastOneDose",49655
+2021-05-24,2021-05-30,21,103,"Bezirk Bulach","completedBasicImmu",29341
+2021-05-24,2021-05-30,21,103,"Bezirk Bulach","booster",0
+2021-05-24,2021-05-30,21,104,"Bezirk Dielsdorf","atLeastOneDose",28660
+2021-05-24,2021-05-30,21,104,"Bezirk Dielsdorf","completedBasicImmu",15850
+2021-05-24,2021-05-30,21,104,"Bezirk Dielsdorf","booster",0
+2021-05-24,2021-05-30,21,105,"Bezirk Hinwil","atLeastOneDose",31953
+2021-05-24,2021-05-30,21,105,"Bezirk Hinwil","completedBasicImmu",17917
+2021-05-24,2021-05-30,21,105,"Bezirk Hinwil","booster",0
+2021-05-24,2021-05-30,21,106,"Bezirk Horgen","atLeastOneDose",46345
+2021-05-24,2021-05-30,21,106,"Bezirk Horgen","completedBasicImmu",25922
+2021-05-24,2021-05-30,21,106,"Bezirk Horgen","booster",0
+2021-05-24,2021-05-30,21,107,"Bezirk Meilen","atLeastOneDose",45047
+2021-05-24,2021-05-30,21,107,"Bezirk Meilen","completedBasicImmu",27918
+2021-05-24,2021-05-30,21,107,"Bezirk Meilen","booster",0
+2021-05-24,2021-05-30,21,108,"Bezirk Pfaffikon","atLeastOneDose",20485
+2021-05-24,2021-05-30,21,108,"Bezirk Pfaffikon","completedBasicImmu",12339
+2021-05-24,2021-05-30,21,108,"Bezirk Pfaffikon","booster",0
+2021-05-24,2021-05-30,21,109,"Bezirk Uster","atLeastOneDose",46677
+2021-05-24,2021-05-30,21,109,"Bezirk Uster","completedBasicImmu",27836
+2021-05-24,2021-05-30,21,109,"Bezirk Uster","booster",0
+2021-05-24,2021-05-30,21,110,"Bezirk Winterthur","atLeastOneDose",58466
+2021-05-24,2021-05-30,21,110,"Bezirk Winterthur","completedBasicImmu",35492
+2021-05-24,2021-05-30,21,110,"Bezirk Winterthur","booster",0
+2021-05-24,2021-05-30,21,111,"Bezirk Dietikon","atLeastOneDose",29313
+2021-05-24,2021-05-30,21,111,"Bezirk Dietikon","completedBasicImmu",17361
+2021-05-24,2021-05-30,21,111,"Bezirk Dietikon","booster",0
+2021-05-24,2021-05-30,21,112,"Bezirk Zurich","atLeastOneDose",146494
+2021-05-24,2021-05-30,21,112,"Bezirk Zurich","completedBasicImmu",81971
+2021-05-24,2021-05-30,21,112,"Bezirk Zurich","booster",0
+2021-05-24,2021-05-30,21,NA,"andere Kantone","atLeastOneDose",4052
+2021-05-24,2021-05-30,21,NA,"andere Kantone","completedBasicImmu",2262
+2021-05-24,2021-05-30,21,NA,"andere Kantone","booster",0
+2021-05-24,2021-05-30,21,NA,"Nachbarkantone","atLeastOneDose",17252
+2021-05-24,2021-05-30,21,NA,"Nachbarkantone","completedBasicImmu",10259
+2021-05-24,2021-05-30,21,NA,"Nachbarkantone","booster",0
+2021-05-24,2021-05-30,21,NA,"unbekannt","atLeastOneDose",2988
+2021-05-24,2021-05-30,21,NA,"unbekannt","completedBasicImmu",1713
+2021-05-24,2021-05-30,21,NA,"unbekannt","booster",0
+2021-05-24,2021-05-30,21,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",671
+2021-05-24,2021-05-30,21,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",8155
+2021-05-24,2021-05-30,21,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-05-31,2021-06-06,22,101,"Bezirk Affoltern","atLeastOneDose",20737
+2021-05-31,2021-06-06,22,101,"Bezirk Affoltern","completedBasicImmu",12638
+2021-05-31,2021-06-06,22,101,"Bezirk Affoltern","booster",0
+2021-05-31,2021-06-06,22,102,"Bezirk Andelfingen","atLeastOneDose",11484
+2021-05-31,2021-06-06,22,102,"Bezirk Andelfingen","completedBasicImmu",7680
+2021-05-31,2021-06-06,22,102,"Bezirk Andelfingen","booster",0
+2021-05-31,2021-06-06,22,103,"Bezirk Bulach","atLeastOneDose",55998
+2021-05-31,2021-06-06,22,103,"Bezirk Bulach","completedBasicImmu",34337
+2021-05-31,2021-06-06,22,103,"Bezirk Bulach","booster",0
+2021-05-31,2021-06-06,22,104,"Bezirk Dielsdorf","atLeastOneDose",31798
+2021-05-31,2021-06-06,22,104,"Bezirk Dielsdorf","completedBasicImmu",19230
+2021-05-31,2021-06-06,22,104,"Bezirk Dielsdorf","booster",0
+2021-05-31,2021-06-06,22,105,"Bezirk Hinwil","atLeastOneDose",34788
+2021-05-31,2021-06-06,22,105,"Bezirk Hinwil","completedBasicImmu",21271
+2021-05-31,2021-06-06,22,105,"Bezirk Hinwil","booster",0
+2021-05-31,2021-06-06,22,106,"Bezirk Horgen","atLeastOneDose",50794
+2021-05-31,2021-06-06,22,106,"Bezirk Horgen","completedBasicImmu",31237
+2021-05-31,2021-06-06,22,106,"Bezirk Horgen","booster",0
+2021-05-31,2021-06-06,22,107,"Bezirk Meilen","atLeastOneDose",49812
+2021-05-31,2021-06-06,22,107,"Bezirk Meilen","completedBasicImmu",31932
+2021-05-31,2021-06-06,22,107,"Bezirk Meilen","booster",0
+2021-05-31,2021-06-06,22,108,"Bezirk Pfaffikon","atLeastOneDose",22562
+2021-05-31,2021-06-06,22,108,"Bezirk Pfaffikon","completedBasicImmu",14634
+2021-05-31,2021-06-06,22,108,"Bezirk Pfaffikon","booster",0
+2021-05-31,2021-06-06,22,109,"Bezirk Uster","atLeastOneDose",53539
+2021-05-31,2021-06-06,22,109,"Bezirk Uster","completedBasicImmu",32806
+2021-05-31,2021-06-06,22,109,"Bezirk Uster","booster",0
+2021-05-31,2021-06-06,22,110,"Bezirk Winterthur","atLeastOneDose",65234
+2021-05-31,2021-06-06,22,110,"Bezirk Winterthur","completedBasicImmu",41822
+2021-05-31,2021-06-06,22,110,"Bezirk Winterthur","booster",0
+2021-05-31,2021-06-06,22,111,"Bezirk Dietikon","atLeastOneDose",32674
+2021-05-31,2021-06-06,22,111,"Bezirk Dietikon","completedBasicImmu",21088
+2021-05-31,2021-06-06,22,111,"Bezirk Dietikon","booster",0
+2021-05-31,2021-06-06,22,112,"Bezirk Zurich","atLeastOneDose",175342
+2021-05-31,2021-06-06,22,112,"Bezirk Zurich","completedBasicImmu",96286
+2021-05-31,2021-06-06,22,112,"Bezirk Zurich","booster",0
+2021-05-31,2021-06-06,22,NA,"andere Kantone","atLeastOneDose",4773
+2021-05-31,2021-06-06,22,NA,"andere Kantone","completedBasicImmu",2682
+2021-05-31,2021-06-06,22,NA,"andere Kantone","booster",0
+2021-05-31,2021-06-06,22,NA,"Nachbarkantone","atLeastOneDose",19550
+2021-05-31,2021-06-06,22,NA,"Nachbarkantone","completedBasicImmu",11905
+2021-05-31,2021-06-06,22,NA,"Nachbarkantone","booster",0
+2021-05-31,2021-06-06,22,NA,"unbekannt","atLeastOneDose",3358
+2021-05-31,2021-06-06,22,NA,"unbekannt","completedBasicImmu",2007
+2021-05-31,2021-06-06,22,NA,"unbekannt","booster",0
+2021-05-31,2021-06-06,22,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",740
+2021-05-31,2021-06-06,22,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",9450
+2021-05-31,2021-06-06,22,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-06-07,2021-06-13,23,101,"Bezirk Affoltern","atLeastOneDose",23013
+2021-06-07,2021-06-13,23,101,"Bezirk Affoltern","completedBasicImmu",14880
+2021-06-07,2021-06-13,23,101,"Bezirk Affoltern","booster",0
+2021-06-07,2021-06-13,23,102,"Bezirk Andelfingen","atLeastOneDose",12777
+2021-06-07,2021-06-13,23,102,"Bezirk Andelfingen","completedBasicImmu",8767
+2021-06-07,2021-06-13,23,102,"Bezirk Andelfingen","booster",0
+2021-06-07,2021-06-13,23,103,"Bezirk Bulach","atLeastOneDose",62605
+2021-06-07,2021-06-13,23,103,"Bezirk Bulach","completedBasicImmu",39521
+2021-06-07,2021-06-13,23,103,"Bezirk Bulach","booster",0
+2021-06-07,2021-06-13,23,104,"Bezirk Dielsdorf","atLeastOneDose",35126
+2021-06-07,2021-06-13,23,104,"Bezirk Dielsdorf","completedBasicImmu",22749
+2021-06-07,2021-06-13,23,104,"Bezirk Dielsdorf","booster",0
+2021-06-07,2021-06-13,23,105,"Bezirk Hinwil","atLeastOneDose",38817
+2021-06-07,2021-06-13,23,105,"Bezirk Hinwil","completedBasicImmu",25731
+2021-06-07,2021-06-13,23,105,"Bezirk Hinwil","booster",0
+2021-06-07,2021-06-13,23,106,"Bezirk Horgen","atLeastOneDose",56912
+2021-06-07,2021-06-13,23,106,"Bezirk Horgen","completedBasicImmu",36261
+2021-06-07,2021-06-13,23,106,"Bezirk Horgen","booster",0
+2021-06-07,2021-06-13,23,107,"Bezirk Meilen","atLeastOneDose",54649
+2021-06-07,2021-06-13,23,107,"Bezirk Meilen","completedBasicImmu",36617
+2021-06-07,2021-06-13,23,107,"Bezirk Meilen","booster",0
+2021-06-07,2021-06-13,23,108,"Bezirk Pfaffikon","atLeastOneDose",24899
+2021-06-07,2021-06-13,23,108,"Bezirk Pfaffikon","completedBasicImmu",16884
+2021-06-07,2021-06-13,23,108,"Bezirk Pfaffikon","booster",0
+2021-06-07,2021-06-13,23,109,"Bezirk Uster","atLeastOneDose",59045
+2021-06-07,2021-06-13,23,109,"Bezirk Uster","completedBasicImmu",37725
+2021-06-07,2021-06-13,23,109,"Bezirk Uster","booster",0
+2021-06-07,2021-06-13,23,110,"Bezirk Winterthur","atLeastOneDose",72540
+2021-06-07,2021-06-13,23,110,"Bezirk Winterthur","completedBasicImmu",47659
+2021-06-07,2021-06-13,23,110,"Bezirk Winterthur","booster",0
+2021-06-07,2021-06-13,23,111,"Bezirk Dietikon","atLeastOneDose",36421
+2021-06-07,2021-06-13,23,111,"Bezirk Dietikon","completedBasicImmu",23681
+2021-06-07,2021-06-13,23,111,"Bezirk Dietikon","booster",0
+2021-06-07,2021-06-13,23,112,"Bezirk Zurich","atLeastOneDose",205523
+2021-06-07,2021-06-13,23,112,"Bezirk Zurich","completedBasicImmu",112375
+2021-06-07,2021-06-13,23,112,"Bezirk Zurich","booster",0
+2021-06-07,2021-06-13,23,NA,"andere Kantone","atLeastOneDose",5590
+2021-06-07,2021-06-13,23,NA,"andere Kantone","completedBasicImmu",3170
+2021-06-07,2021-06-13,23,NA,"andere Kantone","booster",0
+2021-06-07,2021-06-13,23,NA,"Nachbarkantone","atLeastOneDose",21596
+2021-06-07,2021-06-13,23,NA,"Nachbarkantone","completedBasicImmu",13805
+2021-06-07,2021-06-13,23,NA,"Nachbarkantone","booster",0
+2021-06-07,2021-06-13,23,NA,"unbekannt","atLeastOneDose",3807
+2021-06-07,2021-06-13,23,NA,"unbekannt","completedBasicImmu",2333
+2021-06-07,2021-06-13,23,NA,"unbekannt","booster",0
+2021-06-07,2021-06-13,23,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",826
+2021-06-07,2021-06-13,23,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",10774
+2021-06-07,2021-06-13,23,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-06-14,2021-06-20,24,101,"Bezirk Affoltern","atLeastOneDose",25377
+2021-06-14,2021-06-20,24,101,"Bezirk Affoltern","completedBasicImmu",16973
+2021-06-14,2021-06-20,24,101,"Bezirk Affoltern","booster",0
+2021-06-14,2021-06-20,24,102,"Bezirk Andelfingen","atLeastOneDose",13942
+2021-06-14,2021-06-20,24,102,"Bezirk Andelfingen","completedBasicImmu",9728
+2021-06-14,2021-06-20,24,102,"Bezirk Andelfingen","booster",0
+2021-06-14,2021-06-20,24,103,"Bezirk Bulach","atLeastOneDose",69817
+2021-06-14,2021-06-20,24,103,"Bezirk Bulach","completedBasicImmu",44910
+2021-06-14,2021-06-20,24,103,"Bezirk Bulach","booster",0
+2021-06-14,2021-06-20,24,104,"Bezirk Dielsdorf","atLeastOneDose",39279
+2021-06-14,2021-06-20,24,104,"Bezirk Dielsdorf","completedBasicImmu",26020
+2021-06-14,2021-06-20,24,104,"Bezirk Dielsdorf","booster",0
+2021-06-14,2021-06-20,24,105,"Bezirk Hinwil","atLeastOneDose",41893
+2021-06-14,2021-06-20,24,105,"Bezirk Hinwil","completedBasicImmu",29057
+2021-06-14,2021-06-20,24,105,"Bezirk Hinwil","booster",0
+2021-06-14,2021-06-20,24,106,"Bezirk Horgen","atLeastOneDose",61292
+2021-06-14,2021-06-20,24,106,"Bezirk Horgen","completedBasicImmu",41086
+2021-06-14,2021-06-20,24,106,"Bezirk Horgen","booster",0
+2021-06-14,2021-06-20,24,107,"Bezirk Meilen","atLeastOneDose",58741
+2021-06-14,2021-06-20,24,107,"Bezirk Meilen","completedBasicImmu",40999
+2021-06-14,2021-06-20,24,107,"Bezirk Meilen","booster",0
+2021-06-14,2021-06-20,24,108,"Bezirk Pfaffikon","atLeastOneDose",27261
+2021-06-14,2021-06-20,24,108,"Bezirk Pfaffikon","completedBasicImmu",18993
+2021-06-14,2021-06-20,24,108,"Bezirk Pfaffikon","booster",0
+2021-06-14,2021-06-20,24,109,"Bezirk Uster","atLeastOneDose",65610
+2021-06-14,2021-06-20,24,109,"Bezirk Uster","completedBasicImmu",42329
+2021-06-14,2021-06-20,24,109,"Bezirk Uster","booster",0
+2021-06-14,2021-06-20,24,110,"Bezirk Winterthur","atLeastOneDose",79769
+2021-06-14,2021-06-20,24,110,"Bezirk Winterthur","completedBasicImmu",52696
+2021-06-14,2021-06-20,24,110,"Bezirk Winterthur","booster",0
+2021-06-14,2021-06-20,24,111,"Bezirk Dietikon","atLeastOneDose",40787
+2021-06-14,2021-06-20,24,111,"Bezirk Dietikon","completedBasicImmu",26800
+2021-06-14,2021-06-20,24,111,"Bezirk Dietikon","booster",0
+2021-06-14,2021-06-20,24,112,"Bezirk Zurich","atLeastOneDose",227827
+2021-06-14,2021-06-20,24,112,"Bezirk Zurich","completedBasicImmu",128778
+2021-06-14,2021-06-20,24,112,"Bezirk Zurich","booster",0
+2021-06-14,2021-06-20,24,NA,"andere Kantone","atLeastOneDose",6242
+2021-06-14,2021-06-20,24,NA,"andere Kantone","completedBasicImmu",3544
+2021-06-14,2021-06-20,24,NA,"andere Kantone","booster",0
+2021-06-14,2021-06-20,24,NA,"Nachbarkantone","atLeastOneDose",23101
+2021-06-14,2021-06-20,24,NA,"Nachbarkantone","completedBasicImmu",15478
+2021-06-14,2021-06-20,24,NA,"Nachbarkantone","booster",0
+2021-06-14,2021-06-20,24,NA,"unbekannt","atLeastOneDose",4212
+2021-06-14,2021-06-20,24,NA,"unbekannt","completedBasicImmu",2642
+2021-06-14,2021-06-20,24,NA,"unbekannt","booster",0
+2021-06-14,2021-06-20,24,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",908
+2021-06-14,2021-06-20,24,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",11978
+2021-06-14,2021-06-20,24,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-06-21,2021-06-27,25,101,"Bezirk Affoltern","atLeastOneDose",27719
+2021-06-21,2021-06-27,25,101,"Bezirk Affoltern","completedBasicImmu",18754
+2021-06-21,2021-06-27,25,101,"Bezirk Affoltern","booster",0
+2021-06-21,2021-06-27,25,102,"Bezirk Andelfingen","atLeastOneDose",15155
+2021-06-21,2021-06-27,25,102,"Bezirk Andelfingen","completedBasicImmu",10425
+2021-06-21,2021-06-27,25,102,"Bezirk Andelfingen","booster",0
+2021-06-21,2021-06-27,25,103,"Bezirk Bulach","atLeastOneDose",76805
+2021-06-21,2021-06-27,25,103,"Bezirk Bulach","completedBasicImmu",49846
+2021-06-21,2021-06-27,25,103,"Bezirk Bulach","booster",0
+2021-06-21,2021-06-27,25,104,"Bezirk Dielsdorf","atLeastOneDose",43324
+2021-06-21,2021-06-27,25,104,"Bezirk Dielsdorf","completedBasicImmu",28642
+2021-06-21,2021-06-27,25,104,"Bezirk Dielsdorf","booster",0
+2021-06-21,2021-06-27,25,105,"Bezirk Hinwil","atLeastOneDose",44847
+2021-06-21,2021-06-27,25,105,"Bezirk Hinwil","completedBasicImmu",31806
+2021-06-21,2021-06-27,25,105,"Bezirk Hinwil","booster",0
+2021-06-21,2021-06-27,25,106,"Bezirk Horgen","atLeastOneDose",66418
+2021-06-21,2021-06-27,25,106,"Bezirk Horgen","completedBasicImmu",46028
+2021-06-21,2021-06-27,25,106,"Bezirk Horgen","booster",0
+2021-06-21,2021-06-27,25,107,"Bezirk Meilen","atLeastOneDose",62209
+2021-06-21,2021-06-27,25,107,"Bezirk Meilen","completedBasicImmu",44879
+2021-06-21,2021-06-27,25,107,"Bezirk Meilen","booster",0
+2021-06-21,2021-06-27,25,108,"Bezirk Pfaffikon","atLeastOneDose",29454
+2021-06-21,2021-06-27,25,108,"Bezirk Pfaffikon","completedBasicImmu",20550
+2021-06-21,2021-06-27,25,108,"Bezirk Pfaffikon","booster",0
+2021-06-21,2021-06-27,25,109,"Bezirk Uster","atLeastOneDose",70913
+2021-06-21,2021-06-27,25,109,"Bezirk Uster","completedBasicImmu",46377
+2021-06-21,2021-06-27,25,109,"Bezirk Uster","booster",0
+2021-06-21,2021-06-27,25,110,"Bezirk Winterthur","atLeastOneDose",86701
+2021-06-21,2021-06-27,25,110,"Bezirk Winterthur","completedBasicImmu",58245
+2021-06-21,2021-06-27,25,110,"Bezirk Winterthur","booster",0
+2021-06-21,2021-06-27,25,111,"Bezirk Dietikon","atLeastOneDose",45441
+2021-06-21,2021-06-27,25,111,"Bezirk Dietikon","completedBasicImmu",29508
+2021-06-21,2021-06-27,25,111,"Bezirk Dietikon","booster",0
+2021-06-21,2021-06-27,25,112,"Bezirk Zurich","atLeastOneDose",246300
+2021-06-21,2021-06-27,25,112,"Bezirk Zurich","completedBasicImmu",146614
+2021-06-21,2021-06-27,25,112,"Bezirk Zurich","booster",0
+2021-06-21,2021-06-27,25,NA,"andere Kantone","atLeastOneDose",6742
+2021-06-21,2021-06-27,25,NA,"andere Kantone","completedBasicImmu",4064
+2021-06-21,2021-06-27,25,NA,"andere Kantone","booster",0
+2021-06-21,2021-06-27,25,NA,"Nachbarkantone","atLeastOneDose",24565
+2021-06-21,2021-06-27,25,NA,"Nachbarkantone","completedBasicImmu",17303
+2021-06-21,2021-06-27,25,NA,"Nachbarkantone","booster",0
+2021-06-21,2021-06-27,25,NA,"unbekannt","atLeastOneDose",4672
+2021-06-21,2021-06-27,25,NA,"unbekannt","completedBasicImmu",2907
+2021-06-21,2021-06-27,25,NA,"unbekannt","booster",0
+2021-06-21,2021-06-27,25,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",972
+2021-06-21,2021-06-27,25,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",12856
+2021-06-21,2021-06-27,25,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-06-28,2021-07-04,26,101,"Bezirk Affoltern","atLeastOneDose",28614
+2021-06-28,2021-07-04,26,101,"Bezirk Affoltern","completedBasicImmu",20429
+2021-06-28,2021-07-04,26,101,"Bezirk Affoltern","booster",0
+2021-06-28,2021-07-04,26,102,"Bezirk Andelfingen","atLeastOneDose",15621
+2021-06-28,2021-07-04,26,102,"Bezirk Andelfingen","completedBasicImmu",11358
+2021-06-28,2021-07-04,26,102,"Bezirk Andelfingen","booster",0
+2021-06-28,2021-07-04,26,103,"Bezirk Bulach","atLeastOneDose",79599
+2021-06-28,2021-07-04,26,103,"Bezirk Bulach","completedBasicImmu",56046
+2021-06-28,2021-07-04,26,103,"Bezirk Bulach","booster",0
+2021-06-28,2021-07-04,26,104,"Bezirk Dielsdorf","atLeastOneDose",44865
+2021-06-28,2021-07-04,26,104,"Bezirk Dielsdorf","completedBasicImmu",31680
+2021-06-28,2021-07-04,26,104,"Bezirk Dielsdorf","booster",0
+2021-06-28,2021-07-04,26,105,"Bezirk Hinwil","atLeastOneDose",45699
+2021-06-28,2021-07-04,26,105,"Bezirk Hinwil","completedBasicImmu",34669
+2021-06-28,2021-07-04,26,105,"Bezirk Hinwil","booster",0
+2021-06-28,2021-07-04,26,106,"Bezirk Horgen","atLeastOneDose",68572
+2021-06-28,2021-07-04,26,106,"Bezirk Horgen","completedBasicImmu",50429
+2021-06-28,2021-07-04,26,106,"Bezirk Horgen","booster",0
+2021-06-28,2021-07-04,26,107,"Bezirk Meilen","atLeastOneDose",63429
+2021-06-28,2021-07-04,26,107,"Bezirk Meilen","completedBasicImmu",49415
+2021-06-28,2021-07-04,26,107,"Bezirk Meilen","booster",0
+2021-06-28,2021-07-04,26,108,"Bezirk Pfaffikon","atLeastOneDose",30133
+2021-06-28,2021-07-04,26,108,"Bezirk Pfaffikon","completedBasicImmu",22565
+2021-06-28,2021-07-04,26,108,"Bezirk Pfaffikon","booster",0
+2021-06-28,2021-07-04,26,109,"Bezirk Uster","atLeastOneDose",72551
+2021-06-28,2021-07-04,26,109,"Bezirk Uster","completedBasicImmu",52824
+2021-06-28,2021-07-04,26,109,"Bezirk Uster","booster",0
+2021-06-28,2021-07-04,26,110,"Bezirk Winterthur","atLeastOneDose",89442
+2021-06-28,2021-07-04,26,110,"Bezirk Winterthur","completedBasicImmu",64338
+2021-06-28,2021-07-04,26,110,"Bezirk Winterthur","booster",0
+2021-06-28,2021-07-04,26,111,"Bezirk Dietikon","atLeastOneDose",46942
+2021-06-28,2021-07-04,26,111,"Bezirk Dietikon","completedBasicImmu",32656
+2021-06-28,2021-07-04,26,111,"Bezirk Dietikon","booster",0
+2021-06-28,2021-07-04,26,112,"Bezirk Zurich","atLeastOneDose",252322
+2021-06-28,2021-07-04,26,112,"Bezirk Zurich","completedBasicImmu",173703
+2021-06-28,2021-07-04,26,112,"Bezirk Zurich","booster",0
+2021-06-28,2021-07-04,26,NA,"andere Kantone","atLeastOneDose",6913
+2021-06-28,2021-07-04,26,NA,"andere Kantone","completedBasicImmu",4682
+2021-06-28,2021-07-04,26,NA,"andere Kantone","booster",0
+2021-06-28,2021-07-04,26,NA,"Nachbarkantone","atLeastOneDose",25207
+2021-06-28,2021-07-04,26,NA,"Nachbarkantone","completedBasicImmu",19418
+2021-06-28,2021-07-04,26,NA,"Nachbarkantone","booster",0
+2021-06-28,2021-07-04,26,NA,"unbekannt","atLeastOneDose",4829
+2021-06-28,2021-07-04,26,NA,"unbekannt","completedBasicImmu",3248
+2021-06-28,2021-07-04,26,NA,"unbekannt","booster",0
+2021-06-28,2021-07-04,26,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1019
+2021-06-28,2021-07-04,26,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",13662
+2021-06-28,2021-07-04,26,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-07-05,2021-07-11,27,101,"Bezirk Affoltern","atLeastOneDose",29219
+2021-07-05,2021-07-11,27,101,"Bezirk Affoltern","completedBasicImmu",22553
+2021-07-05,2021-07-11,27,101,"Bezirk Affoltern","booster",0
+2021-07-05,2021-07-11,27,102,"Bezirk Andelfingen","atLeastOneDose",15867
+2021-07-05,2021-07-11,27,102,"Bezirk Andelfingen","completedBasicImmu",12510
+2021-07-05,2021-07-11,27,102,"Bezirk Andelfingen","booster",0
+2021-07-05,2021-07-11,27,103,"Bezirk Bulach","atLeastOneDose",81187
+2021-07-05,2021-07-11,27,103,"Bezirk Bulach","completedBasicImmu",62337
+2021-07-05,2021-07-11,27,103,"Bezirk Bulach","booster",0
+2021-07-05,2021-07-11,27,104,"Bezirk Dielsdorf","atLeastOneDose",45748
+2021-07-05,2021-07-11,27,104,"Bezirk Dielsdorf","completedBasicImmu",34965
+2021-07-05,2021-07-11,27,104,"Bezirk Dielsdorf","booster",0
+2021-07-05,2021-07-11,27,105,"Bezirk Hinwil","atLeastOneDose",46513
+2021-07-05,2021-07-11,27,105,"Bezirk Hinwil","completedBasicImmu",38220
+2021-07-05,2021-07-11,27,105,"Bezirk Hinwil","booster",0
+2021-07-05,2021-07-11,27,106,"Bezirk Horgen","atLeastOneDose",70020
+2021-07-05,2021-07-11,27,106,"Bezirk Horgen","completedBasicImmu",56384
+2021-07-05,2021-07-11,27,106,"Bezirk Horgen","booster",0
+2021-07-05,2021-07-11,27,107,"Bezirk Meilen","atLeastOneDose",64388
+2021-07-05,2021-07-11,27,107,"Bezirk Meilen","completedBasicImmu",54105
+2021-07-05,2021-07-11,27,107,"Bezirk Meilen","booster",0
+2021-07-05,2021-07-11,27,108,"Bezirk Pfaffikon","atLeastOneDose",30590
+2021-07-05,2021-07-11,27,108,"Bezirk Pfaffikon","completedBasicImmu",24787
+2021-07-05,2021-07-11,27,108,"Bezirk Pfaffikon","booster",0
+2021-07-05,2021-07-11,27,109,"Bezirk Uster","atLeastOneDose",73708
+2021-07-05,2021-07-11,27,109,"Bezirk Uster","completedBasicImmu",58283
+2021-07-05,2021-07-11,27,109,"Bezirk Uster","booster",0
+2021-07-05,2021-07-11,27,110,"Bezirk Winterthur","atLeastOneDose",90978
+2021-07-05,2021-07-11,27,110,"Bezirk Winterthur","completedBasicImmu",71106
+2021-07-05,2021-07-11,27,110,"Bezirk Winterthur","booster",0
+2021-07-05,2021-07-11,27,111,"Bezirk Dietikon","atLeastOneDose",47820
+2021-07-05,2021-07-11,27,111,"Bezirk Dietikon","completedBasicImmu",36352
+2021-07-05,2021-07-11,27,111,"Bezirk Dietikon","booster",0
+2021-07-05,2021-07-11,27,112,"Bezirk Zurich","atLeastOneDose",256794
+2021-07-05,2021-07-11,27,112,"Bezirk Zurich","completedBasicImmu",203429
+2021-07-05,2021-07-11,27,112,"Bezirk Zurich","booster",0
+2021-07-05,2021-07-11,27,NA,"andere Kantone","atLeastOneDose",7036
+2021-07-05,2021-07-11,27,NA,"andere Kantone","completedBasicImmu",5467
+2021-07-05,2021-07-11,27,NA,"andere Kantone","booster",0
+2021-07-05,2021-07-11,27,NA,"Nachbarkantone","atLeastOneDose",25669
+2021-07-05,2021-07-11,27,NA,"Nachbarkantone","completedBasicImmu",21404
+2021-07-05,2021-07-11,27,NA,"Nachbarkantone","booster",0
+2021-07-05,2021-07-11,27,NA,"unbekannt","atLeastOneDose",4921
+2021-07-05,2021-07-11,27,NA,"unbekannt","completedBasicImmu",3674
+2021-07-05,2021-07-11,27,NA,"unbekannt","booster",0
+2021-07-05,2021-07-11,27,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1080
+2021-07-05,2021-07-11,27,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",14686
+2021-07-05,2021-07-11,27,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-07-12,2021-07-18,28,101,"Bezirk Affoltern","atLeastOneDose",29755
+2021-07-12,2021-07-18,28,101,"Bezirk Affoltern","completedBasicImmu",24740
+2021-07-12,2021-07-18,28,101,"Bezirk Affoltern","booster",0
+2021-07-12,2021-07-18,28,102,"Bezirk Andelfingen","atLeastOneDose",16125
+2021-07-12,2021-07-18,28,102,"Bezirk Andelfingen","completedBasicImmu",13618
+2021-07-12,2021-07-18,28,102,"Bezirk Andelfingen","booster",0
+2021-07-12,2021-07-18,28,103,"Bezirk Bulach","atLeastOneDose",82461
+2021-07-12,2021-07-18,28,103,"Bezirk Bulach","completedBasicImmu",69245
+2021-07-12,2021-07-18,28,103,"Bezirk Bulach","booster",0
+2021-07-12,2021-07-18,28,104,"Bezirk Dielsdorf","atLeastOneDose",46552
+2021-07-12,2021-07-18,28,104,"Bezirk Dielsdorf","completedBasicImmu",38908
+2021-07-12,2021-07-18,28,104,"Bezirk Dielsdorf","booster",0
+2021-07-12,2021-07-18,28,105,"Bezirk Hinwil","atLeastOneDose",47203
+2021-07-12,2021-07-18,28,105,"Bezirk Hinwil","completedBasicImmu",41335
+2021-07-12,2021-07-18,28,105,"Bezirk Hinwil","booster",0
+2021-07-12,2021-07-18,28,106,"Bezirk Horgen","atLeastOneDose",71190
+2021-07-12,2021-07-18,28,106,"Bezirk Horgen","completedBasicImmu",60762
+2021-07-12,2021-07-18,28,106,"Bezirk Horgen","booster",0
+2021-07-12,2021-07-18,28,107,"Bezirk Meilen","atLeastOneDose",65481
+2021-07-12,2021-07-18,28,107,"Bezirk Meilen","completedBasicImmu",58126
+2021-07-12,2021-07-18,28,107,"Bezirk Meilen","booster",0
+2021-07-12,2021-07-18,28,108,"Bezirk Pfaffikon","atLeastOneDose",31056
+2021-07-12,2021-07-18,28,108,"Bezirk Pfaffikon","completedBasicImmu",27038
+2021-07-12,2021-07-18,28,108,"Bezirk Pfaffikon","booster",0
+2021-07-12,2021-07-18,28,109,"Bezirk Uster","atLeastOneDose",74924
+2021-07-12,2021-07-18,28,109,"Bezirk Uster","completedBasicImmu",64531
+2021-07-12,2021-07-18,28,109,"Bezirk Uster","booster",0
+2021-07-12,2021-07-18,28,110,"Bezirk Winterthur","atLeastOneDose",92663
+2021-07-12,2021-07-18,28,110,"Bezirk Winterthur","completedBasicImmu",78093
+2021-07-12,2021-07-18,28,110,"Bezirk Winterthur","booster",0
+2021-07-12,2021-07-18,28,111,"Bezirk Dietikon","atLeastOneDose",48621
+2021-07-12,2021-07-18,28,111,"Bezirk Dietikon","completedBasicImmu",40430
+2021-07-12,2021-07-18,28,111,"Bezirk Dietikon","booster",0
+2021-07-12,2021-07-18,28,112,"Bezirk Zurich","atLeastOneDose",260713
+2021-07-12,2021-07-18,28,112,"Bezirk Zurich","completedBasicImmu",225510
+2021-07-12,2021-07-18,28,112,"Bezirk Zurich","booster",0
+2021-07-12,2021-07-18,28,NA,"andere Kantone","atLeastOneDose",7154
+2021-07-12,2021-07-18,28,NA,"andere Kantone","completedBasicImmu",6127
+2021-07-12,2021-07-18,28,NA,"andere Kantone","booster",0
+2021-07-12,2021-07-18,28,NA,"Nachbarkantone","atLeastOneDose",26050
+2021-07-12,2021-07-18,28,NA,"Nachbarkantone","completedBasicImmu",22873
+2021-07-12,2021-07-18,28,NA,"Nachbarkantone","booster",0
+2021-07-12,2021-07-18,28,NA,"unbekannt","atLeastOneDose",5001
+2021-07-12,2021-07-18,28,NA,"unbekannt","completedBasicImmu",4070
+2021-07-12,2021-07-18,28,NA,"unbekannt","booster",0
+2021-07-12,2021-07-18,28,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1173
+2021-07-12,2021-07-18,28,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",15607
+2021-07-12,2021-07-18,28,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-07-19,2021-07-25,29,101,"Bezirk Affoltern","atLeastOneDose",30089
+2021-07-19,2021-07-25,29,101,"Bezirk Affoltern","completedBasicImmu",26847
+2021-07-19,2021-07-25,29,101,"Bezirk Affoltern","booster",0
+2021-07-19,2021-07-25,29,102,"Bezirk Andelfingen","atLeastOneDose",16298
+2021-07-19,2021-07-25,29,102,"Bezirk Andelfingen","completedBasicImmu",14777
+2021-07-19,2021-07-25,29,102,"Bezirk Andelfingen","booster",0
+2021-07-19,2021-07-25,29,103,"Bezirk Bulach","atLeastOneDose",83501
+2021-07-19,2021-07-25,29,103,"Bezirk Bulach","completedBasicImmu",75626
+2021-07-19,2021-07-25,29,103,"Bezirk Bulach","booster",0
+2021-07-19,2021-07-25,29,104,"Bezirk Dielsdorf","atLeastOneDose",47181
+2021-07-19,2021-07-25,29,104,"Bezirk Dielsdorf","completedBasicImmu",42614
+2021-07-19,2021-07-25,29,104,"Bezirk Dielsdorf","booster",0
+2021-07-19,2021-07-25,29,105,"Bezirk Hinwil","atLeastOneDose",47840
+2021-07-19,2021-07-25,29,105,"Bezirk Hinwil","completedBasicImmu",44184
+2021-07-19,2021-07-25,29,105,"Bezirk Hinwil","booster",0
+2021-07-19,2021-07-25,29,106,"Bezirk Horgen","atLeastOneDose",72086
+2021-07-19,2021-07-25,29,106,"Bezirk Horgen","completedBasicImmu",65511
+2021-07-19,2021-07-25,29,106,"Bezirk Horgen","booster",0
+2021-07-19,2021-07-25,29,107,"Bezirk Meilen","atLeastOneDose",66094
+2021-07-19,2021-07-25,29,107,"Bezirk Meilen","completedBasicImmu",61342
+2021-07-19,2021-07-25,29,107,"Bezirk Meilen","booster",0
+2021-07-19,2021-07-25,29,108,"Bezirk Pfaffikon","atLeastOneDose",31432
+2021-07-19,2021-07-25,29,108,"Bezirk Pfaffikon","completedBasicImmu",28945
+2021-07-19,2021-07-25,29,108,"Bezirk Pfaffikon","booster",0
+2021-07-19,2021-07-25,29,109,"Bezirk Uster","atLeastOneDose",75786
+2021-07-19,2021-07-25,29,109,"Bezirk Uster","completedBasicImmu",69019
+2021-07-19,2021-07-25,29,109,"Bezirk Uster","booster",0
+2021-07-19,2021-07-25,29,110,"Bezirk Winterthur","atLeastOneDose",93881
+2021-07-19,2021-07-25,29,110,"Bezirk Winterthur","completedBasicImmu",84516
+2021-07-19,2021-07-25,29,110,"Bezirk Winterthur","booster",0
+2021-07-19,2021-07-25,29,111,"Bezirk Dietikon","atLeastOneDose",49234
+2021-07-19,2021-07-25,29,111,"Bezirk Dietikon","completedBasicImmu",44552
+2021-07-19,2021-07-25,29,111,"Bezirk Dietikon","booster",0
+2021-07-19,2021-07-25,29,112,"Bezirk Zurich","atLeastOneDose",263582
+2021-07-19,2021-07-25,29,112,"Bezirk Zurich","completedBasicImmu",242725
+2021-07-19,2021-07-25,29,112,"Bezirk Zurich","booster",0
+2021-07-19,2021-07-25,29,NA,"andere Kantone","atLeastOneDose",7266
+2021-07-19,2021-07-25,29,NA,"andere Kantone","completedBasicImmu",6602
+2021-07-19,2021-07-25,29,NA,"andere Kantone","booster",0
+2021-07-19,2021-07-25,29,NA,"Nachbarkantone","atLeastOneDose",26355
+2021-07-19,2021-07-25,29,NA,"Nachbarkantone","completedBasicImmu",24208
+2021-07-19,2021-07-25,29,NA,"Nachbarkantone","booster",0
+2021-07-19,2021-07-25,29,NA,"unbekannt","atLeastOneDose",5049
+2021-07-19,2021-07-25,29,NA,"unbekannt","completedBasicImmu",4491
+2021-07-19,2021-07-25,29,NA,"unbekannt","booster",0
+2021-07-19,2021-07-25,29,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1207
+2021-07-19,2021-07-25,29,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",15972
+2021-07-19,2021-07-25,29,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-07-26,2021-08-01,30,101,"Bezirk Affoltern","atLeastOneDose",30461
+2021-07-26,2021-08-01,30,101,"Bezirk Affoltern","completedBasicImmu",28036
+2021-07-26,2021-08-01,30,101,"Bezirk Affoltern","booster",0
+2021-07-26,2021-08-01,30,102,"Bezirk Andelfingen","atLeastOneDose",16521
+2021-07-26,2021-08-01,30,102,"Bezirk Andelfingen","completedBasicImmu",15383
+2021-07-26,2021-08-01,30,102,"Bezirk Andelfingen","booster",0
+2021-07-26,2021-08-01,30,103,"Bezirk Bulach","atLeastOneDose",84533
+2021-07-26,2021-08-01,30,103,"Bezirk Bulach","completedBasicImmu",78616
+2021-07-26,2021-08-01,30,103,"Bezirk Bulach","booster",0
+2021-07-26,2021-08-01,30,104,"Bezirk Dielsdorf","atLeastOneDose",47819
+2021-07-26,2021-08-01,30,104,"Bezirk Dielsdorf","completedBasicImmu",44152
+2021-07-26,2021-08-01,30,104,"Bezirk Dielsdorf","booster",0
+2021-07-26,2021-08-01,30,105,"Bezirk Hinwil","atLeastOneDose",48343
+2021-07-26,2021-08-01,30,105,"Bezirk Hinwil","completedBasicImmu",44853
+2021-07-26,2021-08-01,30,105,"Bezirk Hinwil","booster",0
+2021-07-26,2021-08-01,30,106,"Bezirk Horgen","atLeastOneDose",72958
+2021-07-26,2021-08-01,30,106,"Bezirk Horgen","completedBasicImmu",67709
+2021-07-26,2021-08-01,30,106,"Bezirk Horgen","booster",0
+2021-07-26,2021-08-01,30,107,"Bezirk Meilen","atLeastOneDose",66609
+2021-07-26,2021-08-01,30,107,"Bezirk Meilen","completedBasicImmu",62655
+2021-07-26,2021-08-01,30,107,"Bezirk Meilen","booster",0
+2021-07-26,2021-08-01,30,108,"Bezirk Pfaffikon","atLeastOneDose",31782
+2021-07-26,2021-08-01,30,108,"Bezirk Pfaffikon","completedBasicImmu",29768
+2021-07-26,2021-08-01,30,108,"Bezirk Pfaffikon","booster",0
+2021-07-26,2021-08-01,30,109,"Bezirk Uster","atLeastOneDose",76594
+2021-07-26,2021-08-01,30,109,"Bezirk Uster","completedBasicImmu",71221
+2021-07-26,2021-08-01,30,109,"Bezirk Uster","booster",0
+2021-07-26,2021-08-01,30,110,"Bezirk Winterthur","atLeastOneDose",95123
+2021-07-26,2021-08-01,30,110,"Bezirk Winterthur","completedBasicImmu",87953
+2021-07-26,2021-08-01,30,110,"Bezirk Winterthur","booster",0
+2021-07-26,2021-08-01,30,111,"Bezirk Dietikon","atLeastOneDose",49872
+2021-07-26,2021-08-01,30,111,"Bezirk Dietikon","completedBasicImmu",46141
+2021-07-26,2021-08-01,30,111,"Bezirk Dietikon","booster",0
+2021-07-26,2021-08-01,30,112,"Bezirk Zurich","atLeastOneDose",266099
+2021-07-26,2021-08-01,30,112,"Bezirk Zurich","completedBasicImmu",249375
+2021-07-26,2021-08-01,30,112,"Bezirk Zurich","booster",0
+2021-07-26,2021-08-01,30,NA,"andere Kantone","atLeastOneDose",7384
+2021-07-26,2021-08-01,30,NA,"andere Kantone","completedBasicImmu",6825
+2021-07-26,2021-08-01,30,NA,"andere Kantone","booster",0
+2021-07-26,2021-08-01,30,NA,"Nachbarkantone","atLeastOneDose",26683
+2021-07-26,2021-08-01,30,NA,"Nachbarkantone","completedBasicImmu",24937
+2021-07-26,2021-08-01,30,NA,"Nachbarkantone","booster",0
+2021-07-26,2021-08-01,30,NA,"unbekannt","atLeastOneDose",5102
+2021-07-26,2021-08-01,30,NA,"unbekannt","completedBasicImmu",4675
+2021-07-26,2021-08-01,30,NA,"unbekannt","booster",0
+2021-07-26,2021-08-01,30,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1242
+2021-07-26,2021-08-01,30,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",16260
+2021-07-26,2021-08-01,30,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-08-02,2021-08-08,31,101,"Bezirk Affoltern","atLeastOneDose",30731
+2021-08-02,2021-08-08,31,101,"Bezirk Affoltern","completedBasicImmu",28601
+2021-08-02,2021-08-08,31,101,"Bezirk Affoltern","booster",0
+2021-08-02,2021-08-08,31,102,"Bezirk Andelfingen","atLeastOneDose",16665
+2021-08-02,2021-08-08,31,102,"Bezirk Andelfingen","completedBasicImmu",15643
+2021-08-02,2021-08-08,31,102,"Bezirk Andelfingen","booster",0
+2021-08-02,2021-08-08,31,103,"Bezirk Bulach","atLeastOneDose",85310
+2021-08-02,2021-08-08,31,103,"Bezirk Bulach","completedBasicImmu",80226
+2021-08-02,2021-08-08,31,103,"Bezirk Bulach","booster",0
+2021-08-02,2021-08-08,31,104,"Bezirk Dielsdorf","atLeastOneDose",48241
+2021-08-02,2021-08-08,31,104,"Bezirk Dielsdorf","completedBasicImmu",45031
+2021-08-02,2021-08-08,31,104,"Bezirk Dielsdorf","booster",0
+2021-08-02,2021-08-08,31,105,"Bezirk Hinwil","atLeastOneDose",48719
+2021-08-02,2021-08-08,31,105,"Bezirk Hinwil","completedBasicImmu",45732
+2021-08-02,2021-08-08,31,105,"Bezirk Hinwil","booster",0
+2021-08-02,2021-08-08,31,106,"Bezirk Horgen","atLeastOneDose",73375
+2021-08-02,2021-08-08,31,106,"Bezirk Horgen","completedBasicImmu",69020
+2021-08-02,2021-08-08,31,106,"Bezirk Horgen","booster",0
+2021-08-02,2021-08-08,31,107,"Bezirk Meilen","atLeastOneDose",66925
+2021-08-02,2021-08-08,31,107,"Bezirk Meilen","completedBasicImmu",63451
+2021-08-02,2021-08-08,31,107,"Bezirk Meilen","booster",0
+2021-08-02,2021-08-08,31,108,"Bezirk Pfaffikon","atLeastOneDose",31997
+2021-08-02,2021-08-08,31,108,"Bezirk Pfaffikon","completedBasicImmu",30202
+2021-08-02,2021-08-08,31,108,"Bezirk Pfaffikon","booster",0
+2021-08-02,2021-08-08,31,109,"Bezirk Uster","atLeastOneDose",77041
+2021-08-02,2021-08-08,31,109,"Bezirk Uster","completedBasicImmu",72087
+2021-08-02,2021-08-08,31,109,"Bezirk Uster","booster",0
+2021-08-02,2021-08-08,31,110,"Bezirk Winterthur","atLeastOneDose",96057
+2021-08-02,2021-08-08,31,110,"Bezirk Winterthur","completedBasicImmu",89598
+2021-08-02,2021-08-08,31,110,"Bezirk Winterthur","booster",0
+2021-08-02,2021-08-08,31,111,"Bezirk Dietikon","atLeastOneDose",50316
+2021-08-02,2021-08-08,31,111,"Bezirk Dietikon","completedBasicImmu",47023
+2021-08-02,2021-08-08,31,111,"Bezirk Dietikon","booster",0
+2021-08-02,2021-08-08,31,112,"Bezirk Zurich","atLeastOneDose",267636
+2021-08-02,2021-08-08,31,112,"Bezirk Zurich","completedBasicImmu",253699
+2021-08-02,2021-08-08,31,112,"Bezirk Zurich","booster",0
+2021-08-02,2021-08-08,31,NA,"andere Kantone","atLeastOneDose",7449
+2021-08-02,2021-08-08,31,NA,"andere Kantone","completedBasicImmu",6960
+2021-08-02,2021-08-08,31,NA,"andere Kantone","booster",0
+2021-08-02,2021-08-08,31,NA,"Nachbarkantone","atLeastOneDose",26976
+2021-08-02,2021-08-08,31,NA,"Nachbarkantone","completedBasicImmu",25374
+2021-08-02,2021-08-08,31,NA,"Nachbarkantone","booster",0
+2021-08-02,2021-08-08,31,NA,"unbekannt","atLeastOneDose",5130
+2021-08-02,2021-08-08,31,NA,"unbekannt","completedBasicImmu",4776
+2021-08-02,2021-08-08,31,NA,"unbekannt","booster",0
+2021-08-02,2021-08-08,31,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1278
+2021-08-02,2021-08-08,31,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",16490
+2021-08-02,2021-08-08,31,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-08-09,2021-08-15,32,101,"Bezirk Affoltern","atLeastOneDose",31014
+2021-08-09,2021-08-15,32,101,"Bezirk Affoltern","completedBasicImmu",29106
+2021-08-09,2021-08-15,32,101,"Bezirk Affoltern","booster",0
+2021-08-09,2021-08-15,32,102,"Bezirk Andelfingen","atLeastOneDose",16785
+2021-08-09,2021-08-15,32,102,"Bezirk Andelfingen","completedBasicImmu",15908
+2021-08-09,2021-08-15,32,102,"Bezirk Andelfingen","booster",0
+2021-08-09,2021-08-15,32,103,"Bezirk Bulach","atLeastOneDose",86135
+2021-08-09,2021-08-15,32,103,"Bezirk Bulach","completedBasicImmu",81504
+2021-08-09,2021-08-15,32,103,"Bezirk Bulach","booster",0
+2021-08-09,2021-08-15,32,104,"Bezirk Dielsdorf","atLeastOneDose",48750
+2021-08-09,2021-08-15,32,104,"Bezirk Dielsdorf","completedBasicImmu",45830
+2021-08-09,2021-08-15,32,104,"Bezirk Dielsdorf","booster",0
+2021-08-09,2021-08-15,32,105,"Bezirk Hinwil","atLeastOneDose",49172
+2021-08-09,2021-08-15,32,105,"Bezirk Hinwil","completedBasicImmu",46375
+2021-08-09,2021-08-15,32,105,"Bezirk Hinwil","booster",0
+2021-08-09,2021-08-15,32,106,"Bezirk Horgen","atLeastOneDose",73897
+2021-08-09,2021-08-15,32,106,"Bezirk Horgen","completedBasicImmu",70151
+2021-08-09,2021-08-15,32,106,"Bezirk Horgen","booster",0
+2021-08-09,2021-08-15,32,107,"Bezirk Meilen","atLeastOneDose",67338
+2021-08-09,2021-08-15,32,107,"Bezirk Meilen","completedBasicImmu",64453
+2021-08-09,2021-08-15,32,107,"Bezirk Meilen","booster",0
+2021-08-09,2021-08-15,32,108,"Bezirk Pfaffikon","atLeastOneDose",32271
+2021-08-09,2021-08-15,32,108,"Bezirk Pfaffikon","completedBasicImmu",30593
+2021-08-09,2021-08-15,32,108,"Bezirk Pfaffikon","booster",0
+2021-08-09,2021-08-15,32,109,"Bezirk Uster","atLeastOneDose",77706
+2021-08-09,2021-08-15,32,109,"Bezirk Uster","completedBasicImmu",73191
+2021-08-09,2021-08-15,32,109,"Bezirk Uster","booster",0
+2021-08-09,2021-08-15,32,110,"Bezirk Winterthur","atLeastOneDose",96947
+2021-08-09,2021-08-15,32,110,"Bezirk Winterthur","completedBasicImmu",91168
+2021-08-09,2021-08-15,32,110,"Bezirk Winterthur","booster",0
+2021-08-09,2021-08-15,32,111,"Bezirk Dietikon","atLeastOneDose",50872
+2021-08-09,2021-08-15,32,111,"Bezirk Dietikon","completedBasicImmu",47788
+2021-08-09,2021-08-15,32,111,"Bezirk Dietikon","booster",0
+2021-08-09,2021-08-15,32,112,"Bezirk Zurich","atLeastOneDose",269307
+2021-08-09,2021-08-15,32,112,"Bezirk Zurich","completedBasicImmu",256938
+2021-08-09,2021-08-15,32,112,"Bezirk Zurich","booster",0
+2021-08-09,2021-08-15,32,NA,"andere Kantone","atLeastOneDose",7521
+2021-08-09,2021-08-15,32,NA,"andere Kantone","completedBasicImmu",7051
+2021-08-09,2021-08-15,32,NA,"andere Kantone","booster",0
+2021-08-09,2021-08-15,32,NA,"Nachbarkantone","atLeastOneDose",27216
+2021-08-09,2021-08-15,32,NA,"Nachbarkantone","completedBasicImmu",25765
+2021-08-09,2021-08-15,32,NA,"Nachbarkantone","booster",0
+2021-08-09,2021-08-15,32,NA,"unbekannt","atLeastOneDose",5179
+2021-08-09,2021-08-15,32,NA,"unbekannt","completedBasicImmu",4851
+2021-08-09,2021-08-15,32,NA,"unbekannt","booster",0
+2021-08-09,2021-08-15,32,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1312
+2021-08-09,2021-08-15,32,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",17121
+2021-08-09,2021-08-15,32,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-08-16,2021-08-22,33,101,"Bezirk Affoltern","atLeastOneDose",31363
+2021-08-16,2021-08-22,33,101,"Bezirk Affoltern","completedBasicImmu",29518
+2021-08-16,2021-08-22,33,101,"Bezirk Affoltern","booster",0
+2021-08-16,2021-08-22,33,102,"Bezirk Andelfingen","atLeastOneDose",16963
+2021-08-16,2021-08-22,33,102,"Bezirk Andelfingen","completedBasicImmu",16072
+2021-08-16,2021-08-22,33,102,"Bezirk Andelfingen","booster",0
+2021-08-16,2021-08-22,33,103,"Bezirk Bulach","atLeastOneDose",87316
+2021-08-16,2021-08-22,33,103,"Bezirk Bulach","completedBasicImmu",82645
+2021-08-16,2021-08-22,33,103,"Bezirk Bulach","booster",0
+2021-08-16,2021-08-22,33,104,"Bezirk Dielsdorf","atLeastOneDose",49431
+2021-08-16,2021-08-22,33,104,"Bezirk Dielsdorf","completedBasicImmu",46526
+2021-08-16,2021-08-22,33,104,"Bezirk Dielsdorf","booster",0
+2021-08-16,2021-08-22,33,105,"Bezirk Hinwil","atLeastOneDose",49742
+2021-08-16,2021-08-22,33,105,"Bezirk Hinwil","completedBasicImmu",47000
+2021-08-16,2021-08-22,33,105,"Bezirk Hinwil","booster",0
+2021-08-16,2021-08-22,33,106,"Bezirk Horgen","atLeastOneDose",74561
+2021-08-16,2021-08-22,33,106,"Bezirk Horgen","completedBasicImmu",71186
+2021-08-16,2021-08-22,33,106,"Bezirk Horgen","booster",0
+2021-08-16,2021-08-22,33,107,"Bezirk Meilen","atLeastOneDose",67860
+2021-08-16,2021-08-22,33,107,"Bezirk Meilen","completedBasicImmu",65256
+2021-08-16,2021-08-22,33,107,"Bezirk Meilen","booster",0
+2021-08-16,2021-08-22,33,108,"Bezirk Pfaffikon","atLeastOneDose",32643
+2021-08-16,2021-08-22,33,108,"Bezirk Pfaffikon","completedBasicImmu",30992
+2021-08-16,2021-08-22,33,108,"Bezirk Pfaffikon","booster",0
+2021-08-16,2021-08-22,33,109,"Bezirk Uster","atLeastOneDose",78337
+2021-08-16,2021-08-22,33,109,"Bezirk Uster","completedBasicImmu",74215
+2021-08-16,2021-08-22,33,109,"Bezirk Uster","booster",0
+2021-08-16,2021-08-22,33,110,"Bezirk Winterthur","atLeastOneDose",98240
+2021-08-16,2021-08-22,33,110,"Bezirk Winterthur","completedBasicImmu",92465
+2021-08-16,2021-08-22,33,110,"Bezirk Winterthur","booster",0
+2021-08-16,2021-08-22,33,111,"Bezirk Dietikon","atLeastOneDose",51533
+2021-08-16,2021-08-22,33,111,"Bezirk Dietikon","completedBasicImmu",48530
+2021-08-16,2021-08-22,33,111,"Bezirk Dietikon","booster",0
+2021-08-16,2021-08-22,33,112,"Bezirk Zurich","atLeastOneDose",271465
+2021-08-16,2021-08-22,33,112,"Bezirk Zurich","completedBasicImmu",260562
+2021-08-16,2021-08-22,33,112,"Bezirk Zurich","booster",0
+2021-08-16,2021-08-22,33,NA,"andere Kantone","atLeastOneDose",7590
+2021-08-16,2021-08-22,33,NA,"andere Kantone","completedBasicImmu",7146
+2021-08-16,2021-08-22,33,NA,"andere Kantone","booster",0
+2021-08-16,2021-08-22,33,NA,"Nachbarkantone","atLeastOneDose",27527
+2021-08-16,2021-08-22,33,NA,"Nachbarkantone","completedBasicImmu",26082
+2021-08-16,2021-08-22,33,NA,"Nachbarkantone","booster",0
+2021-08-16,2021-08-22,33,NA,"unbekannt","atLeastOneDose",5219
+2021-08-16,2021-08-22,33,NA,"unbekannt","completedBasicImmu",4901
+2021-08-16,2021-08-22,33,NA,"unbekannt","booster",0
+2021-08-16,2021-08-22,33,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1381
+2021-08-16,2021-08-22,33,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",17524
+2021-08-16,2021-08-22,33,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-08-23,2021-08-29,34,101,"Bezirk Affoltern","atLeastOneDose",31810
+2021-08-23,2021-08-29,34,101,"Bezirk Affoltern","completedBasicImmu",29930
+2021-08-23,2021-08-29,34,101,"Bezirk Affoltern","booster",0
+2021-08-23,2021-08-29,34,102,"Bezirk Andelfingen","atLeastOneDose",17207
+2021-08-23,2021-08-29,34,102,"Bezirk Andelfingen","completedBasicImmu",16282
+2021-08-23,2021-08-29,34,102,"Bezirk Andelfingen","booster",0
+2021-08-23,2021-08-29,34,103,"Bezirk Bulach","atLeastOneDose",89037
+2021-08-23,2021-08-29,34,103,"Bezirk Bulach","completedBasicImmu",83796
+2021-08-23,2021-08-29,34,103,"Bezirk Bulach","booster",0
+2021-08-23,2021-08-29,34,104,"Bezirk Dielsdorf","atLeastOneDose",50484
+2021-08-23,2021-08-29,34,104,"Bezirk Dielsdorf","completedBasicImmu",47241
+2021-08-23,2021-08-29,34,104,"Bezirk Dielsdorf","booster",0
+2021-08-23,2021-08-29,34,105,"Bezirk Hinwil","atLeastOneDose",50611
+2021-08-23,2021-08-29,34,105,"Bezirk Hinwil","completedBasicImmu",47600
+2021-08-23,2021-08-29,34,105,"Bezirk Hinwil","booster",0
+2021-08-23,2021-08-29,34,106,"Bezirk Horgen","atLeastOneDose",75678
+2021-08-23,2021-08-29,34,106,"Bezirk Horgen","completedBasicImmu",72281
+2021-08-23,2021-08-29,34,106,"Bezirk Horgen","booster",0
+2021-08-23,2021-08-29,34,107,"Bezirk Meilen","atLeastOneDose",68711
+2021-08-23,2021-08-29,34,107,"Bezirk Meilen","completedBasicImmu",65912
+2021-08-23,2021-08-29,34,107,"Bezirk Meilen","booster",0
+2021-08-23,2021-08-29,34,108,"Bezirk Pfaffikon","atLeastOneDose",33273
+2021-08-23,2021-08-29,34,108,"Bezirk Pfaffikon","completedBasicImmu",31430
+2021-08-23,2021-08-29,34,108,"Bezirk Pfaffikon","booster",0
+2021-08-23,2021-08-29,34,109,"Bezirk Uster","atLeastOneDose",79705
+2021-08-23,2021-08-29,34,109,"Bezirk Uster","completedBasicImmu",75250
+2021-08-23,2021-08-29,34,109,"Bezirk Uster","booster",0
+2021-08-23,2021-08-29,34,110,"Bezirk Winterthur","atLeastOneDose",100133
+2021-08-23,2021-08-29,34,110,"Bezirk Winterthur","completedBasicImmu",93933
+2021-08-23,2021-08-29,34,110,"Bezirk Winterthur","booster",0
+2021-08-23,2021-08-29,34,111,"Bezirk Dietikon","atLeastOneDose",52555
+2021-08-23,2021-08-29,34,111,"Bezirk Dietikon","completedBasicImmu",49254
+2021-08-23,2021-08-29,34,111,"Bezirk Dietikon","booster",0
+2021-08-23,2021-08-29,34,112,"Bezirk Zurich","atLeastOneDose",274406
+2021-08-23,2021-08-29,34,112,"Bezirk Zurich","completedBasicImmu",263381
+2021-08-23,2021-08-29,34,112,"Bezirk Zurich","booster",0
+2021-08-23,2021-08-29,34,NA,"andere Kantone","atLeastOneDose",7676
+2021-08-23,2021-08-29,34,NA,"andere Kantone","completedBasicImmu",7273
+2021-08-23,2021-08-29,34,NA,"andere Kantone","booster",0
+2021-08-23,2021-08-29,34,NA,"Nachbarkantone","atLeastOneDose",27926
+2021-08-23,2021-08-29,34,NA,"Nachbarkantone","completedBasicImmu",26442
+2021-08-23,2021-08-29,34,NA,"Nachbarkantone","booster",0
+2021-08-23,2021-08-29,34,NA,"unbekannt","atLeastOneDose",5281
+2021-08-23,2021-08-29,34,NA,"unbekannt","completedBasicImmu",4959
+2021-08-23,2021-08-29,34,NA,"unbekannt","booster",0
+2021-08-23,2021-08-29,34,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1473
+2021-08-23,2021-08-29,34,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",17801
+2021-08-23,2021-08-29,34,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-08-30,2021-09-05,35,101,"Bezirk Affoltern","atLeastOneDose",32445
+2021-08-30,2021-09-05,35,101,"Bezirk Affoltern","completedBasicImmu",30217
+2021-08-30,2021-09-05,35,101,"Bezirk Affoltern","booster",0
+2021-08-30,2021-09-05,35,102,"Bezirk Andelfingen","atLeastOneDose",17448
+2021-08-30,2021-09-05,35,102,"Bezirk Andelfingen","completedBasicImmu",16459
+2021-08-30,2021-09-05,35,102,"Bezirk Andelfingen","booster",0
+2021-08-30,2021-09-05,35,103,"Bezirk Bulach","atLeastOneDose",90580
+2021-08-30,2021-09-05,35,103,"Bezirk Bulach","completedBasicImmu",84675
+2021-08-30,2021-09-05,35,103,"Bezirk Bulach","booster",0
+2021-08-30,2021-09-05,35,104,"Bezirk Dielsdorf","atLeastOneDose",51299
+2021-08-30,2021-09-05,35,104,"Bezirk Dielsdorf","completedBasicImmu",47694
+2021-08-30,2021-09-05,35,104,"Bezirk Dielsdorf","booster",0
+2021-08-30,2021-09-05,35,105,"Bezirk Hinwil","atLeastOneDose",52068
+2021-08-30,2021-09-05,35,105,"Bezirk Hinwil","completedBasicImmu",48090
+2021-08-30,2021-09-05,35,105,"Bezirk Hinwil","booster",0
+2021-08-30,2021-09-05,35,106,"Bezirk Horgen","atLeastOneDose",76612
+2021-08-30,2021-09-05,35,106,"Bezirk Horgen","completedBasicImmu",72648
+2021-08-30,2021-09-05,35,106,"Bezirk Horgen","booster",0
+2021-08-30,2021-09-05,35,107,"Bezirk Meilen","atLeastOneDose",69963
+2021-08-30,2021-09-05,35,107,"Bezirk Meilen","completedBasicImmu",66378
+2021-08-30,2021-09-05,35,107,"Bezirk Meilen","booster",0
+2021-08-30,2021-09-05,35,108,"Bezirk Pfaffikon","atLeastOneDose",34026
+2021-08-30,2021-09-05,35,108,"Bezirk Pfaffikon","completedBasicImmu",31756
+2021-08-30,2021-09-05,35,108,"Bezirk Pfaffikon","booster",0
+2021-08-30,2021-09-05,35,109,"Bezirk Uster","atLeastOneDose",81383
+2021-08-30,2021-09-05,35,109,"Bezirk Uster","completedBasicImmu",75948
+2021-08-30,2021-09-05,35,109,"Bezirk Uster","booster",0
+2021-08-30,2021-09-05,35,110,"Bezirk Winterthur","atLeastOneDose",102521
+2021-08-30,2021-09-05,35,110,"Bezirk Winterthur","completedBasicImmu",94994
+2021-08-30,2021-09-05,35,110,"Bezirk Winterthur","booster",0
+2021-08-30,2021-09-05,35,111,"Bezirk Dietikon","atLeastOneDose",53504
+2021-08-30,2021-09-05,35,111,"Bezirk Dietikon","completedBasicImmu",49708
+2021-08-30,2021-09-05,35,111,"Bezirk Dietikon","booster",0
+2021-08-30,2021-09-05,35,112,"Bezirk Zurich","atLeastOneDose",278028
+2021-08-30,2021-09-05,35,112,"Bezirk Zurich","completedBasicImmu",265154
+2021-08-30,2021-09-05,35,112,"Bezirk Zurich","booster",0
+2021-08-30,2021-09-05,35,NA,"andere Kantone","atLeastOneDose",7798
+2021-08-30,2021-09-05,35,NA,"andere Kantone","completedBasicImmu",7350
+2021-08-30,2021-09-05,35,NA,"andere Kantone","booster",0
+2021-08-30,2021-09-05,35,NA,"Nachbarkantone","atLeastOneDose",28370
+2021-08-30,2021-09-05,35,NA,"Nachbarkantone","completedBasicImmu",26703
+2021-08-30,2021-09-05,35,NA,"Nachbarkantone","booster",0
+2021-08-30,2021-09-05,35,NA,"unbekannt","atLeastOneDose",5373
+2021-08-30,2021-09-05,35,NA,"unbekannt","completedBasicImmu",5000
+2021-08-30,2021-09-05,35,NA,"unbekannt","booster",0
+2021-08-30,2021-09-05,35,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1594
+2021-08-30,2021-09-05,35,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",18063
+2021-08-30,2021-09-05,35,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-09-06,2021-09-12,36,101,"Bezirk Affoltern","atLeastOneDose",33260
+2021-09-06,2021-09-12,36,101,"Bezirk Affoltern","completedBasicImmu",30539
+2021-09-06,2021-09-12,36,101,"Bezirk Affoltern","booster",0
+2021-09-06,2021-09-12,36,102,"Bezirk Andelfingen","atLeastOneDose",17737
+2021-09-06,2021-09-12,36,102,"Bezirk Andelfingen","completedBasicImmu",16613
+2021-09-06,2021-09-12,36,102,"Bezirk Andelfingen","booster",0
+2021-09-06,2021-09-12,36,103,"Bezirk Bulach","atLeastOneDose",93021
+2021-09-06,2021-09-12,36,103,"Bezirk Bulach","completedBasicImmu",85771
+2021-09-06,2021-09-12,36,103,"Bezirk Bulach","booster",0
+2021-09-06,2021-09-12,36,104,"Bezirk Dielsdorf","atLeastOneDose",52873
+2021-09-06,2021-09-12,36,104,"Bezirk Dielsdorf","completedBasicImmu",48352
+2021-09-06,2021-09-12,36,104,"Bezirk Dielsdorf","booster",0
+2021-09-06,2021-09-12,36,105,"Bezirk Hinwil","atLeastOneDose",53685
+2021-09-06,2021-09-12,36,105,"Bezirk Hinwil","completedBasicImmu",48672
+2021-09-06,2021-09-12,36,105,"Bezirk Hinwil","booster",0
+2021-09-06,2021-09-12,36,106,"Bezirk Horgen","atLeastOneDose",78069
+2021-09-06,2021-09-12,36,106,"Bezirk Horgen","completedBasicImmu",73258
+2021-09-06,2021-09-12,36,106,"Bezirk Horgen","booster",0
+2021-09-06,2021-09-12,36,107,"Bezirk Meilen","atLeastOneDose",71145
+2021-09-06,2021-09-12,36,107,"Bezirk Meilen","completedBasicImmu",66878
+2021-09-06,2021-09-12,36,107,"Bezirk Meilen","booster",0
+2021-09-06,2021-09-12,36,108,"Bezirk Pfaffikon","atLeastOneDose",35049
+2021-09-06,2021-09-12,36,108,"Bezirk Pfaffikon","completedBasicImmu",32128
+2021-09-06,2021-09-12,36,108,"Bezirk Pfaffikon","booster",0
+2021-09-06,2021-09-12,36,109,"Bezirk Uster","atLeastOneDose",83197
+2021-09-06,2021-09-12,36,109,"Bezirk Uster","completedBasicImmu",76781
+2021-09-06,2021-09-12,36,109,"Bezirk Uster","booster",0
+2021-09-06,2021-09-12,36,110,"Bezirk Winterthur","atLeastOneDose",105304
+2021-09-06,2021-09-12,36,110,"Bezirk Winterthur","completedBasicImmu",96185
+2021-09-06,2021-09-12,36,110,"Bezirk Winterthur","booster",0
+2021-09-06,2021-09-12,36,111,"Bezirk Dietikon","atLeastOneDose",54819
+2021-09-06,2021-09-12,36,111,"Bezirk Dietikon","completedBasicImmu",50307
+2021-09-06,2021-09-12,36,111,"Bezirk Dietikon","booster",0
+2021-09-06,2021-09-12,36,112,"Bezirk Zurich","atLeastOneDose",283636
+2021-09-06,2021-09-12,36,112,"Bezirk Zurich","completedBasicImmu",267408
+2021-09-06,2021-09-12,36,112,"Bezirk Zurich","booster",0
+2021-09-06,2021-09-12,36,NA,"andere Kantone","atLeastOneDose",7990
+2021-09-06,2021-09-12,36,NA,"andere Kantone","completedBasicImmu",7434
+2021-09-06,2021-09-12,36,NA,"andere Kantone","booster",0
+2021-09-06,2021-09-12,36,NA,"Nachbarkantone","atLeastOneDose",29098
+2021-09-06,2021-09-12,36,NA,"Nachbarkantone","completedBasicImmu",26976
+2021-09-06,2021-09-12,36,NA,"Nachbarkantone","booster",0
+2021-09-06,2021-09-12,36,NA,"unbekannt","atLeastOneDose",5469
+2021-09-06,2021-09-12,36,NA,"unbekannt","completedBasicImmu",5051
+2021-09-06,2021-09-12,36,NA,"unbekannt","booster",0
+2021-09-06,2021-09-12,36,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1770
+2021-09-06,2021-09-12,36,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",18421
+2021-09-06,2021-09-12,36,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-09-13,2021-09-19,37,101,"Bezirk Affoltern","atLeastOneDose",33853
+2021-09-13,2021-09-19,37,101,"Bezirk Affoltern","completedBasicImmu",30956
+2021-09-13,2021-09-19,37,101,"Bezirk Affoltern","booster",0
+2021-09-13,2021-09-19,37,102,"Bezirk Andelfingen","atLeastOneDose",18237
+2021-09-13,2021-09-19,37,102,"Bezirk Andelfingen","completedBasicImmu",16860
+2021-09-13,2021-09-19,37,102,"Bezirk Andelfingen","booster",0
+2021-09-13,2021-09-19,37,103,"Bezirk Bulach","atLeastOneDose",95866
+2021-09-13,2021-09-19,37,103,"Bezirk Bulach","completedBasicImmu",87196
+2021-09-13,2021-09-19,37,103,"Bezirk Bulach","booster",0
+2021-09-13,2021-09-19,37,104,"Bezirk Dielsdorf","atLeastOneDose",54422
+2021-09-13,2021-09-19,37,104,"Bezirk Dielsdorf","completedBasicImmu",49183
+2021-09-13,2021-09-19,37,104,"Bezirk Dielsdorf","booster",0
+2021-09-13,2021-09-19,37,105,"Bezirk Hinwil","atLeastOneDose",55269
+2021-09-13,2021-09-19,37,105,"Bezirk Hinwil","completedBasicImmu",49331
+2021-09-13,2021-09-19,37,105,"Bezirk Hinwil","booster",0
+2021-09-13,2021-09-19,37,106,"Bezirk Horgen","atLeastOneDose",79519
+2021-09-13,2021-09-19,37,106,"Bezirk Horgen","completedBasicImmu",74104
+2021-09-13,2021-09-19,37,106,"Bezirk Horgen","booster",0
+2021-09-13,2021-09-19,37,107,"Bezirk Meilen","atLeastOneDose",72404
+2021-09-13,2021-09-19,37,107,"Bezirk Meilen","completedBasicImmu",67549
+2021-09-13,2021-09-19,37,107,"Bezirk Meilen","booster",0
+2021-09-13,2021-09-19,37,108,"Bezirk Pfaffikon","atLeastOneDose",36178
+2021-09-13,2021-09-19,37,108,"Bezirk Pfaffikon","completedBasicImmu",32609
+2021-09-13,2021-09-19,37,108,"Bezirk Pfaffikon","booster",0
+2021-09-13,2021-09-19,37,109,"Bezirk Uster","atLeastOneDose",85392
+2021-09-13,2021-09-19,37,109,"Bezirk Uster","completedBasicImmu",77734
+2021-09-13,2021-09-19,37,109,"Bezirk Uster","booster",0
+2021-09-13,2021-09-19,37,110,"Bezirk Winterthur","atLeastOneDose",108195
+2021-09-13,2021-09-19,37,110,"Bezirk Winterthur","completedBasicImmu",97832
+2021-09-13,2021-09-19,37,110,"Bezirk Winterthur","booster",0
+2021-09-13,2021-09-19,37,111,"Bezirk Dietikon","atLeastOneDose",56329
+2021-09-13,2021-09-19,37,111,"Bezirk Dietikon","completedBasicImmu",51070
+2021-09-13,2021-09-19,37,111,"Bezirk Dietikon","booster",0
+2021-09-13,2021-09-19,37,112,"Bezirk Zurich","atLeastOneDose",289255
+2021-09-13,2021-09-19,37,112,"Bezirk Zurich","completedBasicImmu",270354
+2021-09-13,2021-09-19,37,112,"Bezirk Zurich","booster",0
+2021-09-13,2021-09-19,37,NA,"andere Kantone","atLeastOneDose",8181
+2021-09-13,2021-09-19,37,NA,"andere Kantone","completedBasicImmu",7538
+2021-09-13,2021-09-19,37,NA,"andere Kantone","booster",0
+2021-09-13,2021-09-19,37,NA,"Nachbarkantone","atLeastOneDose",29843
+2021-09-13,2021-09-19,37,NA,"Nachbarkantone","completedBasicImmu",27332
+2021-09-13,2021-09-19,37,NA,"Nachbarkantone","booster",0
+2021-09-13,2021-09-19,37,NA,"unbekannt","atLeastOneDose",5587
+2021-09-13,2021-09-19,37,NA,"unbekannt","completedBasicImmu",5117
+2021-09-13,2021-09-19,37,NA,"unbekannt","booster",0
+2021-09-13,2021-09-19,37,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",1967
+2021-09-13,2021-09-19,37,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",18973
+2021-09-13,2021-09-19,37,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-09-20,2021-09-26,38,101,"Bezirk Affoltern","atLeastOneDose",34323
+2021-09-20,2021-09-26,38,101,"Bezirk Affoltern","completedBasicImmu",31403
+2021-09-20,2021-09-26,38,101,"Bezirk Affoltern","booster",0
+2021-09-20,2021-09-26,38,102,"Bezirk Andelfingen","atLeastOneDose",18588
+2021-09-20,2021-09-26,38,102,"Bezirk Andelfingen","completedBasicImmu",17112
+2021-09-20,2021-09-26,38,102,"Bezirk Andelfingen","booster",0
+2021-09-20,2021-09-26,38,103,"Bezirk Bulach","atLeastOneDose",97696
+2021-09-20,2021-09-26,38,103,"Bezirk Bulach","completedBasicImmu",88968
+2021-09-20,2021-09-26,38,103,"Bezirk Bulach","booster",0
+2021-09-20,2021-09-26,38,104,"Bezirk Dielsdorf","atLeastOneDose",55667
+2021-09-20,2021-09-26,38,104,"Bezirk Dielsdorf","completedBasicImmu",50224
+2021-09-20,2021-09-26,38,104,"Bezirk Dielsdorf","booster",0
+2021-09-20,2021-09-26,38,105,"Bezirk Hinwil","atLeastOneDose",56233
+2021-09-20,2021-09-26,38,105,"Bezirk Hinwil","completedBasicImmu",50253
+2021-09-20,2021-09-26,38,105,"Bezirk Hinwil","booster",0
+2021-09-20,2021-09-26,38,106,"Bezirk Horgen","atLeastOneDose",80948
+2021-09-20,2021-09-26,38,106,"Bezirk Horgen","completedBasicImmu",75126
+2021-09-20,2021-09-26,38,106,"Bezirk Horgen","booster",0
+2021-09-20,2021-09-26,38,107,"Bezirk Meilen","atLeastOneDose",73111
+2021-09-20,2021-09-26,38,107,"Bezirk Meilen","completedBasicImmu",68356
+2021-09-20,2021-09-26,38,107,"Bezirk Meilen","booster",0
+2021-09-20,2021-09-26,38,108,"Bezirk Pfaffikon","atLeastOneDose",36820
+2021-09-20,2021-09-26,38,108,"Bezirk Pfaffikon","completedBasicImmu",33177
+2021-09-20,2021-09-26,38,108,"Bezirk Pfaffikon","booster",0
+2021-09-20,2021-09-26,38,109,"Bezirk Uster","atLeastOneDose",86855
+2021-09-20,2021-09-26,38,109,"Bezirk Uster","completedBasicImmu",78962
+2021-09-20,2021-09-26,38,109,"Bezirk Uster","booster",0
+2021-09-20,2021-09-26,38,110,"Bezirk Winterthur","atLeastOneDose",109991
+2021-09-20,2021-09-26,38,110,"Bezirk Winterthur","completedBasicImmu",99687
+2021-09-20,2021-09-26,38,110,"Bezirk Winterthur","booster",0
+2021-09-20,2021-09-26,38,111,"Bezirk Dietikon","atLeastOneDose",57423
+2021-09-20,2021-09-26,38,111,"Bezirk Dietikon","completedBasicImmu",52014
+2021-09-20,2021-09-26,38,111,"Bezirk Dietikon","booster",0
+2021-09-20,2021-09-26,38,112,"Bezirk Zurich","atLeastOneDose",293920
+2021-09-20,2021-09-26,38,112,"Bezirk Zurich","completedBasicImmu",273382
+2021-09-20,2021-09-26,38,112,"Bezirk Zurich","booster",0
+2021-09-20,2021-09-26,38,NA,"andere Kantone","atLeastOneDose",8364
+2021-09-20,2021-09-26,38,NA,"andere Kantone","completedBasicImmu",7626
+2021-09-20,2021-09-26,38,NA,"andere Kantone","booster",0
+2021-09-20,2021-09-26,38,NA,"Nachbarkantone","atLeastOneDose",30407
+2021-09-20,2021-09-26,38,NA,"Nachbarkantone","completedBasicImmu",27723
+2021-09-20,2021-09-26,38,NA,"Nachbarkantone","booster",0
+2021-09-20,2021-09-26,38,NA,"unbekannt","atLeastOneDose",5673
+2021-09-20,2021-09-26,38,NA,"unbekannt","completedBasicImmu",5171
+2021-09-20,2021-09-26,38,NA,"unbekannt","booster",0
+2021-09-20,2021-09-26,38,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",2136
+2021-09-20,2021-09-26,38,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",19736
+2021-09-20,2021-09-26,38,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-09-27,2021-10-03,39,101,"Bezirk Affoltern","atLeastOneDose",34612
+2021-09-27,2021-10-03,39,101,"Bezirk Affoltern","completedBasicImmu",31895
+2021-09-27,2021-10-03,39,101,"Bezirk Affoltern","booster",0
+2021-09-27,2021-10-03,39,102,"Bezirk Andelfingen","atLeastOneDose",18710
+2021-09-27,2021-10-03,39,102,"Bezirk Andelfingen","completedBasicImmu",17301
+2021-09-27,2021-10-03,39,102,"Bezirk Andelfingen","booster",0
+2021-09-27,2021-10-03,39,103,"Bezirk Bulach","atLeastOneDose",98787
+2021-09-27,2021-10-03,39,103,"Bezirk Bulach","completedBasicImmu",90281
+2021-09-27,2021-10-03,39,103,"Bezirk Bulach","booster",0
+2021-09-27,2021-10-03,39,104,"Bezirk Dielsdorf","atLeastOneDose",56209
+2021-09-27,2021-10-03,39,104,"Bezirk Dielsdorf","completedBasicImmu",51023
+2021-09-27,2021-10-03,39,104,"Bezirk Dielsdorf","booster",0
+2021-09-27,2021-10-03,39,105,"Bezirk Hinwil","atLeastOneDose",56966
+2021-09-27,2021-10-03,39,105,"Bezirk Hinwil","completedBasicImmu",51561
+2021-09-27,2021-10-03,39,105,"Bezirk Hinwil","booster",0
+2021-09-27,2021-10-03,39,106,"Bezirk Horgen","atLeastOneDose",81623
+2021-09-27,2021-10-03,39,106,"Bezirk Horgen","completedBasicImmu",76221
+2021-09-27,2021-10-03,39,106,"Bezirk Horgen","booster",0
+2021-09-27,2021-10-03,39,107,"Bezirk Meilen","atLeastOneDose",73630
+2021-09-27,2021-10-03,39,107,"Bezirk Meilen","completedBasicImmu",69542
+2021-09-27,2021-10-03,39,107,"Bezirk Meilen","booster",0
+2021-09-27,2021-10-03,39,108,"Bezirk Pfaffikon","atLeastOneDose",37207
+2021-09-27,2021-10-03,39,108,"Bezirk Pfaffikon","completedBasicImmu",33807
+2021-09-27,2021-10-03,39,108,"Bezirk Pfaffikon","booster",0
+2021-09-27,2021-10-03,39,109,"Bezirk Uster","atLeastOneDose",87653
+2021-09-27,2021-10-03,39,109,"Bezirk Uster","completedBasicImmu",80379
+2021-09-27,2021-10-03,39,109,"Bezirk Uster","booster",0
+2021-09-27,2021-10-03,39,110,"Bezirk Winterthur","atLeastOneDose",111001
+2021-09-27,2021-10-03,39,110,"Bezirk Winterthur","completedBasicImmu",101588
+2021-09-27,2021-10-03,39,110,"Bezirk Winterthur","booster",0
+2021-09-27,2021-10-03,39,111,"Bezirk Dietikon","atLeastOneDose",58260
+2021-09-27,2021-10-03,39,111,"Bezirk Dietikon","completedBasicImmu",53046
+2021-09-27,2021-10-03,39,111,"Bezirk Dietikon","booster",0
+2021-09-27,2021-10-03,39,112,"Bezirk Zurich","atLeastOneDose",296680
+2021-09-27,2021-10-03,39,112,"Bezirk Zurich","completedBasicImmu",277141
+2021-09-27,2021-10-03,39,112,"Bezirk Zurich","booster",0
+2021-09-27,2021-10-03,39,NA,"andere Kantone","atLeastOneDose",8471
+2021-09-27,2021-10-03,39,NA,"andere Kantone","completedBasicImmu",7765
+2021-09-27,2021-10-03,39,NA,"andere Kantone","booster",0
+2021-09-27,2021-10-03,39,NA,"Nachbarkantone","atLeastOneDose",30759
+2021-09-27,2021-10-03,39,NA,"Nachbarkantone","completedBasicImmu",28172
+2021-09-27,2021-10-03,39,NA,"Nachbarkantone","booster",0
+2021-09-27,2021-10-03,39,NA,"unbekannt","atLeastOneDose",5730
+2021-09-27,2021-10-03,39,NA,"unbekannt","completedBasicImmu",5256
+2021-09-27,2021-10-03,39,NA,"unbekannt","booster",0
+2021-09-27,2021-10-03,39,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",2226
+2021-09-27,2021-10-03,39,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",20604
+2021-09-27,2021-10-03,39,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-10-04,2021-10-10,40,101,"Bezirk Affoltern","atLeastOneDose",34826
+2021-10-04,2021-10-10,40,101,"Bezirk Affoltern","completedBasicImmu",32702
+2021-10-04,2021-10-10,40,101,"Bezirk Affoltern","booster",0
+2021-10-04,2021-10-10,40,102,"Bezirk Andelfingen","atLeastOneDose",18791
+2021-10-04,2021-10-10,40,102,"Bezirk Andelfingen","completedBasicImmu",17583
+2021-10-04,2021-10-10,40,102,"Bezirk Andelfingen","booster",0
+2021-10-04,2021-10-10,40,103,"Bezirk Bulach","atLeastOneDose",99461
+2021-10-04,2021-10-10,40,103,"Bezirk Bulach","completedBasicImmu",92399
+2021-10-04,2021-10-10,40,103,"Bezirk Bulach","booster",0
+2021-10-04,2021-10-10,40,104,"Bezirk Dielsdorf","atLeastOneDose",56792
+2021-10-04,2021-10-10,40,104,"Bezirk Dielsdorf","completedBasicImmu",52391
+2021-10-04,2021-10-10,40,104,"Bezirk Dielsdorf","booster",0
+2021-10-04,2021-10-10,40,105,"Bezirk Hinwil","atLeastOneDose",57521
+2021-10-04,2021-10-10,40,105,"Bezirk Hinwil","completedBasicImmu",53085
+2021-10-04,2021-10-10,40,105,"Bezirk Hinwil","booster",0
+2021-10-04,2021-10-10,40,106,"Bezirk Horgen","atLeastOneDose",82027
+2021-10-04,2021-10-10,40,106,"Bezirk Horgen","completedBasicImmu",77553
+2021-10-04,2021-10-10,40,106,"Bezirk Horgen","booster",0
+2021-10-04,2021-10-10,40,107,"Bezirk Meilen","atLeastOneDose",74037
+2021-10-04,2021-10-10,40,107,"Bezirk Meilen","completedBasicImmu",70679
+2021-10-04,2021-10-10,40,107,"Bezirk Meilen","booster",0
+2021-10-04,2021-10-10,40,108,"Bezirk Pfaffikon","atLeastOneDose",37516
+2021-10-04,2021-10-10,40,108,"Bezirk Pfaffikon","completedBasicImmu",34702
+2021-10-04,2021-10-10,40,108,"Bezirk Pfaffikon","booster",0
+2021-10-04,2021-10-10,40,109,"Bezirk Uster","atLeastOneDose",88230
+2021-10-04,2021-10-10,40,109,"Bezirk Uster","completedBasicImmu",82182
+2021-10-04,2021-10-10,40,109,"Bezirk Uster","booster",0
+2021-10-04,2021-10-10,40,110,"Bezirk Winterthur","atLeastOneDose",111810
+2021-10-04,2021-10-10,40,110,"Bezirk Winterthur","completedBasicImmu",104031
+2021-10-04,2021-10-10,40,110,"Bezirk Winterthur","booster",0
+2021-10-04,2021-10-10,40,111,"Bezirk Dietikon","atLeastOneDose",58751
+2021-10-04,2021-10-10,40,111,"Bezirk Dietikon","completedBasicImmu",54299
+2021-10-04,2021-10-10,40,111,"Bezirk Dietikon","booster",0
+2021-10-04,2021-10-10,40,112,"Bezirk Zurich","atLeastOneDose",298456
+2021-10-04,2021-10-10,40,112,"Bezirk Zurich","completedBasicImmu",282237
+2021-10-04,2021-10-10,40,112,"Bezirk Zurich","booster",0
+2021-10-04,2021-10-10,40,NA,"andere Kantone","atLeastOneDose",8565
+2021-10-04,2021-10-10,40,NA,"andere Kantone","completedBasicImmu",7932
+2021-10-04,2021-10-10,40,NA,"andere Kantone","booster",0
+2021-10-04,2021-10-10,40,NA,"Nachbarkantone","atLeastOneDose",31008
+2021-10-04,2021-10-10,40,NA,"Nachbarkantone","completedBasicImmu",28794
+2021-10-04,2021-10-10,40,NA,"Nachbarkantone","booster",0
+2021-10-04,2021-10-10,40,NA,"unbekannt","atLeastOneDose",5787
+2021-10-04,2021-10-10,40,NA,"unbekannt","completedBasicImmu",5342
+2021-10-04,2021-10-10,40,NA,"unbekannt","booster",0
+2021-10-04,2021-10-10,40,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",2393
+2021-10-04,2021-10-10,40,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",21630
+2021-10-04,2021-10-10,40,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-10-11,2021-10-17,41,101,"Bezirk Affoltern","atLeastOneDose",35013
+2021-10-11,2021-10-17,41,101,"Bezirk Affoltern","completedBasicImmu",33331
+2021-10-11,2021-10-17,41,101,"Bezirk Affoltern","booster",0
+2021-10-11,2021-10-17,41,102,"Bezirk Andelfingen","atLeastOneDose",18871
+2021-10-11,2021-10-17,41,102,"Bezirk Andelfingen","completedBasicImmu",18045
+2021-10-11,2021-10-17,41,102,"Bezirk Andelfingen","booster",0
+2021-10-11,2021-10-17,41,103,"Bezirk Bulach","atLeastOneDose",100058
+2021-10-11,2021-10-17,41,103,"Bezirk Bulach","completedBasicImmu",94891
+2021-10-11,2021-10-17,41,103,"Bezirk Bulach","booster",0
+2021-10-11,2021-10-17,41,104,"Bezirk Dielsdorf","atLeastOneDose",57164
+2021-10-11,2021-10-17,41,104,"Bezirk Dielsdorf","completedBasicImmu",53752
+2021-10-11,2021-10-17,41,104,"Bezirk Dielsdorf","booster",0
+2021-10-11,2021-10-17,41,105,"Bezirk Hinwil","atLeastOneDose",57987
+2021-10-11,2021-10-17,41,105,"Bezirk Hinwil","completedBasicImmu",54458
+2021-10-11,2021-10-17,41,105,"Bezirk Hinwil","booster",0
+2021-10-11,2021-10-17,41,106,"Bezirk Horgen","atLeastOneDose",82561
+2021-10-11,2021-10-17,41,106,"Bezirk Horgen","completedBasicImmu",78820
+2021-10-11,2021-10-17,41,106,"Bezirk Horgen","booster",0
+2021-10-11,2021-10-17,41,107,"Bezirk Meilen","atLeastOneDose",74366
+2021-10-11,2021-10-17,41,107,"Bezirk Meilen","completedBasicImmu",71815
+2021-10-11,2021-10-17,41,107,"Bezirk Meilen","booster",0
+2021-10-11,2021-10-17,41,108,"Bezirk Pfaffikon","atLeastOneDose",37782
+2021-10-11,2021-10-17,41,108,"Bezirk Pfaffikon","completedBasicImmu",35651
+2021-10-11,2021-10-17,41,108,"Bezirk Pfaffikon","booster",0
+2021-10-11,2021-10-17,41,109,"Bezirk Uster","atLeastOneDose",88812
+2021-10-11,2021-10-17,41,109,"Bezirk Uster","completedBasicImmu",84099
+2021-10-11,2021-10-17,41,109,"Bezirk Uster","booster",0
+2021-10-11,2021-10-17,41,110,"Bezirk Winterthur","atLeastOneDose",112479
+2021-10-11,2021-10-17,41,110,"Bezirk Winterthur","completedBasicImmu",106847
+2021-10-11,2021-10-17,41,110,"Bezirk Winterthur","booster",0
+2021-10-11,2021-10-17,41,111,"Bezirk Dietikon","atLeastOneDose",59223
+2021-10-11,2021-10-17,41,111,"Bezirk Dietikon","completedBasicImmu",55666
+2021-10-11,2021-10-17,41,111,"Bezirk Dietikon","booster",0
+2021-10-11,2021-10-17,41,112,"Bezirk Zurich","atLeastOneDose",300099
+2021-10-11,2021-10-17,41,112,"Bezirk Zurich","completedBasicImmu",287149
+2021-10-11,2021-10-17,41,112,"Bezirk Zurich","booster",0
+2021-10-11,2021-10-17,41,NA,"andere Kantone","atLeastOneDose",8659
+2021-10-11,2021-10-17,41,NA,"andere Kantone","completedBasicImmu",8135
+2021-10-11,2021-10-17,41,NA,"andere Kantone","booster",0
+2021-10-11,2021-10-17,41,NA,"Nachbarkantone","atLeastOneDose",31263
+2021-10-11,2021-10-17,41,NA,"Nachbarkantone","completedBasicImmu",29446
+2021-10-11,2021-10-17,41,NA,"Nachbarkantone","booster",0
+2021-10-11,2021-10-17,41,NA,"unbekannt","atLeastOneDose",5837
+2021-10-11,2021-10-17,41,NA,"unbekannt","completedBasicImmu",5439
+2021-10-11,2021-10-17,41,NA,"unbekannt","booster",0
+2021-10-11,2021-10-17,41,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",2679
+2021-10-11,2021-10-17,41,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",22458
+2021-10-11,2021-10-17,41,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-10-18,2021-10-24,42,101,"Bezirk Affoltern","atLeastOneDose",35159
+2021-10-18,2021-10-24,42,101,"Bezirk Affoltern","completedBasicImmu",33715
+2021-10-18,2021-10-24,42,101,"Bezirk Affoltern","booster",0
+2021-10-18,2021-10-24,42,102,"Bezirk Andelfingen","atLeastOneDose",18930
+2021-10-18,2021-10-24,42,102,"Bezirk Andelfingen","completedBasicImmu",18397
+2021-10-18,2021-10-24,42,102,"Bezirk Andelfingen","booster",0
+2021-10-18,2021-10-24,42,103,"Bezirk Bulach","atLeastOneDose",100583
+2021-10-18,2021-10-24,42,103,"Bezirk Bulach","completedBasicImmu",96727
+2021-10-18,2021-10-24,42,103,"Bezirk Bulach","booster",0
+2021-10-18,2021-10-24,42,104,"Bezirk Dielsdorf","atLeastOneDose",57638
+2021-10-18,2021-10-24,42,104,"Bezirk Dielsdorf","completedBasicImmu",54976
+2021-10-18,2021-10-24,42,104,"Bezirk Dielsdorf","booster",0
+2021-10-18,2021-10-24,42,105,"Bezirk Hinwil","atLeastOneDose",58320
+2021-10-18,2021-10-24,42,105,"Bezirk Hinwil","completedBasicImmu",55501
+2021-10-18,2021-10-24,42,105,"Bezirk Hinwil","booster",0
+2021-10-18,2021-10-24,42,106,"Bezirk Horgen","atLeastOneDose",82907
+2021-10-18,2021-10-24,42,106,"Bezirk Horgen","completedBasicImmu",79826
+2021-10-18,2021-10-24,42,106,"Bezirk Horgen","booster",0
+2021-10-18,2021-10-24,42,107,"Bezirk Meilen","atLeastOneDose",74639
+2021-10-18,2021-10-24,42,107,"Bezirk Meilen","completedBasicImmu",72520
+2021-10-18,2021-10-24,42,107,"Bezirk Meilen","booster",0
+2021-10-18,2021-10-24,42,108,"Bezirk Pfaffikon","atLeastOneDose",37980
+2021-10-18,2021-10-24,42,108,"Bezirk Pfaffikon","completedBasicImmu",36415
+2021-10-18,2021-10-24,42,108,"Bezirk Pfaffikon","booster",0
+2021-10-18,2021-10-24,42,109,"Bezirk Uster","atLeastOneDose",89241
+2021-10-18,2021-10-24,42,109,"Bezirk Uster","completedBasicImmu",85735
+2021-10-18,2021-10-24,42,109,"Bezirk Uster","booster",0
+2021-10-18,2021-10-24,42,110,"Bezirk Winterthur","atLeastOneDose",112980
+2021-10-18,2021-10-24,42,110,"Bezirk Winterthur","completedBasicImmu",108699
+2021-10-18,2021-10-24,42,110,"Bezirk Winterthur","booster",0
+2021-10-18,2021-10-24,42,111,"Bezirk Dietikon","atLeastOneDose",59558
+2021-10-18,2021-10-24,42,111,"Bezirk Dietikon","completedBasicImmu",56743
+2021-10-18,2021-10-24,42,111,"Bezirk Dietikon","booster",0
+2021-10-18,2021-10-24,42,112,"Bezirk Zurich","atLeastOneDose",301524
+2021-10-18,2021-10-24,42,112,"Bezirk Zurich","completedBasicImmu",291630
+2021-10-18,2021-10-24,42,112,"Bezirk Zurich","booster",0
+2021-10-18,2021-10-24,42,NA,"andere Kantone","atLeastOneDose",8709
+2021-10-18,2021-10-24,42,NA,"andere Kantone","completedBasicImmu",8314
+2021-10-18,2021-10-24,42,NA,"andere Kantone","booster",0
+2021-10-18,2021-10-24,42,NA,"Nachbarkantone","atLeastOneDose",31410
+2021-10-18,2021-10-24,42,NA,"Nachbarkantone","completedBasicImmu",30015
+2021-10-18,2021-10-24,42,NA,"Nachbarkantone","booster",0
+2021-10-18,2021-10-24,42,NA,"unbekannt","atLeastOneDose",5871
+2021-10-18,2021-10-24,42,NA,"unbekannt","completedBasicImmu",5539
+2021-10-18,2021-10-24,42,NA,"unbekannt","booster",0
+2021-10-18,2021-10-24,42,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",2969
+2021-10-18,2021-10-24,42,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",23235
+2021-10-18,2021-10-24,42,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-10-25,2021-10-31,43,101,"Bezirk Affoltern","atLeastOneDose",35305
+2021-10-25,2021-10-31,43,101,"Bezirk Affoltern","completedBasicImmu",34114
+2021-10-25,2021-10-31,43,101,"Bezirk Affoltern","booster",0
+2021-10-25,2021-10-31,43,102,"Bezirk Andelfingen","atLeastOneDose",19003
+2021-10-25,2021-10-31,43,102,"Bezirk Andelfingen","completedBasicImmu",18526
+2021-10-25,2021-10-31,43,102,"Bezirk Andelfingen","booster",0
+2021-10-25,2021-10-31,43,103,"Bezirk Bulach","atLeastOneDose",101208
+2021-10-25,2021-10-31,43,103,"Bezirk Bulach","completedBasicImmu",98064
+2021-10-25,2021-10-31,43,103,"Bezirk Bulach","booster",0
+2021-10-25,2021-10-31,43,104,"Bezirk Dielsdorf","atLeastOneDose",57975
+2021-10-25,2021-10-31,43,104,"Bezirk Dielsdorf","completedBasicImmu",55669
+2021-10-25,2021-10-31,43,104,"Bezirk Dielsdorf","booster",0
+2021-10-25,2021-10-31,43,105,"Bezirk Hinwil","atLeastOneDose",58654
+2021-10-25,2021-10-31,43,105,"Bezirk Hinwil","completedBasicImmu",56267
+2021-10-25,2021-10-31,43,105,"Bezirk Hinwil","booster",0
+2021-10-25,2021-10-31,43,106,"Bezirk Horgen","atLeastOneDose",83317
+2021-10-25,2021-10-31,43,106,"Bezirk Horgen","completedBasicImmu",80994
+2021-10-25,2021-10-31,43,106,"Bezirk Horgen","booster",0
+2021-10-25,2021-10-31,43,107,"Bezirk Meilen","atLeastOneDose",74937
+2021-10-25,2021-10-31,43,107,"Bezirk Meilen","completedBasicImmu",73128
+2021-10-25,2021-10-31,43,107,"Bezirk Meilen","booster",0
+2021-10-25,2021-10-31,43,108,"Bezirk Pfaffikon","atLeastOneDose",38132
+2021-10-25,2021-10-31,43,108,"Bezirk Pfaffikon","completedBasicImmu",36799
+2021-10-25,2021-10-31,43,108,"Bezirk Pfaffikon","booster",0
+2021-10-25,2021-10-31,43,109,"Bezirk Uster","atLeastOneDose",89629
+2021-10-25,2021-10-31,43,109,"Bezirk Uster","completedBasicImmu",86638
+2021-10-25,2021-10-31,43,109,"Bezirk Uster","booster",0
+2021-10-25,2021-10-31,43,110,"Bezirk Winterthur","atLeastOneDose",113528
+2021-10-25,2021-10-31,43,110,"Bezirk Winterthur","completedBasicImmu",109835
+2021-10-25,2021-10-31,43,110,"Bezirk Winterthur","booster",0
+2021-10-25,2021-10-31,43,111,"Bezirk Dietikon","atLeastOneDose",59864
+2021-10-25,2021-10-31,43,111,"Bezirk Dietikon","completedBasicImmu",57591
+2021-10-25,2021-10-31,43,111,"Bezirk Dietikon","booster",0
+2021-10-25,2021-10-31,43,112,"Bezirk Zurich","atLeastOneDose",302883
+2021-10-25,2021-10-31,43,112,"Bezirk Zurich","completedBasicImmu",294848
+2021-10-25,2021-10-31,43,112,"Bezirk Zurich","booster",0
+2021-10-25,2021-10-31,43,NA,"andere Kantone","atLeastOneDose",8758
+2021-10-25,2021-10-31,43,NA,"andere Kantone","completedBasicImmu",8421
+2021-10-25,2021-10-31,43,NA,"andere Kantone","booster",0
+2021-10-25,2021-10-31,43,NA,"Nachbarkantone","atLeastOneDose",31585
+2021-10-25,2021-10-31,43,NA,"Nachbarkantone","completedBasicImmu",30383
+2021-10-25,2021-10-31,43,NA,"Nachbarkantone","booster",0
+2021-10-25,2021-10-31,43,NA,"unbekannt","atLeastOneDose",5907
+2021-10-25,2021-10-31,43,NA,"unbekannt","completedBasicImmu",5601
+2021-10-25,2021-10-31,43,NA,"unbekannt","booster",0
+2021-10-25,2021-10-31,43,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3089
+2021-10-25,2021-10-31,43,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",23716
+2021-10-25,2021-10-31,43,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-11-01,2021-11-07,44,101,"Bezirk Affoltern","atLeastOneDose",35446
+2021-11-01,2021-11-07,44,101,"Bezirk Affoltern","completedBasicImmu",34319
+2021-11-01,2021-11-07,44,101,"Bezirk Affoltern","booster",0
+2021-11-01,2021-11-07,44,102,"Bezirk Andelfingen","atLeastOneDose",19064
+2021-11-01,2021-11-07,44,102,"Bezirk Andelfingen","completedBasicImmu",18617
+2021-11-01,2021-11-07,44,102,"Bezirk Andelfingen","booster",0
+2021-11-01,2021-11-07,44,103,"Bezirk Bulach","atLeastOneDose",101791
+2021-11-01,2021-11-07,44,103,"Bezirk Bulach","completedBasicImmu",98885
+2021-11-01,2021-11-07,44,103,"Bezirk Bulach","booster",0
+2021-11-01,2021-11-07,44,104,"Bezirk Dielsdorf","atLeastOneDose",58253
+2021-11-01,2021-11-07,44,104,"Bezirk Dielsdorf","completedBasicImmu",56283
+2021-11-01,2021-11-07,44,104,"Bezirk Dielsdorf","booster",0
+2021-11-01,2021-11-07,44,105,"Bezirk Hinwil","atLeastOneDose",58906
+2021-11-01,2021-11-07,44,105,"Bezirk Hinwil","completedBasicImmu",56900
+2021-11-01,2021-11-07,44,105,"Bezirk Hinwil","booster",0
+2021-11-01,2021-11-07,44,106,"Bezirk Horgen","atLeastOneDose",83719
+2021-11-01,2021-11-07,44,106,"Bezirk Horgen","completedBasicImmu",81512
+2021-11-01,2021-11-07,44,106,"Bezirk Horgen","booster",0
+2021-11-01,2021-11-07,44,107,"Bezirk Meilen","atLeastOneDose",75197
+2021-11-01,2021-11-07,44,107,"Bezirk Meilen","completedBasicImmu",73646
+2021-11-01,2021-11-07,44,107,"Bezirk Meilen","booster",0
+2021-11-01,2021-11-07,44,108,"Bezirk Pfaffikon","atLeastOneDose",38297
+2021-11-01,2021-11-07,44,108,"Bezirk Pfaffikon","completedBasicImmu",37217
+2021-11-01,2021-11-07,44,108,"Bezirk Pfaffikon","booster",0
+2021-11-01,2021-11-07,44,109,"Bezirk Uster","atLeastOneDose",90028
+2021-11-01,2021-11-07,44,109,"Bezirk Uster","completedBasicImmu",87275
+2021-11-01,2021-11-07,44,109,"Bezirk Uster","booster",0
+2021-11-01,2021-11-07,44,110,"Bezirk Winterthur","atLeastOneDose",113978
+2021-11-01,2021-11-07,44,110,"Bezirk Winterthur","completedBasicImmu",110688
+2021-11-01,2021-11-07,44,110,"Bezirk Winterthur","booster",0
+2021-11-01,2021-11-07,44,111,"Bezirk Dietikon","atLeastOneDose",60138
+2021-11-01,2021-11-07,44,111,"Bezirk Dietikon","completedBasicImmu",58127
+2021-11-01,2021-11-07,44,111,"Bezirk Dietikon","booster",0
+2021-11-01,2021-11-07,44,112,"Bezirk Zurich","atLeastOneDose",304135
+2021-11-01,2021-11-07,44,112,"Bezirk Zurich","completedBasicImmu",296825
+2021-11-01,2021-11-07,44,112,"Bezirk Zurich","booster",0
+2021-11-01,2021-11-07,44,NA,"andere Kantone","atLeastOneDose",8824
+2021-11-01,2021-11-07,44,NA,"andere Kantone","completedBasicImmu",8531
+2021-11-01,2021-11-07,44,NA,"andere Kantone","booster",0
+2021-11-01,2021-11-07,44,NA,"Nachbarkantone","atLeastOneDose",31746
+2021-11-01,2021-11-07,44,NA,"Nachbarkantone","completedBasicImmu",30656
+2021-11-01,2021-11-07,44,NA,"Nachbarkantone","booster",0
+2021-11-01,2021-11-07,44,NA,"unbekannt","atLeastOneDose",5954
+2021-11-01,2021-11-07,44,NA,"unbekannt","completedBasicImmu",5668
+2021-11-01,2021-11-07,44,NA,"unbekannt","booster",0
+2021-11-01,2021-11-07,44,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3191
+2021-11-01,2021-11-07,44,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",24054
+2021-11-01,2021-11-07,44,NA,"ZH aber ausserkantonal geimpft","booster",0
+2021-11-08,2021-11-14,45,101,"Bezirk Affoltern","atLeastOneDose",35608
+2021-11-08,2021-11-14,45,101,"Bezirk Affoltern","completedBasicImmu",34546
+2021-11-08,2021-11-14,45,101,"Bezirk Affoltern","booster",464
+2021-11-08,2021-11-14,45,102,"Bezirk Andelfingen","atLeastOneDose",19208
+2021-11-08,2021-11-14,45,102,"Bezirk Andelfingen","completedBasicImmu",18719
+2021-11-08,2021-11-14,45,102,"Bezirk Andelfingen","booster",237
+2021-11-08,2021-11-14,45,103,"Bezirk Bulach","atLeastOneDose",102429
+2021-11-08,2021-11-14,45,103,"Bezirk Bulach","completedBasicImmu",99619
+2021-11-08,2021-11-14,45,103,"Bezirk Bulach","booster",1191
+2021-11-08,2021-11-14,45,104,"Bezirk Dielsdorf","atLeastOneDose",58635
+2021-11-08,2021-11-14,45,104,"Bezirk Dielsdorf","completedBasicImmu",56738
+2021-11-08,2021-11-14,45,104,"Bezirk Dielsdorf","booster",410
+2021-11-08,2021-11-14,45,105,"Bezirk Hinwil","atLeastOneDose",59328
+2021-11-08,2021-11-14,45,105,"Bezirk Hinwil","completedBasicImmu",57488
+2021-11-08,2021-11-14,45,105,"Bezirk Hinwil","booster",893
+2021-11-08,2021-11-14,45,106,"Bezirk Horgen","atLeastOneDose",84074
+2021-11-08,2021-11-14,45,106,"Bezirk Horgen","completedBasicImmu",82080
+2021-11-08,2021-11-14,45,106,"Bezirk Horgen","booster",1030
+2021-11-08,2021-11-14,45,107,"Bezirk Meilen","atLeastOneDose",75510
+2021-11-08,2021-11-14,45,107,"Bezirk Meilen","completedBasicImmu",74057
+2021-11-08,2021-11-14,45,107,"Bezirk Meilen","booster",1383
+2021-11-08,2021-11-14,45,108,"Bezirk Pfaffikon","atLeastOneDose",38541
+2021-11-08,2021-11-14,45,108,"Bezirk Pfaffikon","completedBasicImmu",37530
+2021-11-08,2021-11-14,45,108,"Bezirk Pfaffikon","booster",665
+2021-11-08,2021-11-14,45,109,"Bezirk Uster","atLeastOneDose",90578
+2021-11-08,2021-11-14,45,109,"Bezirk Uster","completedBasicImmu",87976
+2021-11-08,2021-11-14,45,109,"Bezirk Uster","booster",1740
+2021-11-08,2021-11-14,45,110,"Bezirk Winterthur","atLeastOneDose",114696
+2021-11-08,2021-11-14,45,110,"Bezirk Winterthur","completedBasicImmu",111438
+2021-11-08,2021-11-14,45,110,"Bezirk Winterthur","booster",1790
+2021-11-08,2021-11-14,45,111,"Bezirk Dietikon","atLeastOneDose",60452
+2021-11-08,2021-11-14,45,111,"Bezirk Dietikon","completedBasicImmu",58639
+2021-11-08,2021-11-14,45,111,"Bezirk Dietikon","booster",596
+2021-11-08,2021-11-14,45,112,"Bezirk Zurich","atLeastOneDose",305495
+2021-11-08,2021-11-14,45,112,"Bezirk Zurich","completedBasicImmu",298703
+2021-11-08,2021-11-14,45,112,"Bezirk Zurich","booster",4115
+2021-11-08,2021-11-14,45,NA,"andere Kantone","atLeastOneDose",8914
+2021-11-08,2021-11-14,45,NA,"andere Kantone","completedBasicImmu",8648
+2021-11-08,2021-11-14,45,NA,"andere Kantone","booster",103
+2021-11-08,2021-11-14,45,NA,"Nachbarkantone","atLeastOneDose",32019
+2021-11-08,2021-11-14,45,NA,"Nachbarkantone","completedBasicImmu",30953
+2021-11-08,2021-11-14,45,NA,"Nachbarkantone","booster",339
+2021-11-08,2021-11-14,45,NA,"unbekannt","atLeastOneDose",6021
+2021-11-08,2021-11-14,45,NA,"unbekannt","completedBasicImmu",5726
+2021-11-08,2021-11-14,45,NA,"unbekannt","booster",112
+2021-11-08,2021-11-14,45,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3357
+2021-11-08,2021-11-14,45,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",24382
+2021-11-08,2021-11-14,45,NA,"ZH aber ausserkantonal geimpft","booster",250
+2021-11-15,2021-11-21,46,101,"Bezirk Affoltern","atLeastOneDose",35716
+2021-11-15,2021-11-21,46,101,"Bezirk Affoltern","completedBasicImmu",34692
+2021-11-15,2021-11-21,46,101,"Bezirk Affoltern","booster",2134
+2021-11-15,2021-11-21,46,102,"Bezirk Andelfingen","atLeastOneDose",19252
+2021-11-15,2021-11-21,46,102,"Bezirk Andelfingen","completedBasicImmu",18787
+2021-11-15,2021-11-21,46,102,"Bezirk Andelfingen","booster",766
+2021-11-15,2021-11-21,46,103,"Bezirk Bulach","atLeastOneDose",102867
+2021-11-15,2021-11-21,46,103,"Bezirk Bulach","completedBasicImmu",100184
+2021-11-15,2021-11-21,46,103,"Bezirk Bulach","booster",3815
+2021-11-15,2021-11-21,46,104,"Bezirk Dielsdorf","atLeastOneDose",58865
+2021-11-15,2021-11-21,46,104,"Bezirk Dielsdorf","completedBasicImmu",57217
+2021-11-15,2021-11-21,46,104,"Bezirk Dielsdorf","booster",1562
+2021-11-15,2021-11-21,46,105,"Bezirk Hinwil","atLeastOneDose",59603
+2021-11-15,2021-11-21,46,105,"Bezirk Hinwil","completedBasicImmu",57845
+2021-11-15,2021-11-21,46,105,"Bezirk Hinwil","booster",2731
+2021-11-15,2021-11-21,46,106,"Bezirk Horgen","atLeastOneDose",84377
+2021-11-15,2021-11-21,46,106,"Bezirk Horgen","completedBasicImmu",82467
+2021-11-15,2021-11-21,46,106,"Bezirk Horgen","booster",3853
+2021-11-15,2021-11-21,46,107,"Bezirk Meilen","atLeastOneDose",75720
+2021-11-15,2021-11-21,46,107,"Bezirk Meilen","completedBasicImmu",74352
+2021-11-15,2021-11-21,46,107,"Bezirk Meilen","booster",4653
+2021-11-15,2021-11-21,46,108,"Bezirk Pfaffikon","atLeastOneDose",38697
+2021-11-15,2021-11-21,46,108,"Bezirk Pfaffikon","completedBasicImmu",37744
+2021-11-15,2021-11-21,46,108,"Bezirk Pfaffikon","booster",2082
+2021-11-15,2021-11-21,46,109,"Bezirk Uster","atLeastOneDose",90906
+2021-11-15,2021-11-21,46,109,"Bezirk Uster","completedBasicImmu",88441
+2021-11-15,2021-11-21,46,109,"Bezirk Uster","booster",4907
+2021-11-15,2021-11-21,46,110,"Bezirk Winterthur","atLeastOneDose",115160
+2021-11-15,2021-11-21,46,110,"Bezirk Winterthur","completedBasicImmu",112095
+2021-11-15,2021-11-21,46,110,"Bezirk Winterthur","booster",5064
+2021-11-15,2021-11-21,46,111,"Bezirk Dietikon","atLeastOneDose",60691
+2021-11-15,2021-11-21,46,111,"Bezirk Dietikon","completedBasicImmu",59001
+2021-11-15,2021-11-21,46,111,"Bezirk Dietikon","booster",2616
+2021-11-15,2021-11-21,46,112,"Bezirk Zurich","atLeastOneDose",306545
+2021-11-15,2021-11-21,46,112,"Bezirk Zurich","completedBasicImmu",300127
+2021-11-15,2021-11-21,46,112,"Bezirk Zurich","booster",12672
+2021-11-15,2021-11-21,46,NA,"andere Kantone","atLeastOneDose",8976
+2021-11-15,2021-11-21,46,NA,"andere Kantone","completedBasicImmu",8705
+2021-11-15,2021-11-21,46,NA,"andere Kantone","booster",231
+2021-11-15,2021-11-21,46,NA,"Nachbarkantone","atLeastOneDose",32186
+2021-11-15,2021-11-21,46,NA,"Nachbarkantone","completedBasicImmu",31135
+2021-11-15,2021-11-21,46,NA,"Nachbarkantone","booster",893
+2021-11-15,2021-11-21,46,NA,"unbekannt","atLeastOneDose",6051
+2021-11-15,2021-11-21,46,NA,"unbekannt","completedBasicImmu",5770
+2021-11-15,2021-11-21,46,NA,"unbekannt","booster",204
+2021-11-15,2021-11-21,46,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3452
+2021-11-15,2021-11-21,46,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",24657
+2021-11-15,2021-11-21,46,NA,"ZH aber ausserkantonal geimpft","booster",1023
+2021-11-22,2021-11-28,47,101,"Bezirk Affoltern","atLeastOneDose",35833
+2021-11-22,2021-11-28,47,101,"Bezirk Affoltern","completedBasicImmu",34843
+2021-11-22,2021-11-28,47,101,"Bezirk Affoltern","booster",4306
+2021-11-22,2021-11-28,47,102,"Bezirk Andelfingen","atLeastOneDose",19306
+2021-11-22,2021-11-28,47,102,"Bezirk Andelfingen","completedBasicImmu",18871
+2021-11-22,2021-11-28,47,102,"Bezirk Andelfingen","booster",2027
+2021-11-22,2021-11-28,47,103,"Bezirk Bulach","atLeastOneDose",103252
+2021-11-22,2021-11-28,47,103,"Bezirk Bulach","completedBasicImmu",100796
+2021-11-22,2021-11-28,47,103,"Bezirk Bulach","booster",8533
+2021-11-22,2021-11-28,47,104,"Bezirk Dielsdorf","atLeastOneDose",59088
+2021-11-22,2021-11-28,47,104,"Bezirk Dielsdorf","completedBasicImmu",57507
+2021-11-22,2021-11-28,47,104,"Bezirk Dielsdorf","booster",3670
+2021-11-22,2021-11-28,47,105,"Bezirk Hinwil","atLeastOneDose",59845
+2021-11-22,2021-11-28,47,105,"Bezirk Hinwil","completedBasicImmu",58194
+2021-11-22,2021-11-28,47,105,"Bezirk Hinwil","booster",5910
+2021-11-22,2021-11-28,47,106,"Bezirk Horgen","atLeastOneDose",84619
+2021-11-22,2021-11-28,47,106,"Bezirk Horgen","completedBasicImmu",82814
+2021-11-22,2021-11-28,47,106,"Bezirk Horgen","booster",8183
+2021-11-22,2021-11-28,47,107,"Bezirk Meilen","atLeastOneDose",75920
+2021-11-22,2021-11-28,47,107,"Bezirk Meilen","completedBasicImmu",74668
+2021-11-22,2021-11-28,47,107,"Bezirk Meilen","booster",9341
+2021-11-22,2021-11-28,47,108,"Bezirk Pfaffikon","atLeastOneDose",38861
+2021-11-22,2021-11-28,47,108,"Bezirk Pfaffikon","completedBasicImmu",37977
+2021-11-22,2021-11-28,47,108,"Bezirk Pfaffikon","booster",4011
+2021-11-22,2021-11-28,47,109,"Bezirk Uster","atLeastOneDose",91237
+2021-11-22,2021-11-28,47,109,"Bezirk Uster","completedBasicImmu",88876
+2021-11-22,2021-11-28,47,109,"Bezirk Uster","booster",9042
+2021-11-22,2021-11-28,47,110,"Bezirk Winterthur","atLeastOneDose",115624
+2021-11-22,2021-11-28,47,110,"Bezirk Winterthur","completedBasicImmu",112786
+2021-11-22,2021-11-28,47,110,"Bezirk Winterthur","booster",12231
+2021-11-22,2021-11-28,47,111,"Bezirk Dietikon","atLeastOneDose",60900
+2021-11-22,2021-11-28,47,111,"Bezirk Dietikon","completedBasicImmu",59311
+2021-11-22,2021-11-28,47,111,"Bezirk Dietikon","booster",5233
+2021-11-22,2021-11-28,47,112,"Bezirk Zurich","atLeastOneDose",307481
+2021-11-22,2021-11-28,47,112,"Bezirk Zurich","completedBasicImmu",301407
+2021-11-22,2021-11-28,47,112,"Bezirk Zurich","booster",24927
+2021-11-22,2021-11-28,47,NA,"andere Kantone","atLeastOneDose",9024
+2021-11-22,2021-11-28,47,NA,"andere Kantone","completedBasicImmu",8748
+2021-11-22,2021-11-28,47,NA,"andere Kantone","booster",474
+2021-11-22,2021-11-28,47,NA,"Nachbarkantone","atLeastOneDose",32409
+2021-11-22,2021-11-28,47,NA,"Nachbarkantone","completedBasicImmu",31313
+2021-11-22,2021-11-28,47,NA,"Nachbarkantone","booster",1942
+2021-11-22,2021-11-28,47,NA,"unbekannt","atLeastOneDose",6094
+2021-11-22,2021-11-28,47,NA,"unbekannt","completedBasicImmu",5804
+2021-11-22,2021-11-28,47,NA,"unbekannt","booster",421
+2021-11-22,2021-11-28,47,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3539
+2021-11-22,2021-11-28,47,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",24906
+2021-11-22,2021-11-28,47,NA,"ZH aber ausserkantonal geimpft","booster",2212
+2021-11-29,2021-12-05,48,101,"Bezirk Affoltern","atLeastOneDose",35968
+2021-11-29,2021-12-05,48,101,"Bezirk Affoltern","completedBasicImmu",35005
+2021-11-29,2021-12-05,48,101,"Bezirk Affoltern","booster",6542
+2021-11-29,2021-12-05,48,102,"Bezirk Andelfingen","atLeastOneDose",19379
+2021-11-29,2021-12-05,48,102,"Bezirk Andelfingen","completedBasicImmu",18976
+2021-11-29,2021-12-05,48,102,"Bezirk Andelfingen","booster",3548
+2021-11-29,2021-12-05,48,103,"Bezirk Bulach","atLeastOneDose",103705
+2021-11-29,2021-12-05,48,103,"Bezirk Bulach","completedBasicImmu",101436
+2021-11-29,2021-12-05,48,103,"Bezirk Bulach","booster",14275
+2021-11-29,2021-12-05,48,104,"Bezirk Dielsdorf","atLeastOneDose",59322
+2021-11-29,2021-12-05,48,104,"Bezirk Dielsdorf","completedBasicImmu",57768
+2021-11-29,2021-12-05,48,104,"Bezirk Dielsdorf","booster",6631
+2021-11-29,2021-12-05,48,105,"Bezirk Hinwil","atLeastOneDose",60145
+2021-11-29,2021-12-05,48,105,"Bezirk Hinwil","completedBasicImmu",58471
+2021-11-29,2021-12-05,48,105,"Bezirk Hinwil","booster",9249
+2021-11-29,2021-12-05,48,106,"Bezirk Horgen","atLeastOneDose",84875
+2021-11-29,2021-12-05,48,106,"Bezirk Horgen","completedBasicImmu",83184
+2021-11-29,2021-12-05,48,106,"Bezirk Horgen","booster",13337
+2021-11-29,2021-12-05,48,107,"Bezirk Meilen","atLeastOneDose",76114
+2021-11-29,2021-12-05,48,107,"Bezirk Meilen","completedBasicImmu",74942
+2021-11-29,2021-12-05,48,107,"Bezirk Meilen","booster",15208
+2021-11-29,2021-12-05,48,108,"Bezirk Pfaffikon","atLeastOneDose",39082
+2021-11-29,2021-12-05,48,108,"Bezirk Pfaffikon","completedBasicImmu",38173
+2021-11-29,2021-12-05,48,108,"Bezirk Pfaffikon","booster",6721
+2021-11-29,2021-12-05,48,109,"Bezirk Uster","atLeastOneDose",91665
+2021-11-29,2021-12-05,48,109,"Bezirk Uster","completedBasicImmu",89314
+2021-11-29,2021-12-05,48,109,"Bezirk Uster","booster",14689
+2021-11-29,2021-12-05,48,110,"Bezirk Winterthur","atLeastOneDose",116178
+2021-11-29,2021-12-05,48,110,"Bezirk Winterthur","completedBasicImmu",113445
+2021-11-29,2021-12-05,48,110,"Bezirk Winterthur","booster",20553
+2021-11-29,2021-12-05,48,111,"Bezirk Dietikon","atLeastOneDose",61119
+2021-11-29,2021-12-05,48,111,"Bezirk Dietikon","completedBasicImmu",59606
+2021-11-29,2021-12-05,48,111,"Bezirk Dietikon","booster",8505
+2021-11-29,2021-12-05,48,112,"Bezirk Zurich","atLeastOneDose",308430
+2021-11-29,2021-12-05,48,112,"Bezirk Zurich","completedBasicImmu",302759
+2021-11-29,2021-12-05,48,112,"Bezirk Zurich","booster",41308
+2021-11-29,2021-12-05,48,NA,"andere Kantone","atLeastOneDose",9069
+2021-11-29,2021-12-05,48,NA,"andere Kantone","completedBasicImmu",8814
+2021-11-29,2021-12-05,48,NA,"andere Kantone","booster",895
+2021-11-29,2021-12-05,48,NA,"Nachbarkantone","atLeastOneDose",32597
+2021-11-29,2021-12-05,48,NA,"Nachbarkantone","completedBasicImmu",31524
+2021-11-29,2021-12-05,48,NA,"Nachbarkantone","booster",3887
+2021-11-29,2021-12-05,48,NA,"unbekannt","atLeastOneDose",6131
+2021-11-29,2021-12-05,48,NA,"unbekannt","completedBasicImmu",5851
+2021-11-29,2021-12-05,48,NA,"unbekannt","booster",823
+2021-11-29,2021-12-05,48,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3627
+2021-11-29,2021-12-05,48,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",25178
+2021-11-29,2021-12-05,48,NA,"ZH aber ausserkantonal geimpft","booster",3755
+2021-12-06,2021-12-12,49,101,"Bezirk Affoltern","atLeastOneDose",36142
+2021-12-06,2021-12-12,49,101,"Bezirk Affoltern","completedBasicImmu",35223
+2021-12-06,2021-12-12,49,101,"Bezirk Affoltern","booster",9351
+2021-12-06,2021-12-12,49,102,"Bezirk Andelfingen","atLeastOneDose",19477
+2021-12-06,2021-12-12,49,102,"Bezirk Andelfingen","completedBasicImmu",19129
+2021-12-06,2021-12-12,49,102,"Bezirk Andelfingen","booster",5198
+2021-12-06,2021-12-12,49,103,"Bezirk Bulach","atLeastOneDose",104265
+2021-12-06,2021-12-12,49,103,"Bezirk Bulach","completedBasicImmu",102032
+2021-12-06,2021-12-12,49,103,"Bezirk Bulach","booster",23307
+2021-12-06,2021-12-12,49,104,"Bezirk Dielsdorf","atLeastOneDose",59657
+2021-12-06,2021-12-12,49,104,"Bezirk Dielsdorf","completedBasicImmu",58171
+2021-12-06,2021-12-12,49,104,"Bezirk Dielsdorf","booster",11719
+2021-12-06,2021-12-12,49,105,"Bezirk Hinwil","atLeastOneDose",60533
+2021-12-06,2021-12-12,49,105,"Bezirk Hinwil","completedBasicImmu",58839
+2021-12-06,2021-12-12,49,105,"Bezirk Hinwil","booster",13625
+2021-12-06,2021-12-12,49,106,"Bezirk Horgen","atLeastOneDose",85180
+2021-12-06,2021-12-12,49,106,"Bezirk Horgen","completedBasicImmu",83519
+2021-12-06,2021-12-12,49,106,"Bezirk Horgen","booster",19912
+2021-12-06,2021-12-12,49,107,"Bezirk Meilen","atLeastOneDose",76361
+2021-12-06,2021-12-12,49,107,"Bezirk Meilen","completedBasicImmu",75248
+2021-12-06,2021-12-12,49,107,"Bezirk Meilen","booster",21835
+2021-12-06,2021-12-12,49,108,"Bezirk Pfaffikon","atLeastOneDose",39330
+2021-12-06,2021-12-12,49,108,"Bezirk Pfaffikon","completedBasicImmu",38410
+2021-12-06,2021-12-12,49,108,"Bezirk Pfaffikon","booster",9641
+2021-12-06,2021-12-12,49,109,"Bezirk Uster","atLeastOneDose",92180
+2021-12-06,2021-12-12,49,109,"Bezirk Uster","completedBasicImmu",89819
+2021-12-06,2021-12-12,49,109,"Bezirk Uster","booster",21653
+2021-12-06,2021-12-12,49,110,"Bezirk Winterthur","atLeastOneDose",116871
+2021-12-06,2021-12-12,49,110,"Bezirk Winterthur","completedBasicImmu",114314
+2021-12-06,2021-12-12,49,110,"Bezirk Winterthur","booster",29521
+2021-12-06,2021-12-12,49,111,"Bezirk Dietikon","atLeastOneDose",61409
+2021-12-06,2021-12-12,49,111,"Bezirk Dietikon","completedBasicImmu",59924
+2021-12-06,2021-12-12,49,111,"Bezirk Dietikon","booster",12435
+2021-12-06,2021-12-12,49,112,"Bezirk Zurich","atLeastOneDose",309612
+2021-12-06,2021-12-12,49,112,"Bezirk Zurich","completedBasicImmu",304174
+2021-12-06,2021-12-12,49,112,"Bezirk Zurich","booster",63661
+2021-12-06,2021-12-12,49,NA,"andere Kantone","atLeastOneDose",9121
+2021-12-06,2021-12-12,49,NA,"andere Kantone","completedBasicImmu",8875
+2021-12-06,2021-12-12,49,NA,"andere Kantone","booster",1431
+2021-12-06,2021-12-12,49,NA,"Nachbarkantone","atLeastOneDose",32855
+2021-12-06,2021-12-12,49,NA,"Nachbarkantone","completedBasicImmu",31757
+2021-12-06,2021-12-12,49,NA,"Nachbarkantone","booster",6346
+2021-12-06,2021-12-12,49,NA,"unbekannt","atLeastOneDose",6172
+2021-12-06,2021-12-12,49,NA,"unbekannt","completedBasicImmu",5906
+2021-12-06,2021-12-12,49,NA,"unbekannt","booster",1221
+2021-12-06,2021-12-12,49,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3773
+2021-12-06,2021-12-12,49,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",25476
+2021-12-06,2021-12-12,49,NA,"ZH aber ausserkantonal geimpft","booster",5546
+2021-12-13,2021-12-19,50,101,"Bezirk Affoltern","atLeastOneDose",36287
+2021-12-13,2021-12-19,50,101,"Bezirk Affoltern","completedBasicImmu",35413
+2021-12-13,2021-12-19,50,101,"Bezirk Affoltern","booster",12380
+2021-12-13,2021-12-19,50,102,"Bezirk Andelfingen","atLeastOneDose",19524
+2021-12-13,2021-12-19,50,102,"Bezirk Andelfingen","completedBasicImmu",19183
+2021-12-13,2021-12-19,50,102,"Bezirk Andelfingen","booster",6292
+2021-12-13,2021-12-19,50,103,"Bezirk Bulach","atLeastOneDose",104803
+2021-12-13,2021-12-19,50,103,"Bezirk Bulach","completedBasicImmu",102556
+2021-12-13,2021-12-19,50,103,"Bezirk Bulach","booster",31473
+2021-12-13,2021-12-19,50,104,"Bezirk Dielsdorf","atLeastOneDose",59961
+2021-12-13,2021-12-19,50,104,"Bezirk Dielsdorf","completedBasicImmu",58443
+2021-12-13,2021-12-19,50,104,"Bezirk Dielsdorf","booster",16838
+2021-12-13,2021-12-19,50,105,"Bezirk Hinwil","atLeastOneDose",60913
+2021-12-13,2021-12-19,50,105,"Bezirk Hinwil","completedBasicImmu",59252
+2021-12-13,2021-12-19,50,105,"Bezirk Hinwil","booster",17896
+2021-12-13,2021-12-19,50,106,"Bezirk Horgen","atLeastOneDose",85512
+2021-12-13,2021-12-19,50,106,"Bezirk Horgen","completedBasicImmu",83952
+2021-12-13,2021-12-19,50,106,"Bezirk Horgen","booster",27125
+2021-12-13,2021-12-19,50,107,"Bezirk Meilen","atLeastOneDose",76612
+2021-12-13,2021-12-19,50,107,"Bezirk Meilen","completedBasicImmu",75542
+2021-12-13,2021-12-19,50,107,"Bezirk Meilen","booster",28564
+2021-12-13,2021-12-19,50,108,"Bezirk Pfaffikon","atLeastOneDose",39546
+2021-12-13,2021-12-19,50,108,"Bezirk Pfaffikon","completedBasicImmu",38624
+2021-12-13,2021-12-19,50,108,"Bezirk Pfaffikon","booster",12354
+2021-12-13,2021-12-19,50,109,"Bezirk Uster","atLeastOneDose",92624
+2021-12-13,2021-12-19,50,109,"Bezirk Uster","completedBasicImmu",90332
+2021-12-13,2021-12-19,50,109,"Bezirk Uster","booster",28838
+2021-12-13,2021-12-19,50,110,"Bezirk Winterthur","atLeastOneDose",117310
+2021-12-13,2021-12-19,50,110,"Bezirk Winterthur","completedBasicImmu",114775
+2021-12-13,2021-12-19,50,110,"Bezirk Winterthur","booster",35247
+2021-12-13,2021-12-19,50,111,"Bezirk Dietikon","atLeastOneDose",61657
+2021-12-13,2021-12-19,50,111,"Bezirk Dietikon","completedBasicImmu",60210
+2021-12-13,2021-12-19,50,111,"Bezirk Dietikon","booster",16379
+2021-12-13,2021-12-19,50,112,"Bezirk Zurich","atLeastOneDose",310776
+2021-12-13,2021-12-19,50,112,"Bezirk Zurich","completedBasicImmu",305582
+2021-12-13,2021-12-19,50,112,"Bezirk Zurich","booster",87539
+2021-12-13,2021-12-19,50,NA,"andere Kantone","atLeastOneDose",9209
+2021-12-13,2021-12-19,50,NA,"andere Kantone","completedBasicImmu",8953
+2021-12-13,2021-12-19,50,NA,"andere Kantone","booster",1902
+2021-12-13,2021-12-19,50,NA,"Nachbarkantone","atLeastOneDose",33102
+2021-12-13,2021-12-19,50,NA,"Nachbarkantone","completedBasicImmu",31981
+2021-12-13,2021-12-19,50,NA,"Nachbarkantone","booster",8527
+2021-12-13,2021-12-19,50,NA,"unbekannt","atLeastOneDose",6217
+2021-12-13,2021-12-19,50,NA,"unbekannt","completedBasicImmu",5952
+2021-12-13,2021-12-19,50,NA,"unbekannt","booster",1546
+2021-12-13,2021-12-19,50,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",3962
+2021-12-13,2021-12-19,50,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",25744
+2021-12-13,2021-12-19,50,NA,"ZH aber ausserkantonal geimpft","booster",7677
+2021-12-20,2021-12-26,51,101,"Bezirk Affoltern","atLeastOneDose",36377
+2021-12-20,2021-12-26,51,101,"Bezirk Affoltern","completedBasicImmu",35567
+2021-12-20,2021-12-26,51,101,"Bezirk Affoltern","booster",14235
+2021-12-20,2021-12-26,51,102,"Bezirk Andelfingen","atLeastOneDose",19562
+2021-12-20,2021-12-26,51,102,"Bezirk Andelfingen","completedBasicImmu",19222
+2021-12-20,2021-12-26,51,102,"Bezirk Andelfingen","booster",6993
+2021-12-20,2021-12-26,51,103,"Bezirk Bulach","atLeastOneDose",105147
+2021-12-20,2021-12-26,51,103,"Bezirk Bulach","completedBasicImmu",102915
+2021-12-20,2021-12-26,51,103,"Bezirk Bulach","booster",36275
+2021-12-20,2021-12-26,51,104,"Bezirk Dielsdorf","atLeastOneDose",60154
+2021-12-20,2021-12-26,51,104,"Bezirk Dielsdorf","completedBasicImmu",58663
+2021-12-20,2021-12-26,51,104,"Bezirk Dielsdorf","booster",19630
+2021-12-20,2021-12-26,51,105,"Bezirk Hinwil","atLeastOneDose",61118
+2021-12-20,2021-12-26,51,105,"Bezirk Hinwil","completedBasicImmu",59483
+2021-12-20,2021-12-26,51,105,"Bezirk Hinwil","booster",20901
+2021-12-20,2021-12-26,51,106,"Bezirk Horgen","atLeastOneDose",85722
+2021-12-20,2021-12-26,51,106,"Bezirk Horgen","completedBasicImmu",84180
+2021-12-20,2021-12-26,51,106,"Bezirk Horgen","booster",31592
+2021-12-20,2021-12-26,51,107,"Bezirk Meilen","atLeastOneDose",76760
+2021-12-20,2021-12-26,51,107,"Bezirk Meilen","completedBasicImmu",75705
+2021-12-20,2021-12-26,51,107,"Bezirk Meilen","booster",32835
+2021-12-20,2021-12-26,51,108,"Bezirk Pfaffikon","atLeastOneDose",39655
+2021-12-20,2021-12-26,51,108,"Bezirk Pfaffikon","completedBasicImmu",38753
+2021-12-20,2021-12-26,51,108,"Bezirk Pfaffikon","booster",14147
+2021-12-20,2021-12-26,51,109,"Bezirk Uster","atLeastOneDose",92871
+2021-12-20,2021-12-26,51,109,"Bezirk Uster","completedBasicImmu",90663
+2021-12-20,2021-12-26,51,109,"Bezirk Uster","booster",33716
+2021-12-20,2021-12-26,51,110,"Bezirk Winterthur","atLeastOneDose",117640
+2021-12-20,2021-12-26,51,110,"Bezirk Winterthur","completedBasicImmu",115098
+2021-12-20,2021-12-26,51,110,"Bezirk Winterthur","booster",39414
+2021-12-20,2021-12-26,51,111,"Bezirk Dietikon","atLeastOneDose",61828
+2021-12-20,2021-12-26,51,111,"Bezirk Dietikon","completedBasicImmu",60398
+2021-12-20,2021-12-26,51,111,"Bezirk Dietikon","booster",19387
+2021-12-20,2021-12-26,51,112,"Bezirk Zurich","atLeastOneDose",311539
+2021-12-20,2021-12-26,51,112,"Bezirk Zurich","completedBasicImmu",306451
+2021-12-20,2021-12-26,51,112,"Bezirk Zurich","booster",107138
+2021-12-20,2021-12-26,51,NA,"andere Kantone","atLeastOneDose",9263
+2021-12-20,2021-12-26,51,NA,"andere Kantone","completedBasicImmu",9014
+2021-12-20,2021-12-26,51,NA,"andere Kantone","booster",2313
+2021-12-20,2021-12-26,51,NA,"Nachbarkantone","atLeastOneDose",33224
+2021-12-20,2021-12-26,51,NA,"Nachbarkantone","completedBasicImmu",32201
+2021-12-20,2021-12-26,51,NA,"Nachbarkantone","booster",10351
+2021-12-20,2021-12-26,51,NA,"unbekannt","atLeastOneDose",6235
+2021-12-20,2021-12-26,51,NA,"unbekannt","completedBasicImmu",5989
+2021-12-20,2021-12-26,51,NA,"unbekannt","booster",1770
+2021-12-20,2021-12-26,51,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",4108
+2021-12-20,2021-12-26,51,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",25954
+2021-12-20,2021-12-26,51,NA,"ZH aber ausserkantonal geimpft","booster",9730
+2021-12-27,2022-01-02,52,101,"Bezirk Affoltern","atLeastOneDose",36442
+2021-12-27,2022-01-02,52,101,"Bezirk Affoltern","completedBasicImmu",35705
+2021-12-27,2022-01-02,52,101,"Bezirk Affoltern","booster",16189
+2021-12-27,2022-01-02,52,102,"Bezirk Andelfingen","atLeastOneDose",19590
+2021-12-27,2022-01-02,52,102,"Bezirk Andelfingen","completedBasicImmu",19262
+2021-12-27,2022-01-02,52,102,"Bezirk Andelfingen","booster",7735
+2021-12-27,2022-01-02,52,103,"Bezirk Bulach","atLeastOneDose",105421
+2021-12-27,2022-01-02,52,103,"Bezirk Bulach","completedBasicImmu",103235
+2021-12-27,2022-01-02,52,103,"Bezirk Bulach","booster",42038
+2021-12-27,2022-01-02,52,104,"Bezirk Dielsdorf","atLeastOneDose",60304
+2021-12-27,2022-01-02,52,104,"Bezirk Dielsdorf","completedBasicImmu",58814
+2021-12-27,2022-01-02,52,104,"Bezirk Dielsdorf","booster",22601
+2021-12-27,2022-01-02,52,105,"Bezirk Hinwil","atLeastOneDose",61293
+2021-12-27,2022-01-02,52,105,"Bezirk Hinwil","completedBasicImmu",59706
+2021-12-27,2022-01-02,52,105,"Bezirk Hinwil","booster",23874
+2021-12-27,2022-01-02,52,106,"Bezirk Horgen","atLeastOneDose",85871
+2021-12-27,2022-01-02,52,106,"Bezirk Horgen","completedBasicImmu",84354
+2021-12-27,2022-01-02,52,106,"Bezirk Horgen","booster",35677
+2021-12-27,2022-01-02,52,107,"Bezirk Meilen","atLeastOneDose",76879
+2021-12-27,2022-01-02,52,107,"Bezirk Meilen","completedBasicImmu",75836
+2021-12-27,2022-01-02,52,107,"Bezirk Meilen","booster",37353
+2021-12-27,2022-01-02,52,108,"Bezirk Pfaffikon","atLeastOneDose",39758
+2021-12-27,2022-01-02,52,108,"Bezirk Pfaffikon","completedBasicImmu",38907
+2021-12-27,2022-01-02,52,108,"Bezirk Pfaffikon","booster",16162
+2021-12-27,2022-01-02,52,109,"Bezirk Uster","atLeastOneDose",93045
+2021-12-27,2022-01-02,52,109,"Bezirk Uster","completedBasicImmu",90999
+2021-12-27,2022-01-02,52,109,"Bezirk Uster","booster",39919
+2021-12-27,2022-01-02,52,110,"Bezirk Winterthur","atLeastOneDose",117885
+2021-12-27,2022-01-02,52,110,"Bezirk Winterthur","completedBasicImmu",115374
+2021-12-27,2022-01-02,52,110,"Bezirk Winterthur","booster",43532
+2021-12-27,2022-01-02,52,111,"Bezirk Dietikon","atLeastOneDose",61979
+2021-12-27,2022-01-02,52,111,"Bezirk Dietikon","completedBasicImmu",60568
+2021-12-27,2022-01-02,52,111,"Bezirk Dietikon","booster",22385
+2021-12-27,2022-01-02,52,112,"Bezirk Zurich","atLeastOneDose",312085
+2021-12-27,2022-01-02,52,112,"Bezirk Zurich","completedBasicImmu",307119
+2021-12-27,2022-01-02,52,112,"Bezirk Zurich","booster",126339
+2021-12-27,2022-01-02,52,NA,"andere Kantone","atLeastOneDose",9280
+2021-12-27,2022-01-02,52,NA,"andere Kantone","completedBasicImmu",9038
+2021-12-27,2022-01-02,52,NA,"andere Kantone","booster",2642
+2021-12-27,2022-01-02,52,NA,"Nachbarkantone","atLeastOneDose",33337
+2021-12-27,2022-01-02,52,NA,"Nachbarkantone","completedBasicImmu",32322
+2021-12-27,2022-01-02,52,NA,"Nachbarkantone","booster",11938
+2021-12-27,2022-01-02,52,NA,"unbekannt","atLeastOneDose",6253
+2021-12-27,2022-01-02,52,NA,"unbekannt","completedBasicImmu",6009
+2021-12-27,2022-01-02,52,NA,"unbekannt","booster",1993
+2021-12-27,2022-01-02,52,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",4218
+2021-12-27,2022-01-02,52,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",26160
+2021-12-27,2022-01-02,52,NA,"ZH aber ausserkantonal geimpft","booster",11366
+2022-01-03,2022-01-09,1,101,"Bezirk Affoltern","atLeastOneDose",36572
+2022-01-03,2022-01-09,1,101,"Bezirk Affoltern","completedBasicImmu",35951
+2022-01-03,2022-01-09,1,101,"Bezirk Affoltern","booster",19573
+2022-01-03,2022-01-09,1,102,"Bezirk Andelfingen","atLeastOneDose",19653
+2022-01-03,2022-01-09,1,102,"Bezirk Andelfingen","completedBasicImmu",19371
+2022-01-03,2022-01-09,1,102,"Bezirk Andelfingen","booster",9252
+2022-01-03,2022-01-09,1,103,"Bezirk Bulach","atLeastOneDose",105830
+2022-01-03,2022-01-09,1,103,"Bezirk Bulach","completedBasicImmu",103771
+2022-01-03,2022-01-09,1,103,"Bezirk Bulach","booster",51866
+2022-01-03,2022-01-09,1,104,"Bezirk Dielsdorf","atLeastOneDose",60554
+2022-01-03,2022-01-09,1,104,"Bezirk Dielsdorf","completedBasicImmu",59112
+2022-01-03,2022-01-09,1,104,"Bezirk Dielsdorf","booster",27872
+2022-01-03,2022-01-09,1,105,"Bezirk Hinwil","atLeastOneDose",61599
+2022-01-03,2022-01-09,1,105,"Bezirk Hinwil","completedBasicImmu",60140
+2022-01-03,2022-01-09,1,105,"Bezirk Hinwil","booster",28705
+2022-01-03,2022-01-09,1,106,"Bezirk Horgen","atLeastOneDose",86271
+2022-01-03,2022-01-09,1,106,"Bezirk Horgen","completedBasicImmu",84730
+2022-01-03,2022-01-09,1,106,"Bezirk Horgen","booster",42703
+2022-01-03,2022-01-09,1,107,"Bezirk Meilen","atLeastOneDose",77372
+2022-01-03,2022-01-09,1,107,"Bezirk Meilen","completedBasicImmu",76093
+2022-01-03,2022-01-09,1,107,"Bezirk Meilen","booster",44018
+2022-01-03,2022-01-09,1,108,"Bezirk Pfaffikon","atLeastOneDose",39971
+2022-01-03,2022-01-09,1,108,"Bezirk Pfaffikon","completedBasicImmu",39190
+2022-01-03,2022-01-09,1,108,"Bezirk Pfaffikon","booster",19382
+2022-01-03,2022-01-09,1,109,"Bezirk Uster","atLeastOneDose",93739
+2022-01-03,2022-01-09,1,109,"Bezirk Uster","completedBasicImmu",91552
+2022-01-03,2022-01-09,1,109,"Bezirk Uster","booster",48236
+2022-01-03,2022-01-09,1,110,"Bezirk Winterthur","atLeastOneDose",118566
+2022-01-03,2022-01-09,1,110,"Bezirk Winterthur","completedBasicImmu",116330
+2022-01-03,2022-01-09,1,110,"Bezirk Winterthur","booster",52138
+2022-01-03,2022-01-09,1,111,"Bezirk Dietikon","atLeastOneDose",62194
+2022-01-03,2022-01-09,1,111,"Bezirk Dietikon","completedBasicImmu",60864
+2022-01-03,2022-01-09,1,111,"Bezirk Dietikon","booster",26508
+2022-01-03,2022-01-09,1,112,"Bezirk Zurich","atLeastOneDose",313487
+2022-01-03,2022-01-09,1,112,"Bezirk Zurich","completedBasicImmu",308272
+2022-01-03,2022-01-09,1,112,"Bezirk Zurich","booster",154079
+2022-01-03,2022-01-09,1,NA,"andere Kantone","atLeastOneDose",9314
+2022-01-03,2022-01-09,1,NA,"andere Kantone","completedBasicImmu",9092
+2022-01-03,2022-01-09,1,NA,"andere Kantone","booster",3155
+2022-01-03,2022-01-09,1,NA,"Nachbarkantone","atLeastOneDose",33480
+2022-01-03,2022-01-09,1,NA,"Nachbarkantone","completedBasicImmu",32553
+2022-01-03,2022-01-09,1,NA,"Nachbarkantone","booster",13987
+2022-01-03,2022-01-09,1,NA,"unbekannt","atLeastOneDose",6291
+2022-01-03,2022-01-09,1,NA,"unbekannt","completedBasicImmu",6050
+2022-01-03,2022-01-09,1,NA,"unbekannt","booster",2370
+2022-01-03,2022-01-09,1,NA,"ZH aber ausserkantonal geimpft","atLeastOneDose",4474
+2022-01-03,2022-01-09,1,NA,"ZH aber ausserkantonal geimpft","completedBasicImmu",26434
+2022-01-03,2022-01-09,1,NA,"ZH aber ausserkantonal geimpft","booster",12745
