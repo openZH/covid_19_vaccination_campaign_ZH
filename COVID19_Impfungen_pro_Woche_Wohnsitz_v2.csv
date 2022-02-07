@@ -2591,3 +2591,54 @@ week_from,week_until,calendar_week,bfsNumber,residence,vacc_status,nCumul
 2022-01-24,2022-01-30,4,NA,ZH aber ausserkantonal geimpft,atLeastOneDose,4925
 2022-01-24,2022-01-30,4,NA,ZH aber ausserkantonal geimpft,completedBasicImmu,26911
 2022-01-24,2022-01-30,4,NA,ZH aber ausserkantonal geimpft,booster,15012
+2022-01-31,2022-02-06,5,101,Bezirk Affoltern,atLeastOneDose,37119
+2022-01-31,2022-02-06,5,101,Bezirk Affoltern,completedBasicImmu,36407
+2022-01-31,2022-02-06,5,101,Bezirk Affoltern,booster,24559
+2022-01-31,2022-02-06,5,102,Bezirk Andelfingen,atLeastOneDose,19879
+2022-01-31,2022-02-06,5,102,Bezirk Andelfingen,completedBasicImmu,19513
+2022-01-31,2022-02-06,5,102,Bezirk Andelfingen,booster,12754
+2022-01-31,2022-02-06,5,103,Bezirk Bulach,atLeastOneDose,107325
+2022-01-31,2022-02-06,5,103,Bezirk Bulach,completedBasicImmu,105162
+2022-01-31,2022-02-06,5,103,Bezirk Bulach,booster,66239
+2022-01-31,2022-02-06,5,104,Bezirk Dielsdorf,atLeastOneDose,61265
+2022-01-31,2022-02-06,5,104,Bezirk Dielsdorf,completedBasicImmu,59987
+2022-01-31,2022-02-06,5,104,Bezirk Dielsdorf,booster,36422
+2022-01-31,2022-02-06,5,105,Bezirk Hinwil,atLeastOneDose,62390
+2022-01-31,2022-02-06,5,105,Bezirk Hinwil,completedBasicImmu,61114
+2022-01-31,2022-02-06,5,105,Bezirk Hinwil,booster,37611
+2022-01-31,2022-02-06,5,106,Bezirk Horgen,atLeastOneDose,87868
+2022-01-31,2022-02-06,5,106,Bezirk Horgen,completedBasicImmu,85675
+2022-01-31,2022-02-06,5,106,Bezirk Horgen,booster,57585
+2022-01-31,2022-02-06,5,107,Bezirk Meilen,atLeastOneDose,78715
+2022-01-31,2022-02-06,5,107,Bezirk Meilen,completedBasicImmu,77060
+2022-01-31,2022-02-06,5,107,Bezirk Meilen,booster,54538
+2022-01-31,2022-02-06,5,108,Bezirk Pfaffikon,atLeastOneDose,40526
+2022-01-31,2022-02-06,5,108,Bezirk Pfaffikon,completedBasicImmu,39782
+2022-01-31,2022-02-06,5,108,Bezirk Pfaffikon,booster,25178
+2022-01-31,2022-02-06,5,109,Bezirk Uster,atLeastOneDose,95047
+2022-01-31,2022-02-06,5,109,Bezirk Uster,completedBasicImmu,92885
+2022-01-31,2022-02-06,5,109,Bezirk Uster,booster,60615
+2022-01-31,2022-02-06,5,110,Bezirk Winterthur,atLeastOneDose,120355
+2022-01-31,2022-02-06,5,110,Bezirk Winterthur,completedBasicImmu,117837
+2022-01-31,2022-02-06,5,110,Bezirk Winterthur,booster,75086
+2022-01-31,2022-02-06,5,111,Bezirk Dietikon,atLeastOneDose,62864
+2022-01-31,2022-02-06,5,111,Bezirk Dietikon,completedBasicImmu,61636
+2022-01-31,2022-02-06,5,111,Bezirk Dietikon,booster,36604
+2022-01-31,2022-02-06,5,112,Bezirk Zurich,atLeastOneDose,318121
+2022-01-31,2022-02-06,5,112,Bezirk Zurich,completedBasicImmu,311692
+2022-01-31,2022-02-06,5,112,Bezirk Zurich,booster,207555
+2022-01-31,2022-02-06,5,NA,andere Kantone,atLeastOneDose,9471
+2022-01-31,2022-02-06,5,NA,andere Kantone,completedBasicImmu,9318
+2022-01-31,2022-02-06,5,NA,andere Kantone,booster,4150
+2022-01-31,2022-02-06,5,NA,Nachbarkantone,atLeastOneDose,33983
+2022-01-31,2022-02-06,5,NA,Nachbarkantone,completedBasicImmu,33280
+2022-01-31,2022-02-06,5,NA,Nachbarkantone,booster,18421
+2022-01-31,2022-02-06,5,NA,unbekannt,atLeastOneDose,6329
+2022-01-31,2022-02-06,5,NA,unbekannt,completedBasicImmu,6101
+2022-01-31,2022-02-06,5,NA,unbekannt,booster,3172
+2022-01-31,2022-02-06,5,NA,ZH aber ausserkantonal geimpft,atLeastOneDose,4783
+2022-01-31,2022-02-06,5,NA,ZH aber ausserkantonal geimpft,completedBasicImmu,27133
+2022-01-31,2022-02-06,5,NA,ZH aber ausserkantonal geimpft,booster,15368
+2022-01-31,2022-02-06,5,NA,NA,atLeastOneDose,0
+2022-01-31,2022-02-06,5,NA,NA,completedBasicImmu,0
+2022-01-31,2022-02-06,5,NA,NA,booster,0
