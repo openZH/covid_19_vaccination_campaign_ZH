@@ -23,7 +23,7 @@ __Please note:__ <br>
 - Values that cannot (yet) be assigned or are obviously incorrectly entered are set to 'NA'. <br>
 
 ### Update
-Data resources in this repository are updated on weekdays by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ according to the specifications below; i.e. (a) once a day respectively (b) once per week.
+Data resources in this repository are updated once per week (on Wednesday) by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__.
 
 ### Contact
 
@@ -112,7 +112,7 @@ Many thanks for your feedback!
 
 >**https://raw.githubusercontent.com/openZH/covid_19_vaccination_campaign_ZH/master/COVID19_Impfungen_pro_Datum_Altersklasse_Geschlecht.csv** <br>
 >*Description:* detailed numbers (1st vaccination, 2nd vaccination) per day, 10-year age groups, gender <br>
->*Update frequency:* daily (on weekdays) <br>
+>*Update frequency:* weekly <br>
 >*Spatial unit:* Canton of Zurich <br>
 >*Format:* csv <br>
 
