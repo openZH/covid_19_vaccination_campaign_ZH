@@ -23,7 +23,7 @@ __Please note:__ <br>
 - Values that cannot (yet) be assigned or are obviously incorrectly entered are set to 'NA'. <br>
 
 ### Update
-Data resources in this repository are updated once per week (on Wednesday) by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__.
+Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (2022/10/12).
 
 ### Contact
 
