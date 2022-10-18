@@ -5,6 +5,7 @@
 [![GitHub commit](https://img.shields.io/github/last-commit/openZH/covid_19)](https://github.com/openZH/covid_19_vaccination_campaign_ZH/commits/master)
 
 __Please note:__ <br>
+- Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (since 2022-10-12). Useful, updated data is available from the __Federal Office of Public Health (FOPH)__ as referenced [in the section 'Scope' above](https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master#scope).
 - Data structure, variables and acccess URLs of all four data resources changed to version v2 from 2021-01-12 onwards. All changes in detail: https://github.com/openZH/covid_19_vaccination_campaign_ZH/discussions/8 <br>
 
 # Sars-Cov-2 vaccination campaign data reported by the Canton of Zurich
@@ -23,7 +24,7 @@ __Please note:__ <br>
 - Values that cannot (yet) be assigned or are obviously incorrectly entered are set to 'NA'. <br>
 
 ### Update
-Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (since 2022/10/12). Useful, updated data is available from the Federal Office of Public Health (FOPH) as referenced [in the section 'Scope' above](https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master#scope).
+Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (since 2022-10-12). Useful, updated data is available from the Federal Office of Public Health (FOPH) as referenced [in the section 'Scope' above](https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master#scope).
 
 ### Contact
 
