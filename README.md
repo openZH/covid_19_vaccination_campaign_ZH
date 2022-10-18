@@ -23,7 +23,7 @@ __Please note:__ <br>
 - Values that cannot (yet) be assigned or are obviously incorrectly entered are set to 'NA'. <br>
 
 ### Update
-Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (2022/10/12).
+Data resources in this repository by the __Division for Data Analysis of the Office of Health Care of the Canton of Zurich__ are paused (since 2022/10/12). Useful, updated data is available from the Federal Office of Public Health (FOPH) as [referenced here](https://github.com/openZH/covid_19_vaccination_campaign_ZH/tree/master#scope).
 
 ### Contact
 
